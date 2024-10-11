@@ -1,0 +1,521 @@
+{
+  "I.A": {
+    "description": "Recognition, promotion, and advocacy of menarche, pregnancy, birth, and menopause as normal physiologic and developmental processes"
+  },
+  "I.B": {
+    "description": "Advocacy of non-intervention in physiologic processes in the absence of complications"
+  },
+  "I.C": {
+    "description": "Incorporation of evidence-based care into clinical practice"
+  },
+  "I.D": {
+    "description": "Promotion of person-centered care for all, which respects and is inclusive of diverse histories, backgrounds, and identities"
+  },
+  "I.E": {
+    "description": "Empowerment of women and persons seeking midwifery care as partners in health care"
+  },
+  "I.F": {
+    "description": "Facilitation of healthy family and interpersonal relationships"
+  },
+  "I.G": {
+    "description": "Promotion of continuity of care"
+  },
+  "I.H": {
+    "description": "Utilization of health promotion, disease prevention, and health education"
+  },
+  "I.I": {
+    "description": "Application of a public health perspective"
+  },
+  "I.J": {
+    "description": "Utilizing an understanding of social determinants of health to provide high-quality care to all persons including those from underserved communities"
+  },
+  "I.K": {
+    "description": "Advocating for informed choice, shared decision making, and the right to self-determination"
+  },
+  "I.L": {
+    "description": "Integration of cultural safety into all care encounters"
+  },
+  "I.M": {
+    "description": "Incorporation of evidence-based integrative therapies"
+  },
+  "I.N": {
+    "description": "Skillful communication, guidance, and counseling"
+  },
+  "I.O": {
+    "description": "Acknowledgment of the therapeutic value of human presence"
+  },
+  "I.P": {
+    "description": "Ability to collaborate with and refer to other members of the interprofessional health care team"
+  },
+  "I.Q": {
+    "description": "Ability to provide safe and effective care across settings including home, birth center, hospital, or any other maternity care service"
+  },
+  "II.A": {
+    "description": "Promotion of the hallmarks of midwifery"
+  },
+  "II.B": {
+    "description": "Knowledge of the diverse history of midwifery"
+  },
+  "II.C": {
+    "description": "Knowledge of the legal basis for practice"
+  },
+  "II.D": {
+    "description": "Knowledge of national and international issues and trends in women's, TGNC, perinatal, and neonatal care"
+  },
+  "II.E": {
+    "description": "Support for legislation and policy initiatives that promote quality health care"
+  },
+  "II.F": {
+    "description": "Knowledge of health disparities"
+  },
+  "II.G": {
+    "description": "Knowledge of issues and trends in health care policy and systems"
+  },
+  "II.H": {
+    "description": "Advocacy for health equity, social justice, and ethical policies in health care"
+  },
+  "II.I": {
+    "description": "Appropriate use of technology and informatics to improve the quality and safety of health care"
+  },
+  "II.J": {
+    "description": "Broad understanding of the bioethics related to the care of women, TGNC individuals, neonates, and families"
+  },
+  "II.K": {
+    "description": "Practice in accordance with the ACNM Philosophy, Standards, and Code of Ethics"
+  },
+  "II.L": {
+    "description": "Ability to evaluate, apply, interpret, and collaborate in research"
+  },
+  "II.M": {
+    "description": "Participation in self-evaluation, peer review, lifelong learning, and other activities that ensure and validate quality practice"
+  },
+  "II.N": {
+    "description": "Development of critical thinking and leadership skills"
+  },
+  "II.O": {
+    "description": "Knowledge of certification, licensure, clinical privileges, and credentialing"
+  },
+  "II.P": {
+    "description": "Knowledge of practice management and finances"
+  },
+  "II.Q": {
+    "description": "Promotion of the profession of midwifery, including participation in the professional organization at the local and national level"
+  },
+  "II.R": {
+    "description": "Support of the profession\u0092s growth by understanding the importance of precepting midwifery students and demonstrating basic teaching skills"
+  },
+  "II.S": {
+    "description": "Knowledge of the structure and function of ACNM"
+  },
+  "II.T": {
+    "description": "Ability to consult, collaborate, and refer with other health care professionals as part of a health care team"
+  },
+  "III.A": {
+    "description": "Obtains all necessary data for the complete evaluation of the client"
+  },
+  "III.B": {
+    "description": "Identifies problems or diagnoses and health care needs based on correct interpretation of the subjective and objective data"
+  },
+  "III.C": {
+    "description": "Anticipates potential problems or diagnoses that may be expected based on the identified risk factors"
+  },
+  "III.D": {
+    "description": "Evaluates the need for immediate intervention and/or consultation, collaborative management, or referral to other health care team members as dictated by the condition of the client"
+  },
+  "III.E": {
+    "description": "Develops a comprehensive evidence-based plan of care in partnership with the client that is supported by a valid rationale, is based on the preceding steps, and includes therapeutics as indicated"
+  },
+  "III.F": {
+    "description": "Assumes responsibility for the safe and efficient implementation of a evidenced-based plan of care including the provision of treatments and interventions as indicated"
+  },
+  "III.G": {
+    "description": "Evaluates effectiveness of the treatments and/or interventions, which includes repeating the management process as needed"
+  },
+  "IV.A": {
+    "description": "Anatomy and physiology, including pathophysiology"
+  },
+  "IV.B": {
+    "description": "Normal physical, psychological, emotional, social, and behavioral development, including growth and development related to gender identity, sexual development, sexuality, and sexual orientation"
+  },
+  "IV.C": {
+    "description": "Reproductive and perinatal epidemiology and basic epidemiologic methods relevant to midwifery practice"
+  },
+  "IV.D": {
+    "description": "Research and evidence-based practice"
+  },
+  "IV.E": {
+    "description": "Nutrition and physical activity"
+  },
+  "IV.F": {
+    "description": "Pharmacokinetics and pharmacotherapeutics"
+  },
+  "IV.G": {
+    "description": "Principles of individual and group health education and counseling"
+  },
+  "IV.H": {
+    "description": "Health care ethics"
+  },
+  "IV.I": {
+    "description": "Clinical genetics and genomics"
+  },
+  "IV.J": {
+    "description": "Diversity, equity, and inclusion"
+  },
+  "V.A": {
+    "description": "A midwife demonstrates the knowledge, skills, and abilities to provide primary care of the individuals they serve, including but not limited to:"
+  },
+  "V.A.1": {
+    "description": "Applies nationally defined goals and objectives for health promotion and disease prevention"
+  },
+  "V.A.2": {
+    "description": "Provides age-appropriate physical, mental, genetic, environmental, sexual, and social health assessment"
+  },
+  "V.A.3": {
+    "description": "Utilizes nationally defined screening and immunization recommendations to promote health and detect and prevent diseases"
+  },
+  "V.A.4": {
+    "description": "Applies management strategies and therapeutics to facilitate health and promote healthy behaviors"
+  },
+  "V.A.5": {
+    "description": "Utilizes advanced health assessment skills to identify normal and deviations from normal in the following systems"
+  },
+  "V.A.5.a": {
+    "description": "Breast"
+  },
+  "V.A.5.b": {
+    "description": "Cardiovascular and hematologic"
+  },
+  "V.A.5.c": {
+    "description": "Dermatologic"
+  },
+  "V.A.5.d": {
+    "description": "Endocrine"
+  },
+  "V.A.5.e": {
+    "description": "Eye, ear, nose, oral cavity, and throat"
+  },
+  "V.A.5.f": {
+    "description": "Gastrointestinal"
+  },
+  "V.A.5.g": {
+    "description": "Genitourinary"
+  },
+  "V.A.5.h": {
+    "description": "Mental health"
+  },
+  "V.A.5.i": {
+    "description": "Musculoskeletal"
+  },
+  "V.A.5.j": {
+    "description": "Neurologic"
+  },
+  "V.A.5.k": {
+    "description": "Respiratory"
+  },
+  "V.A.5.l": {
+    "description": "Renal"
+  },
+  "V.A.6": {
+    "description": "Applies management strategies and therapeutics for the treatment of common health problems and deviations from normal, including infections, self-limited conditions, and mild and/or stable presentations of chronic conditions, utilizing consultation, collaboration, and/or referral to appropriate health care services as indicated"
+  },
+  "V.A.7": {
+    "description": "Assesses for safety, including dysfunctional interpersonal relationships, sexual abuse and assault, intimate partner violence, structural violence, emotional abuse, and physical neglect"
+  },
+  "V.B": {
+    "description": "A midwife demonstrates the knowledge, skills, and abilities to provide preconception care, including but not limited to:"
+  },
+  "V.B.1": {
+    "description": "Performs thorough evaluation including complete health history, dental history, family history, relevant genetic history, and physical exam"
+  },
+  "V.B.2": {
+    "description": "Assesses individual and family readiness for pregnancy, including physical, emotional, psychological, social, cultural, and sexual factors"
+  },
+  "V.B.3": {
+    "description": "Identifies and provides appropriate counseling and education related to modifiable and non-modifiable risk factors, including but not limited to immunization status, environmental and occupational factors, nutrition, medications, mental health, personal safety, travel, lifestyle, family, genetic, and genomic risk"
+  },
+  "V.B.4": {
+    "description": "Performs health and laboratory screenings"
+  },
+  "V.B.5": {
+    "description": "Counsels regarding fertility awareness, cycle charting, signs and symptoms of pregnancy, pregnancy spacing, and timing of discontinuation of contraceptive method"
+  },
+  "V.B.6": {
+    "description": "Addresses infertility, gamete banking, and assisted reproductive technology, utilizing consultation, collaboration, and/or referral as indicated"
+  },
+  "V.C": {
+    "description": "A midwife demonstrates the knowledge, skills, and abilities to provide comprehensive gynecologic/reproductive/sexual health care, including but not limited to:"
+  },
+  "V.C.1": {
+    "description": "Understands human sexuality, including biological sex, intersex conditions, gender identities and roles, sexual orientation, eroticism, intimacy, conception, and reproduction"
+  },
+  "V.C.2": {
+    "description": "Utilizes common screening tools and diagnostic tests, including those for hereditary cancers"
+  },
+  "V.C.3": {
+    "description": "Manages common gynecologic and urogynecologic problems"
+  },
+  "V.C.4": {
+    "description": "Provides comprehensive care for all available contraceptive methods"
+  },
+  "V.C.5": {
+    "description": "Screens for and treats sexually transmitted infections including partner evaluation, treatment, or referral as indicated"
+  },
+  "V.C.6": {
+    "description": "Provides counseling for sexual behaviors that promotes health and prevents disease"
+  },
+  "V.C.7": {
+    "description": "Understands the effects of menopause and aging on physical, mental, and sexual health"
+  },
+  "V.C.7.a": {
+    "description": "Initiates and/or refers for age and risk appropriate screening"
+  },
+  "V.C.7.b": {
+    "description": "Provides management and therapeutics for alleviation of common discomforts"
+  },
+  "V.C.8": {
+    "description": "Identifies deviations from normal and appropriate interventions, including management of complications and emergencies utilizing consultation, collaboration, and/or referral as indicated"
+  },
+  "V.D": {
+    "description": "A midwife demonstrates the knowledge, skills and abilities to provide care in the antepartum period, including but not limited to:"
+  },
+  "V.D.1": {
+    "description": "Confirmation and dating of pregnancy using evidence-based methods"
+  },
+  "V.D.2": {
+    "description": "Management of unplanned or undesired pregnancies, including:"
+  },
+  "V.D.2.a": {
+    "description": "Provision of or referral for options counseling, supporting individualized decision-making based on patient needs"
+  },
+  "V.D.2.b": {
+    "description": "Provision of or referral for medication abortion as consistent with the individual\u0092s ethics in support of patient autonomy and in line with state scope of practice and licensing statutes"
+  },
+  "V.D.2.c": {
+    "description": "Referral for aspiration or surgical abortion as indicated"
+  },
+  "V.D.3": {
+    "description": "Management of spontaneous abortion, including:"
+  },
+  "V.D.3.a": {
+    "description": "Recognizing threatened, inevitable, complete, or incomplete spontaneous abortion"
+  },
+  "V.D.3.b": {
+    "description": "Supporting physiologic processes for spontaneous abortion and addressing emotional support needs"
+  },
+  "V.D.3.c": {
+    "description": "Counseling, management, and/or referral for inevitable or incomplete spontaneous abortion, as appropriate - including options for medication management, aspiration, and surgical care procedures"
+  },
+  "V.D.3.d": {
+    "description": "Recognizing indications for and facilitating collaborative care or referral, as appropriate"
+  },
+  "V.D.3.e": {
+    "description": "Providing follow-up services for preconception or pregnancy prevention depending on patient need"
+  },
+  "V.D.4": {
+    "description": "Uses management strategies and therapeutics to promote normal pregnancy as indicated"
+  },
+  "V.D.5": {
+    "description": "Utilizes nationally defined screening tools and diagnostics as indicated"
+  },
+  "V.D.6": {
+    "description": "Educates client on the management of common discomforts of pregnancy"
+  },
+  "V.D.7": {
+    "description": "Examines the influence of environmental, cultural, and occupational factors, health habits, and maternal behaviors on pregnancy outcomes"
+  },
+  "V.D.8": {
+    "description": "Screens for health risks, including but not limited to intimate partner gender-based violence, infections, and substance use and/or dependency"
+  },
+  "V.D.9": {
+    "description": "Provides support and education regarding emotional, psychological, social, and sexual changes during pregnancy"
+  },
+  "V.D.10": {
+    "description": "Provides anticipatory guidance related to birth, lactation and infant feeding, parenthood, and change in the family constellation"
+  },
+  "V.D.11": {
+    "description": "Identifies deviations from normal and institutes appropriate interventions, including management of complications and emergencies"
+  },
+  "V.D.12": {
+    "description": "Applies knowledge of placental physiology, embryology, fetal development, and indicators of fetal well-being"
+  },
+  "V.E": {
+    "description": "A midwife demonstrates the knowledge, skills, and abilities to provide care in the intrapartum period, including but not limited to the following:"
+  },
+  "V.E.1": {
+    "description": "Confirms and assesses labor and its progress"
+  },
+  "V.E.2": {
+    "description": "Performs ongoing evaluation of the laboring person and fetus"
+  },
+  "V.E.3": {
+    "description": "Identifies deviations from normal and implements appropriate interventions, including management of:"
+  },
+  "V.E.3.a": {
+    "description": "Complications"
+  },
+  "V.E.3.b": {
+    "description": "Abnormal intrapartum events"
+  },
+  "V.E.3.c": {
+    "description": "Emergencies"
+  },
+  "V.E.4": {
+    "description": "Facilitates the process of physiologic labor and birth"
+  },
+  "V.E.5": {
+    "description": "Provides support for physical, psychological, emotional, spiritual, and social needs during labor and birth"
+  },
+  "V.E.6": {
+    "description": "Applies pharmacologic and non-pharmacologic strategies to facilitate coping of the person in labor"
+  },
+  "V.E.7": {
+    "description": "Performs the following skills independently:"
+  },
+  "V.E.7.a": {
+    "description": "Administration of local anesthesia"
+  },
+  "V.E.7.b": {
+    "description": "Management of spontaneous vaginal birth"
+  },
+  "V.E.7.c": {
+    "description": "Management of the third stage of labor"
+  },
+  "V.E.7.d": {
+    "description": "Episiotomy, as indicated"
+  },
+  "V.E.7.e": {
+    "description": "Repair of episiotomy, first and second-degree lacerations"
+  },
+  "V.F": {
+    "description": "A midwife demonstrates the knowledge, skills, and abilities to provide care in the period following pregnancy, including but not limited to:"
+  },
+  "V.F.1": {
+    "description": "Manages physical involution following pregnancy ending in spontaneous or induced abortion, preterm birth, or term birth"
+  },
+  "V.F.2": {
+    "description": "Utilizes management strategies and therapeutics to facilitate a healthy puerperium, including managing discomforts"
+  },
+  "V.F.3": {
+    "description": "Identification and management of postpartum mental health"
+  },
+  "V.F.4": {
+    "description": "Explains postpartum self-care"
+  },
+  "V.F.5": {
+    "description": "Discusses psychological, emotional, and social coping and healing following pregnancy"
+  },
+  "V.F.6": {
+    "description": "Counsels regarding the readjustment of significant relationships and roles"
+  },
+  "V.F.7": {
+    "description": "Facilitates the initiation, establishment, and continuation of lactation where indicated; and/or counseling about safe formula feeding when indicated"
+  },
+  "V.F.8": {
+    "description": "Advises regarding resumption of sexual activity, contraception, and pregnancy spacing"
+  },
+  "V.F.9": {
+    "description": "Identifies deviations from normal and appropriate interventions, including management of complications and emergencies"
+  },
+  "V.G": {
+    "description": "A midwife demonstrates the knowledge, skills, and abilities to independently manage the care of the well neonate (newborn immediately after birth and up to 28 days of life), including, but not limited to, the following:"
+  },
+  "V.G.1": {
+    "description": "Understands the effect of prenatal and fetal history and risk factors on the neonate"
+  },
+  "V.G.2": {
+    "description": "Prepares and plans for birth based on ongoing assessment"
+  },
+  "V.G.3": {
+    "description": "Utilizes methods to facilitate physiologic transition to extrauterine life that includes, but is not limited to, the following:"
+  },
+  "V.G.3.a": {
+    "description": "Establishment of respiration"
+  },
+  "V.G.3.b": {
+    "description": "Cardiac and hematologic stabilization, including cord clamping and cutting"
+  },
+  "V.G.3.c": {
+    "description": "Thermoregulation"
+  },
+  "V.G.3.d": {
+    "description": "Establishment of feeding and maintenance of normoglycemia"
+  },
+  "V.G.3.e": {
+    "description": "Bonding and attachment through prolonged contact with neonate"
+  },
+  "V.G.3.f": {
+    "description": "Identification of deviations from normal and their management"
+  },
+  "V.G.3.g": {
+    "description": "Emergency management, including resuscitation, stabilization, and consultation and referral as needed"
+  },
+  "V.G.4": {
+    "description": "Evaluates the neonate, including:"
+  },
+  "V.G.4.a": {
+    "description": "Initial physical and behavioral assessment of term and preterm neonates"
+  },
+  "V.G.4.b": {
+    "description": "Gestational age assessment"
+  },
+  "V.G.4.c": {
+    "description": "Ongoing assessment and management of term, well neonate during first 28 days"
+  },
+  "V.G.4.d": {
+    "description": "Identification of deviations from normal and consultation and/or referral to appropriate health services as indicated"
+  },
+  "V.G.5": {
+    "description": "Develops a plan in conjunction with the neonate\u0092s primary caregivers for care during the first 28 days of life, including the following nationally-defined goals and objectives for health promotion and disease prevention:"
+  },
+  "V.G.5.a": {
+    "description": "Teaching regarding normal behaviors and development to promote attachment"
+  },
+  "V.G.5.b": {
+    "description": "Feeding and weight gain, including management of common lactation and infant feeding problems"
+  },
+  "V.G.5.c": {
+    "description": "Normal daily care, interaction, and activity"
+  },
+  "V.G.5.d": {
+    "description": "Provision of preventative care that includes, but is not limited to:"
+  },
+  "V.G.5.d.i": {
+    "description": "Therapeutics according to local and national guidelines"
+  },
+  "V.G.5.d.ii": {
+    "description": "Testing and screening according to local and national guidelines"
+  },
+  "V.G.5.d.iii": {
+    "description": "Need for ongoing preventative health care with pediatric care providers"
+  },
+  "V.G.5.e": {
+    "description": "Safe integration of the neonate into the family and cultural unit"
+  },
+  "V.G.5.f": {
+    "description": "Provision of appropriate interventions and referrals for abnormal conditions, including, but not limited to:"
+  },
+  "V.G.5.f.i": {
+    "description": "Minor and severe congenital malformation"
+  },
+  "V.G.5.f.ii": {
+    "description": "Poor transition to extrauterine life"
+  },
+  "V.G.5.f.iii": {
+    "description": "Symptoms of infection"
+  },
+  "V.G.5.f.iv": {
+    "description": "Infants born to mothers with infections"
+  },
+  "V.G.5.f.v": {
+    "description": "Postpartum depression and its effect on the neonate"
+  },
+  "V.G.5.f.vi": {
+    "description": "Stillbirth"
+  },
+  "V.G.5.f.vii": {
+    "description": "Palliative care for conditions incompatible with life, including addressing the psychosocial needs of a grieving parent."
+  },
+  "V.G.5.g": {
+    "description": "Health education specific to the needs of the neonate and family"
+  }
+}
