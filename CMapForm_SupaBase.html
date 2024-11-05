@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ACNM COURSE ALIGNMENT FORM</title>
@@ -70,9 +71,10 @@
     }
   </style>
   <script type="module">
-  import { createClient } from '@supabase/supabase-js'
+  import { createClient } from '/@supabase/supabase-js'
+  
 const supabaseUrl = 'https://evujbkzrgqjzucxbhcud.supabase.co'
-const supabaseKey = process.env.SUPABASE_KEY;
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV2dWpia3pyZ3FqenVjeGJoY3VkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzA4MzQyMTcsImV4cCI6MjA0NjQxMDIxN30.Xgy5bi9uSYxEi3HhlEyv4Ej8OfIyaFBSol3PaSfZIdA'
 const supabase = createClient(supabaseUrl, supabaseKey);
 
     let data = {};
@@ -466,8 +468,9 @@ const supabase = createClient(supabaseUrl, supabaseKey);
         console.error("Unexpected error:", error);
         alert("An unexpected error occurred. Please try again.");
     }
+	});
 });
-  </script>
+</script>
 </head>
 <body>
   <div style="color: #00274C; text-align: left;">
