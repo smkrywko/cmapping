@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.0.0/dist/supabase.js"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ACNM COURSE ALIGNMENT FORM</title>
@@ -70,7 +69,8 @@
       margin-top: 10px;
     }
   </style>
-  <script>
+  <script type="module">
+  import { createClient } from '@supabase/supabase-js'
 const supabaseUrl = 'https://evujbkzrgqjzucxbhcud.supabase.co'
 const supabaseKey = process.env.SUPABASE_KEY;
 const supabase = createClient(supabaseUrl, supabaseKey);
