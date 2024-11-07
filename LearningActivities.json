@@ -1,9 +1,11 @@
 {
   "learningActivities": [
-    "Essay",
+    "Paper",
     "Project",
     "Simulation",
     "Case Study",
-    "Presentation"
+    "Presentation",
+    "OSCE",
+    "Written Exam"
   ]
 }
