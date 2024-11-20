@@ -1,11 +1,65 @@
 {
-    "NURS 676": [
-        "Not aligned with specific course objective(s)",
-        "Objective 1",
-        "Objective 2",
-        "Objective 3",
-        "Objective 4",
-        "Objective 5",
-        "Objective 6"
-    ]
+  "NURS 500": [
+    "Not aligned with specific course objective(s)",
+    "Identify key theories and models that inform strategies for promoting optimal health outcomes for diverse systems (i.e. individuals, families, communities, and populations).",
+    "Use epidemiologic data to evaluate socio-ecological, biological, behavioral and global determinants of health for evidence-based clinical prevention and health promotion interventions for individuals, families, communities, populations and systems.",
+    "Use leadership and advocacy strategies to promote equitable, ethical and effective health policy in community, population and global health through inter- and intra-professional approaches to service delivery.",
+    "Articulate design principles in health care delivery systems at micro, meso and macro levels that promote consistently safe, high quality and equitable care for diverse systems (i.e. individuals, families, communities and populations).",
+    "Evaluate models and leadership principles that facilitate inter-professional quality improvement or safety initiatives.",
+    "Apply multiple methods to analyze health and disease across diverse systems (i.e. individuals, families, communities and populations) and develop strategies for quality improvement and health promotion."
+  ],
+  "NURS 502": [
+    "Not aligned with specific course objective(s)",
+    "Analyze the physiological mechanisms, control systems, and defense processes that maintain homeostasis.",
+    "Apply molecular and cellular concepts to the etiology and pathogenesis of disease processes and syndromes.",
+    "Predict from physiological disruptions, the possible clinical features and complications of specific diseases.",
+    "Distinguish between adaptive and maladaptive physiological responses to disease processes.",
+    "Synthesize the effects of disease that lead to the involvement of multiple systems in either acute or chronic diseases."
+  ],
+  "NURS 523": [
+    "Not aligned with specific course objective(s)",
+    "Describe the regulatory and certification guidelines for APRN practice.",
+    "Articulate their identity generally as an APRN and identify their area of specialization and population foci specifically.",
+    "Demonstrate comprehensive knowledge of health policies that impact advanced nursing practice.",
+    "Identify ethical and legal issues encountered by APRNs.",
+    "Explore the history and educational pathways for the different APRNs.",
+    "Associate the MSN and DNP competencies with role assimilation."
+  ],
+  "NURS 566": [
+    "Not aligned with specific course objective(s)",
+    "Analyze and apply essential primary care nursing concepts with a community health nursing framework.",
+    "Apply the components of the nurse-midwifery/nurse practitioner management process, i.e., assess, diagnose, manage, and evaluate the health needs of clients who are adolescent through older adult using knowledge, concepts, and models from nurse-midwifery/nurse practitioner practice.",
+    "Analyze the role of the nurse practitioner/nurse-midwife in health promotion and management of common, acute, primary care needs including well woman/gynecological care and men’s health.",
+    "Utilize relevant evidence based, biopsychosocial, feminist, genetic, cultural theories, and information technology in providing gender and age specific care for individuals from a variety of cultural, socioeconomic status, and racial/ethnic backgrounds with common acute problems and health promotion needs.",
+    "Demonstrate the ability to assess, diagnose, manage and evaluate clients with common acute health problems and health promotion/maintenance needs.",
+    "Develop collaborative relationships with other health care providers.",
+    "Identify and refer clients and/or situations requiring consultation and collaboration."
+  ],
+  "PHARMACY620": [
+    "Not aligned with specific course objective(s)",
+    "Explain the mechanisms of action for major classes of drugs.",
+    "Describe the clinical implications of pharmacokinetics and pharmacodynamics to major drug classes and selected drugs.",
+    "Distinguish developmental and/or age-related differences in individuals that can affect drug therapy across the lifespan.",
+    "Apply principles of pharmacology and pharmacotherapeutics to the selection of drug therapy for patients across the life span.",
+    "Use current research data and consensus guidelines to make appropriate evidence-based decisions about drug therapy in patient care.",
+    "Identify actual and potential adverse drug reactions associated with major drug classes."
+  ],
+  "HS 700": [
+    "Not aligned with specific course objective(s)",
+    "Recognize the types of numerical data and apply appropriate descriptive statistics to produce summary measures and graphics.",
+    "Utilize a statistical software program for basic data analysis.",
+    "Select and apply the appropriate statistical technique to test a hypothesis.",
+    "Interpret results of statistical techniques covered in class including the assessment of the role of chance.",
+    "Be able to evaluate the performance of a diagnostic test.",
+    "Identify key applications of statistical techniques to clinical research and practice."
+  ],
+  "NURS 676": [
+    "Not aligned with specific course objective(s)",
+    "Objective 1",
+    "Objective 2",
+    "Objective 3",
+    "Objective 4",
+    "Objective 5",
+    "Objective 6"
+  ]
 }
