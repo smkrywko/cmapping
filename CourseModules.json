@@ -83,24 +83,6 @@
     "Urinary Incontinence",
     "Dermatology Management in Primary Care"
   ],
-  "PHARMACY 620": [
-    "Not aligned with specific course module(s)",
-    "Basic Principles",
-    "Dose-Response Relationships",
-    "Basic and Clinical Pharmacokinetics",
-    "Pediatric Considerations",
-    "Drug Use in Pregnancy and Lactation",
-    "Drug-Drug Interactions and Their Mechanism",
-    "Pharmacogenomic",
-    "Drugs Used for Gastrointestinal Disorders",
-    "Drugs Affecting the Autonomic Nervous System",
-    "Drugs Used for Joint Disorders",
-    "Drugs Affecting the Central Nervous System",
-    "Drugs Used for Allergy and Respiratory Disorders",
-    "Drugs Used for Women's Health Issues",
-    "Infectious Diseases Principles of ID, Pharmacology of Selected Antibiotics",
-    "Infectious Diseases Selected Treatment Guideline"
-  ],
   "NURS 676": [
     "Not aligned with specific course module(s)",
     "Nursing skills review",
@@ -143,6 +125,24 @@
     "Care of the larger bodied patient in labor",
     "Waterbirth",
     "Choice of birth site"
+  ],
+  "PHARMACY 620": [
+    "Not aligned with specific course module(s)",
+    "Basic Principles",
+    "Dose-Response Relationships",
+    "Basic and Clinical Pharmacokinetics",
+    "Pediatric Considerations",
+    "Drug Use in Pregnancy and Lactation",
+    "Drug-Drug Interactions and Their Mechanism",
+    "Pharmacogenomic",
+    "Drugs Used for Gastrointestinal Disorders",
+    "Drugs Affecting the Autonomic Nervous System",
+    "Drugs Used for Joint Disorders",
+    "Drugs Affecting the Central Nervous System",
+    "Drugs Used for Allergy and Respiratory Disorders",
+    "Drugs Used for Women's Health Issues",
+    "Infectious Diseases Principles of ID, Pharmacology of Selected Antibiotics",
+    "Infectious Diseases Selected Treatment Guideline"
   ],
   "HS 700": [
     "Not aligned with specific course module(s)",
