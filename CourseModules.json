@@ -101,13 +101,6 @@
     "Infectious Diseases Principles of ID, Pharmacology of Selected Antibiotics",
     "Infectious Diseases Selected Treatment Guideline"
   ],
-  "HS 700": [
-    "Not aligned with specific course module(s)",
-    "Data and Descriptive Statistics",
-    "Introduction to statistical inference",
-    "Analysis of Variance, Correlation, and Regression",
-    "Putting it All Together"
-  ],
   "NURS 676": [
     "Not aligned with specific course module(s)",
     "Nursing skills review",
@@ -150,5 +143,12 @@
     "Care of the larger bodied patient in labor",
     "Waterbirth",
     "Choice of birth site"
+  ],
+  "HS 700": [
+    "Not aligned with specific course module(s)",
+    "Data and Descriptive Statistics",
+    "Introduction to statistical inference",
+    "Analysis of Variance, Correlation, and Regression",
+    "Putting it All Together"
   ]
 }
