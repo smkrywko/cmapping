@@ -1,4 +1,13 @@
 {
+  "HS 700": [
+    "Not aligned with specific course objective(s)",
+    "Recognize the types of numerical data and apply appropriate descriptive statistics to produce summary measures and graphics", 
+    "Utilize a statistical software program for basic data analysis",
+    "Select and apply the appropriate statistical technique to test a hypothesis", 
+    "Interpret results of statistical techniques covered in class including the assessment of the role of chance",
+    "Be able to evaluate the performance of a diagnostic test",
+    "Identify key applications of statistical techniques to clinical research and practice"
+  ],
   "NURS 500": [
     "Not aligned with specific course objective(s)",
     "Identify key theories and models that inform strategies for promoting optimal health outcomes for diverse systems (i.e. individuals, families, communities, and populations).",
@@ -27,6 +36,67 @@
     "Identify key applications of statistical techniques to clinical research and practice."
   ],
   "NURS 803": [
-    "Not aligned with specific course objectives(s)"
+    "Not aligned with specific course objectives(s)",
+    "Demonstrate the ability to identify ethical breaches in research and scholarship, and an awareness of the challenges nurse scientists and clinical scholars face in upholding the principles of RCRS.",
+    "Demonstrate mastery of appropriate, proactive, and pragmatic strategies for dealing with challenges to the conduct of research and scholarship in academia, the administrative, clinical and community settings.",
+    "Demonstrate an awareness of the role of a nurse scientist in academic, clinical, and community settings, and the impact of nursing research and scholarship on society locally and globally."
+  ],
+   "NURS 815": [
+    "Not aligned with specific course objectives(s)",
+    "Compare and contrast theoretical formulations and models of quality improvement and patient safety.",  
+    "Critique and synthesize quality improvement and patient safety research for application in healthcare analysis, create, and evaluate quality improvement and patient safety programs for healthcare organizations.", 
+    "Analyze state and national trends for impact on patient safety, quality, and equity.",
+    "Evaluate the impact and consequences of technologies and informatics approaches on people, processes, and policies within the culture of quality, safety, and high reliability.",
+    "Apply a variety of methodological approaches and tools to improve patient safety and quality of care."
+  ],
+  "NURS 832": [
+    "Not aligned with specific course objectives(s)",
+    "Apply leadership strategies to diverse work teams in the design and evaluation of clinical programs from the perspective of nursing, organizational, political, and economic sciences.",
+    "Apply theories from the management and team sciences relevant to the role of clinical leader of inter-and intra-professional care delivery teams.",
+    "Assess and identify factors in the work environment that influence provider performance and quality of care.",
+    "Analyze the role of the clinical leader in developing innovation and managing sustainable change to improve patient care and clinical performance.",
+    "Evaluate how the current health care financial environment impacts institutional resource allocation and decision making in the delivery of cost-effective care.",
+    "Critique reimbursement models and their impact on allocation and evaluation of resources to achieve desired clinical outcomes of care.",
+    "Analyze population needs and stakeholders in the market context from an institutional perspective.",
+    "Synthesize research from management, leadership, and ethics into decision making strategies as leaders in clinical systems."
+  ],
+  "NURS 900": [
+    "Not aligned with specific course objectives(s)",
+    "Evaluate the philosophical assumptions underlying theory that guides current practice.",
+    "Apply systematic and integrative reviews to clinical practice and policy.",
+    "Evaluate the strengths and limitations of methods for systematic and integrative reviews guiding clinical practice.",
+    "Identify the theoretical framework guiding the clinical practice problem or potential solutions.",
+    "Conduct and document the process for an integrative review of the scientific literature around a clinical practice problem/solution.",
+    "Apply ethical conduct in the synthesis of evidence to advance quality in clinical practice."
+  ],
+  "NURS 910": [
+    "Not aligned with specific course objectives(s)",
+    "Critique models of translation, implementation science, and comparative effectiveness research.", 
+    "Synthesize research on translation and implementation science and comparative effectiveness research for application to a specific patient population or system of healthcare delivery.",  
+    "Differentiate among types of translation science, implementation science, and comparative effectiveness research.",  
+    "Analyze state and national trends that impact comparative effectiveness research, and translation and implementation science.", 
+    "Develop a model of EBP, innovation adoption, or translation science to improve healthcare and address health disparities.", 
+    "Propose a demonstration project to promote adoption of evidence-based practices and healthcare innovations."
+  ],
+  "NURS 950": [
+    "Not aligned with specific course objectives(s)",
+    "Demonstrate competencies of a DNP-prepared nurse using a theoretical foundation as they apply to senior leadership roles and responsibilities.",
+    "Reflect on their leadership abilities and identify areas for continued growth and development.",
+    "Analyze challenges and issues faced in organizations and propose solutions to address them",
+    "Demonstrate their ability to develop the leadership role of a DNP-prepared nurse in the clinical enterprise."
+  ],
+  "NURS 960": [
+    "Not aligned with specific course objectives(s)",
+    "Provide high level independent practice as a member of a health care team or practice.", 
+    "Collaborate with multi-stakeholders to identify needs in quality, safety and equity in a population or within health care system.", 
+    "Collaboratively develop a team-based practice project that translates evidence-based knowledge."  
+  ],
+   "NURS 965": [
+    "Not aligned with specific course objectives(s)",
+    "Provide high level independent practice as a member of a health care team or practice",
+    "Collaborate with multi-stakeholders to identify needs in quality, safety and equity in a population or within health care system",
+    "Collaboratively implement a team-based practice project that translates evidenced based knowledge",
+    "Identify project appropriate evaluation criteria and timeframe",
+    "Develop a disseminatable project product that demonstrates expertise in an area of practice inquiry"
   ]
 }
