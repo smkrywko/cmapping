@@ -1,3914 +1,638 @@
-﻿[
-  {
-    "Data Type": "Domain",
-    "Code": "1",
-    "Title": "Knowledge for Nursing Practice",
-    "Descriptor": "Integration, translation, and application of established and evolving disciplinary nursing knowledge and ways of knowing, as well as knowledge from other disciplines, including a foundation in liberal arts and natural and social sciences. This distinguishes the practice of professional nursing and forms the basis for clinical judgment and innovation in nursing practice.",
-    "Contexual Statement": "Knowledge for Nursing Practice provides the context for understanding nursing as a scientific discipline. The lens of nursing, informed by nursing history, knowledge, and science, reflects nursing�s desire to incorporate multiple perspectives into nursing practice, leading to nursing�s unique way of knowing and caring.\n\nPreparation in both liberal arts and sciences and professional nursing coursework provides graduates with the essential abilities to function as independent, intellectually curious, socially responsible, competent practitioners (Tobbell, 2018). A liberal education creates the foundation for the development of intellectual and practical abilities within the context of nursing. Further, liberal education is the key to understanding self and others; contributes to safe, quality care; and informs the development of clinical judgment.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "1.1",
-    "Title": "",
-    "Descriptor": "Demonstrate an understanding of the discipline of nursing�s distinct perspective and where shared perspectives exist with other disciplines",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.1a",
-    "Title": "",
-    "Descriptor": "Identify concepts, derived from theories from nursing and other disciplines, which distinguish the practice of nursing.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.1b",
-    "Title": "",
-    "Descriptor": "Apply knowledge of nursing science that develops a foundation for nursing practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.1c",
-    "Title": "",
-    "Descriptor": "Understand the historical foundation of nursing as the relationship developed between the individual and nurse.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.1d",
-    "Title": "",
-    "Descriptor": "Articulate nursing�s distinct perspective to practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.1e",
-    "Title": "",
-    "Descriptor": "Translate evidence from nursing science as well as other sciences into practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.1f",
-    "Title": "",
-    "Descriptor": "Demonstrate the application of nursing science to practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.1g",
-    "Title": "",
-    "Descriptor": "Integrate an understanding of nursing history in advancing nursing�s influence in health care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "1.2",
-    "Title": "",
-    "Descriptor": "Apply theory and research-based knowledge from nursing, the arts, humanities, and other sciences.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2a",
-    "Title": "",
-    "Descriptor": "Apply or employ knowledge from nursing science as well as the natural, physical, and social sciences to build an understanding of the human experience and nursing practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2b",
-    "Title": "",
-    "Descriptor": "Demonstrate intellectual curiosity.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2c",
-    "Title": "",
-    "Descriptor": "Demonstrate social responsibility as a global citizen who fosters the attainment of health equity for all.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2d",
-    "Title": "",
-    "Descriptor": "Examine influence of personal values in decision making for nursing practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2e",
-    "Title": "",
-    "Descriptor": "Demonstrate ethical decision making.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2f",
-    "Title": "",
-    "Descriptor": "Synthesize knowledge from nursing and other disciplines to inform education, practice, and research.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2g",
-    "Title": "",
-    "Descriptor": "Apply a systematic and defendable approach to nursing practice decisions.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2h",
-    "Title": "",
-    "Descriptor": "Employ ethical decision making to assess, intervene, and evaluate nursing care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2i",
-    "Title": "",
-    "Descriptor": "Demonstrate socially responsible leadership.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.2j",
-    "Title": "",
-    "Descriptor": "Translate theories from nursing and other disciplines to practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "1.3",
-    "Title": "",
-    "Descriptor": "Demonstrate clinical judgment founded on a broad knowledge base.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.3a",
-    "Title": "",
-    "Descriptor": "Demonstrate clinical reasoning.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.3b",
-    "Title": "",
-    "Descriptor": "Integrate nursing knowledge (theories, multiple ways of knowing, evidence) and knowledge from other disciplines and inquiry to inform clinical judgment.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.3c",
-    "Title": "",
-    "Descriptor": "Incorporate knowledge from nursing and other disciplines to support clinical judgment.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.3d",
-    "Title": "",
-    "Descriptor": "Integrate foundational and advanced specialty knowledge into clinical reasoning.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.3e",
-    "Title": "",
-    "Descriptor": "Synthesize current and emerging evidence to Influence practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "1.3f",
-    "Title": "",
-    "Descriptor": "Analyze decision models from nursing and other knowledge domains to improve clinical judgment.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "2",
-    "Title": "Person-Centered Care",
-    "Descriptor": "Person-centered care focuses on the individual within multiple complicated contexts, including family and/or important others. Person-centered care is holistic, individualized, just, respectful, compassionate, coordinated, evidence-based, and developmentally appropriate. Person-centered care builds on a scientific body of knowledge that guides nursing practice regardless of specialty or functional area.",
-    "Contexual Statement": "Person-centered care is the core purpose of nursing as a discipline. This purpose intertwines with any functional area of nursing practice, from the point of care where the hands of those that give and receive care meet, to the point of systems-level nursing leadership. Foundational to person-centered care is respect for diversity, differences, preferences, values, needs, resources, and the determinants of health unique to the individual. The person is a full partner and the source of control in team-based care. Person-centered care requires the intentional presence of the nurse seeking to know the totality of the individual�s lived experiences and connections to others (family, important others, community). As a scientific and practice discipline, nurses employ a relational lens that fosters mutuality, active participation, and individual empowerment. This focus is foundational to educational preparation from entry to advanced levels irrespective of practice areas. \n\nWith an emphasis on diversity, equity, and inclusion, person-centered care is based on best evidence and clinical judgment in the planning and delivery of care across time, spheres of care, and developmental levels. Contributing to or making diagnoses is one essential aspect of nursing practice and critical to an informed plan of care and improving outcomes of care (Olson et al., 2019). Diagnoses at the system-level are equally as relevant, affecting operations that impact care for individuals. Person-centered care results in shared meaning with the healthcare team, recipient of care, and the healthcare system, thus creating humanization of wellness and healing from birth to death.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.1",
-    "Title": "",
-    "Descriptor": "Engage with the individual in establishing a caring relationship.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.1a",
-    "Title": "",
-    "Descriptor": "Demonstrate qualities of empathy.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.1b",
-    "Title": "",
-    "Descriptor": "Demonstrate compassionate care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.1c",
-    "Title": "",
-    "Descriptor": "Establish mutual respect with the individual and family.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.1d",
-    "Title": "",
-    "Descriptor": "Promote caring relationships to effect positive outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.1e",
-    "Title": "",
-    "Descriptor": "Foster caring relationships.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.2",
-    "Title": "",
-    "Descriptor": "Communicate effectively with individuals.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2a",
-    "Title": "",
-    "Descriptor": "Demonstrate relationship-centered care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2b",
-    "Title": "",
-    "Descriptor": "Consider individual beliefs, values, and personalized information in communications.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2c",
-    "Title": "",
-    "Descriptor": "Use a variety of communication modes appropriate for the context.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2d",
-    "Title": "",
-    "Descriptor": "Demonstrate the ability to conduct sensitive or difficult conversations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2e",
-    "Title": "",
-    "Descriptor": "Use evidence-based patient teaching materials, considering health literacy, vision, hearing, and cultural sensitivity.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2f",
-    "Title": "",
-    "Descriptor": "Demonstrate emotional intelligence in communications.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2g",
-    "Title": "",
-    "Descriptor": "Demonstrate advanced communication skills and techniques using a variety of modalities with diverse audiences.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2h",
-    "Title": "",
-    "Descriptor": "Design evidence-based, person-centered engagement materials.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2i",
-    "Title": "",
-    "Descriptor": "Apply individualized information, such as genetic/genomic, pharmacogenetic, and environmental exposure information in the delivery of personalized health care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.2j",
-    "Title": "",
-    "Descriptor": "Facilitate difficult conversations and disclosure of sensitive information.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.3",
-    "Title": "",
-    "Descriptor": "Integrate assessment skills in practice.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.3a",
-    "Title": "",
-    "Descriptor": "Create an environment during assessment that promotes a dynamic interactive experience.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.3b",
-    "Title": "",
-    "Descriptor": "Obtain a complete and accurate history in a systematic manner.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.3c",
-    "Title": "",
-    "Descriptor": "Perform a clinically relevant, holistic health assessment.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.3d",
-    "Title": "",
-    "Descriptor": "Perform point of care screening/diagnostic testing (e.g. blood glucose, PO2, EKG).",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.3e",
-    "Title": "",
-    "Descriptor": "Distinguish between normal and abnormal health findings.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.3f",
-    "Title": "",
-    "Descriptor": "Apply nursing knowledge to gain a holistic perspective of the person, family, community, and population.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.3g",
-    "Title": "",
-    "Descriptor": "Communicate findings of a comprehensive assessment.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.3h",
-    "Title": "",
-    "Descriptor": "Demonstrate that one�s practice is informed by a comprehensive assessment appropriate to the functional area of advanced nursing practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.4",
-    "Title": "",
-    "Descriptor": "Diagnose actual or potential health problems and needs.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.4a",
-    "Title": "",
-    "Descriptor": "Synthesize assessment data in the context of the individual�s current preferences, situation, and experience.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.4b",
-    "Title": "",
-    "Descriptor": "Create a list of problems/health concerns.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.4c",
-    "Title": "",
-    "Descriptor": "Prioritize problems/health concerns.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.4d",
-    "Title": "",
-    "Descriptor": "Understand and apply the results of social screening, psychological testing, laboratory data, imaging studies, and other diagnostic tests in actions and plans of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.4e",
-    "Title": "",
-    "Descriptor": "Contribute as a team member to the formation and improvement of diagnoses.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.4f",
-    "Title": "",
-    "Descriptor": "Employ context driven, advanced reasoning to the diagnostic and decision-making process.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.4g",
-    "Title": "",
-    "Descriptor": "Integrate advanced scientific knowledge to guide decision making.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.5",
-    "Title": "",
-    "Descriptor": "Develop a plan of care.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5a",
-    "Title": "",
-    "Descriptor": "Engage the individual and the team in plan development.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5b",
-    "Title": "",
-    "Descriptor": "Organize care based on mutual health goals.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5c",
-    "Title": "",
-    "Descriptor": "Prioritize care based on best evidence.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5d",
-    "Title": "",
-    "Descriptor": "Incorporate evidence-based intervention to improve outcomes and safety.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5e",
-    "Title": "",
-    "Descriptor": "Anticipate outcomes of care (expected, unexpected, and potentially adverse).",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5f",
-    "Title": "",
-    "Descriptor": "Demonstrate rationale for plan.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5g",
-    "Title": "",
-    "Descriptor": "Address individuals� experiences and perspectives in designing plans of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5h",
-    "Title": "",
-    "Descriptor": "Lead and collaborate with an interprofessional team to develop a comprehensive plan of care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5i",
-    "Title": "",
-    "Descriptor": "Prioritize risk mitigation strategies to prevent or reduce adverse outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5j",
-    "Title": "",
-    "Descriptor": "Develop evidence-based interventions to improve outcomes and safety.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.5k",
-    "Title": "",
-    "Descriptor": "Incorporate innovations into practice when evidence is not available.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.6",
-    "Title": "",
-    "Descriptor": "Demonstrate accountability for care delivery.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6a",
-    "Title": "",
-    "Descriptor": "Implement individualized plan of care using established protocols.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6b",
-    "Title": "",
-    "Descriptor": "Communicate care delivery through multiple modalities.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6c",
-    "Title": "",
-    "Descriptor": "Delegate appropriately to team members.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6d",
-    "Title": "",
-    "Descriptor": "Monitor the implementation of the plan of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6e",
-    "Title": "",
-    "Descriptor": "Model best care practices to the team.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6f",
-    "Title": "",
-    "Descriptor": "Monitor aggregate metrics to assure accountability for care outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6g",
-    "Title": "",
-    "Descriptor": "Promote delivery of care that supports practice at the full scope of education.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6h",
-    "Title": "",
-    "Descriptor": "Contribute to the development of policies and processes that promote transparency and accountability.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6i",
-    "Title": "",
-    "Descriptor": "Apply current and emerging evidence to the development of care guidelines/tools.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.6j",
-    "Title": "",
-    "Descriptor": "Ensure accountability throughout transitions of care across the health continuum.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.7",
-    "Title": "",
-    "Descriptor": "Evaluate outcomes of care.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.7a",
-    "Title": "",
-    "Descriptor": "Reassess the individual to evaluate health outcomes/goals",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.7b",
-    "Title": "",
-    "Descriptor": "Modify plan of care as needed.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.7c",
-    "Title": "",
-    "Descriptor": "Recognize the need for modifications to standard practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.7d",
-    "Title": "",
-    "Descriptor": "Analyze data to identify gaps and inequities in care and monitor trends in outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.7e",
-    "Title": "",
-    "Descriptor": "Monitor epidemiological and system-level aggregate data to determine healthcare outcomes and trends.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.7f",
-    "Title": "",
-    "Descriptor": "Synthesize outcome data to inform evidencebased practice, guidelines, and policies.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.8",
-    "Title": "",
-    "Descriptor": "Promote self-care management.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8a",
-    "Title": "",
-    "Descriptor": "Assist the individual to engage in self-care management.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8b",
-    "Title": "",
-    "Descriptor": "Employ individualized educational strategies based on learning theories, methodologies, and health literacy.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8c",
-    "Title": "",
-    "Descriptor": "Educate individuals and families regarding selfcare for health promotion, illness prevention, and illness management.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8d",
-    "Title": "",
-    "Descriptor": "Respect individuals and families� selfdetermination in their healthcare decisions.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8e",
-    "Title": "",
-    "Descriptor": "Identify personal, system, and community resources available to support self-care management.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8f",
-    "Title": "",
-    "Descriptor": "Develop strategies that promote self-care management.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8g",
-    "Title": "",
-    "Descriptor": "Incorporate the use of current and emerging technologies to support self-care management.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8h",
-    "Title": "",
-    "Descriptor": "Employ counseling techniques, including motivational interviewing, to advance wellness and self-care management.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8i",
-    "Title": "",
-    "Descriptor": "Evaluate adequacy of resources available to support self-care management.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.8j",
-    "Title": "",
-    "Descriptor": "Foster partnerships with community organizations to support self-care management.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "2.9",
-    "Title": "",
-    "Descriptor": "Provide care coordination.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9a",
-    "Title": "",
-    "Descriptor": "Facilitate continuity of care based on assessment of assets and needs.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9b",
-    "Title": "",
-    "Descriptor": "Communicate with relevant stakeholders across health systems.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9c",
-    "Title": "",
-    "Descriptor": "Promote collaboration by clarifying responsibilities among individual, family, and team members.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9d",
-    "Title": "",
-    "Descriptor": "Recognize when additional expertise and knowledge is needed to manage the patient.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9e",
-    "Title": "",
-    "Descriptor": "Provide coordination of care of individuals and families in collaboration with care team.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9f",
-    "Title": "",
-    "Descriptor": "Evaluate communication pathways among providers and others across settings, systems, and communities.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9g",
-    "Title": "",
-    "Descriptor": "Develop strategies to optimize care coordination and transitions of care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9h",
-    "Title": "",
-    "Descriptor": "Guide the coordination of care across health systems.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9i",
-    "Title": "",
-    "Descriptor": "Analyze system-level and public policy influence on care coordination.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "2.9j",
-    "Title": "",
-    "Descriptor": "Participate in system-level change to improve care coordination across settings.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "3",
-    "Title": "Population Health",
-    "Descriptor": "Population health spans the healthcare delivery continuum from public health prevention to disease management of populations and describes collaborative activities with both traditional and non-traditional partnerships from affected communities, public health, industry, academia, health care, local government entities, and others for the improvement of equitable population health outcomes. (Kindig & Stoddart, 2003; Kindig, 2007; Swartout & Bishop, 2017; CDC, 2020).",
-    "Contexual Statement": "A population is a discrete group that the nurse and others care for\nacross settings at local, regional, national, and global levels. Population health spans the healthcare delivery continuum, including public health, acute care, ambulatory care, and longterm care. Population health also encompasses collaborative activities among stakeholders � all relevant individuals and organizations involved in care, including patients and communities themselves - for the improvement of a population�s health status. The purpose of these collaborative activities, including development of interventions and policies, is to strive towards health equity and improved health for all. Diversity, equity, inclusion, and ethics must be emphasized and valued. Accountability for outcomes is shared by all, since outcomes arise from multiple factors that influence the health of a defined group. Population health includes population management through systems thinking, including health promotion and illness prevention, to achieve population health goals (Storfjell, Wehtle, Winslow, & Saunders, 2017). Nurses play a critical role in advocating for, developing, and implementing policies that impact population health globally and locally. In addition, nurses respond to crises and provide care during emergencies, disasters, epidemics, or pandemics. They play an essential role in system preparedness and ethical response initiatives. Although each type of public health emergency will likely require a unique set of competencies, preparedness for responding begins with a population health perspective and a particular focus on surveillance, prevention, and containment of factors contributing to the emergency.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "3.1",
-    "Title": "",
-    "Descriptor": "Manage population health.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1a",
-    "Title": "",
-    "Descriptor": "Define a target population including its functional and problem-solving capabilities (anywhere in the continuum of care).",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1b",
-    "Title": "",
-    "Descriptor": "Assess population health data.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1c",
-    "Title": "",
-    "Descriptor": "Assess the priorities of the community and/or the affected clinical population.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1d",
-    "Title": "",
-    "Descriptor": "Compare and contrast local, regional, national, and global benchmarks to identify health patterns across populations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1e",
-    "Title": "",
-    "Descriptor": "Apply an understanding of the public health system and its interfaces with clinical health care in addressing population health needs.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1f",
-    "Title": "",
-    "Descriptor": "Develop an action plan to meet an identified need(s), including evaluation methods.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1g",
-    "Title": "",
-    "Descriptor": "Participate in the implementation of sociocultural and linguistically responsive interventions.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1h",
-    "Title": "",
-    "Descriptor": "Describe general principles and practices for the clinical management of populations across the age continuum.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1i",
-    "Title": "",
-    "Descriptor": "Identify ethical principles to protect the health and safety of diverse populations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1j",
-    "Title": "",
-    "Descriptor": "Assess the efficacy of a system�s capability to serve a target sub-population�s healthcare needs.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1k",
-    "Title": "",
-    "Descriptor": "Analyze primary and secondary population health data for multiple populations against relevant benchmarks.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1l",
-    "Title": "",
-    "Descriptor": "Use established or evolving methods to determine population-focused priorities for care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1m",
-    "Title": "",
-    "Descriptor": "Develop a collaborative approach with relevant stakeholders to address population healthcare needs, including evaluation methods.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.1n",
-    "Title": "",
-    "Descriptor": "Collaborate with appropriate stakeholders to implement a sociocultural and linguistically responsive intervention plan.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "3.2",
-    "Title": "",
-    "Descriptor": "Engage in effective partnerships.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.2a",
-    "Title": "",
-    "Descriptor": "Engage with other health professionals to address population health issues.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.2b",
-    "Title": "",
-    "Descriptor": "Demonstrate effective collaboration and mutual accountability with relevant stakeholders.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.2c",
-    "Title": "",
-    "Descriptor": "Use culturally and linguistically responsive communication strategies.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.2d",
-    "Title": "",
-    "Descriptor": "Ascertain collaborative opportunities for individuals and organizations to improve population health.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.2e",
-    "Title": "",
-    "Descriptor": "Challenge biases and barriers that impact population health outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.2f",
-    "Title": "",
-    "Descriptor": "Evaluate the effectiveness of partnerships for achieving health equity.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.2g",
-    "Title": "",
-    "Descriptor": "Lead partnerships to improve population health outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.2h",
-    "Title": "",
-    "Descriptor": "Assess preparation and readiness of partners to organize during natural and manmade disasters.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "3.3",
-    "Title": "",
-    "Descriptor": "Consider the socioeconomic impact of the delivery of health care.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.3a",
-    "Title": "",
-    "Descriptor": "Describe access and equity implications of proposed intervention(s).",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.3b",
-    "Title": "",
-    "Descriptor": "Prioritize patient-focused and/or community action plans that are safe, effective, and efficient in the context of available resources.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.3c",
-    "Title": "",
-    "Descriptor": "Analyze cost-benefits of selected populationbased interventions.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.3d",
-    "Title": "",
-    "Descriptor": "Collaborate with partners to secure and leverage resources necessary for effective, sustainable interventions.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.3e",
-    "Title": "",
-    "Descriptor": "Advocate for interventions that maximize costeffective, accessible, and equitable resources for populations.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.3f",
-    "Title": "",
-    "Descriptor": "Incorporate ethical principles in resource allocation in achieving equitable health.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "3.4",
-    "Title": "",
-    "Descriptor": "Advance equitable population health policy.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4a",
-    "Title": "",
-    "Descriptor": "Describe policy development processes.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4b",
-    "Title": "",
-    "Descriptor": "Describe the impact of policies on population outcomes, including social justice and health equity.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4c",
-    "Title": "",
-    "Descriptor": "Identify best evidence to support policy development.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4d",
-    "Title": "",
-    "Descriptor": "Propose modifications to or development of policy based on population findings.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4e",
-    "Title": "",
-    "Descriptor": "Develop an awareness of the interconnectedness of population health across borders.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4f",
-    "Title": "",
-    "Descriptor": "Identify opportunities to influence the policy process.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4g",
-    "Title": "",
-    "Descriptor": "Design comprehensive advocacy strategies to support the policy process.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4h",
-    "Title": "",
-    "Descriptor": "Engage in strategies to influence policy change.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4i",
-    "Title": "",
-    "Descriptor": "Contribute to policy development at the system, local, regional, or national levels.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4j",
-    "Title": "",
-    "Descriptor": "Assess the impact of policy changes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4k",
-    "Title": "",
-    "Descriptor": "Evaluate the ability of policy to address disparities and inequities within segments of the population.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.4l",
-    "Title": "",
-    "Descriptor": "Evaluate the risks to population health associated with globalization.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "3.5",
-    "Title": "",
-    "Descriptor": "Demonstrate advocacy strategies.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5a",
-    "Title": "",
-    "Descriptor": "Articulate a need for change.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5b",
-    "Title": "",
-    "Descriptor": "Describe the intent of the proposed change.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5c",
-    "Title": "",
-    "Descriptor": "Define stakeholders, including members of the community and/or clinical populations, and their level of influence.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5d",
-    "Title": "",
-    "Descriptor": "Implement messaging strategies appropriate to audience and stakeholders.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5e",
-    "Title": "",
-    "Descriptor": "Evaluate the effectiveness of advocacy actions.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5f",
-    "Title": "",
-    "Descriptor": "Appraise advocacy priorities for a population.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5g",
-    "Title": "",
-    "Descriptor": "Strategize with an interdisciplinary group and others to develop effective advocacy approaches.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5h",
-    "Title": "",
-    "Descriptor": "Engage in relationship-building activities with stakeholders at any level of influence, including system, local, state, national, and/or global.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.5i",
-    "Title": "",
-    "Descriptor": "Demonstrate leadership skills to promote advocacy efforts that include principles of social justice, diversity, equity, and inclusion.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "3.6",
-    "Title": "",
-    "Descriptor": "Advance preparedness to protect population health during disasters and public health emergencies.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6a",
-    "Title": "",
-    "Descriptor": "Identify changes in conditions that might indicate a disaster or public health emergency.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6b",
-    "Title": "",
-    "Descriptor": "Understand the impact of climate change on environmental and population health.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6c",
-    "Title": "",
-    "Descriptor": "Describe the health and safety hazards of disasters and public health emergencies.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6d",
-    "Title": "",
-    "Descriptor": "Describe the overarching principles and methods regarding personal safety measures, including personal protective equipment (PPE).",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6e",
-    "Title": "",
-    "Descriptor": "Implement infection control measures and proper use of personal protective equipment.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6f",
-    "Title": "",
-    "Descriptor": "Collaboratively initiate rapid response activities to protect population health.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6g",
-    "Title": "",
-    "Descriptor": "Participate in ethical decision making that includes diversity, equity, and inclusion in advanced preparedness to protect populations.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6h",
-    "Title": "",
-    "Descriptor": "Collaborate with interdisciplinary teams to lead preparedness and mitigation efforts to protect population health with attention to the most vulnerable populations.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6i",
-    "Title": "",
-    "Descriptor": "Coordinate the implementation of evidencebased infection control measures and proper use of personal protective equipment.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "3.6j",
-    "Title": "",
-    "Descriptor": "Contribute to system-level planning, decision making, and evaluation for disasters and public health emergencies.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "4",
-    "Title": "Scholarship for the Nursing Discipline",
-    "Descriptor": "The generation, synthesis, translation, application, and dissemination of nursing knowledge to improve health and transform health care (AACN, 2018).",
-    "Contexual Statement": "Nursing scholarship informs science, enhances clinical practice, influences policy, and impacts best practices for educating nurses as clinicians, scholars, and leaders. Scholarship is inclusive of discovery, application, integration, and teaching. While not all inclusive, the scholarship of discovery includes primary empirical research, analysis of large data sets, theory development, and methodological studies. The scholarship of practice interprets, draws together, applies, and brings new insight to original research (Boyer, 1990; AACN 2018). Knowledge of the basic principles of the research process, including the ability to critique research and determine its applicability to nursing�s body of knowledge, is critical. Ethical comportment in the conduct and dissemination of research and advocacy for human subjects are essential components of nursing�s role in the process of improving health and health care. Whereas the research process is the generation of new knowledge, evidence-based practice (EBP) is the process for the application, translation, and implementation of best evidence into clinical decision-making. While evidence may emerge from research, EBP extends beyond just data to include patient preferences and values as well as clinical expertise. Nurses, as innovators and leaders within the interprofessional team, use the uniqueness of nursing in nurse-patient relationships to provide optimal care and address health inequities, structural racism, and systemic inequity.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "4.1",
-    "Title": "",
-    "Descriptor": "Advance the scholarship of nursing.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1a",
-    "Title": "",
-    "Descriptor": "Demonstrate an understanding of different approaches to scholarly practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1b",
-    "Title": "",
-    "Descriptor": "Demonstrate application of different levels of evidence.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1c",
-    "Title": "",
-    "Descriptor": "Apply theoretical framework(s)/models in practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1d",
-    "Title": "",
-    "Descriptor": "Demonstrate an understanding of basic elements of the research process.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1e",
-    "Title": "",
-    "Descriptor": "Participate in scholarly inquiry as a team member.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1f",
-    "Title": "",
-    "Descriptor": "Evaluate research.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1g",
-    "Title": "",
-    "Descriptor": "Communicate scholarly findings",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1h",
-    "Title": "",
-    "Descriptor": "Apply and critically evaluate advanced knowledge in a defined area of nursing practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1i",
-    "Title": "",
-    "Descriptor": "Engage in scholarship to advance health.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1j",
-    "Title": "",
-    "Descriptor": "Discern appropriate applications of quality improvement, research, and evaluation methodologies.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1k",
-    "Title": "",
-    "Descriptor": "Collaborate to advance one�s scholarship.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1l",
-    "Title": "",
-    "Descriptor": "Disseminate one�s scholarship to diverse audiences using a variety of approaches or modalities.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.1m",
-    "Title": "",
-    "Descriptor": "Advocate within the interprofessional team and with other stakeholders for the contributions of nursing scholarship.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "4.2",
-    "Title": "",
-    "Descriptor": "Integrate best evidence into nursing practice.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2a",
-    "Title": "",
-    "Descriptor": "Evaluate clinical practice to generate questions to improve nursing care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2b",
-    "Title": "",
-    "Descriptor": "Evaluate appropriateness and strength of the evidence.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2c",
-    "Title": "",
-    "Descriptor": "Use best evidence in practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2d",
-    "Title": "",
-    "Descriptor": "Participate in the implementation of a practice change to improve nursing care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2e",
-    "Title": "",
-    "Descriptor": "Participate in the evaluation of outcomes and their implications for practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2f",
-    "Title": "",
-    "Descriptor": "Use diverse sources of evidence to inform practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2g",
-    "Title": "",
-    "Descriptor": "Lead the translation of evidence into practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2h",
-    "Title": "",
-    "Descriptor": "Address opportunities for innovation and changes in practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2i",
-    "Title": "",
-    "Descriptor": "Collaborate in the development of new/revised policy or regulation in the light of new evidence.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2j",
-    "Title": "",
-    "Descriptor": "Articulate inconsistencies between practice policies and best evidence.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.2k",
-    "Title": "",
-    "Descriptor": "Evaluate outcomes and impact of new practices based on the evidence.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "4.3",
-    "Title": "",
-    "Descriptor": "Promote the ethical conduct of scholarly activities.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3a",
-    "Title": "",
-    "Descriptor": "Explain the rationale for ethical research guidelines, including Institutional Review Board (IRB) guidelines.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3b",
-    "Title": "",
-    "Descriptor": "Demonstrate ethical behaviors in scholarly projects including quality improvement and EBP initiatives.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3c",
-    "Title": "",
-    "Descriptor": "Advocate for the protection of participants in the conduct of scholarly initiatives.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3d",
-    "Title": "",
-    "Descriptor": "Recognize the impact of equity issues in research.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3e",
-    "Title": "",
-    "Descriptor": "Identify and mitigate potential risks and areas of ethical concern in the conduct of scholarly activities.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3f",
-    "Title": "",
-    "Descriptor": "Apply IRB guidelines throughout the scholarship process.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3g",
-    "Title": "",
-    "Descriptor": "Ensure the protection of participants in the conduct of scholarship.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3h",
-    "Title": "",
-    "Descriptor": "Implement processes that support ethical conduct in practice and scholarship.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "4.3i",
-    "Title": "",
-    "Descriptor": "Apply ethical principles to the dissemination of nursing scholarship.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "5",
-    "Title": "Quality and Safety",
-    "Descriptor": "Employment of established and emerging principles of safety and improvement",
-    "Contexual Statement": "Provision of safe, quality care necessitates knowing and using established and emerging principles of safety science in care delivery. Quality and safety encompass provider and recipient safety and the recognition of synergy between the two. Quality or safety challenges are viewed primarily as the result of system failures, as opposed to the errors of an individual. In an environment fostering quality and safety, caregivers are empowered and encouraged to promote safety and take appropriate action to prevent and report adverse events and near misses. Fundamental to the provision of safe, quality care, providers of care adopt, integrate, and disseminate current practice guidelines and evidence-based interventions. Safety is inclusive of attending to work environment hazards, such as violence, burnout, ergonomics, and chemical and biological agents; there is a synergistic relationship between employee safety and patient safety. A safe and just environment minimizes risk to both recipients and providers of care. It requires a shared commitment to create and maintain a physically, psychologically, secure, and just environment. Safety demands an obligation to remain non-punitive in detecting, reporting, and analyzing errors, possible exposures, and near misses when they occur. Quality and safety are interdependent, as safety is a necessary attribute of quality care. For quality health care to exist, care must be safe, effective, timely, efficient, equitable, and personcentered. Quality care is the extent to which care services improve desired health outcomes and are consistent with patient preferences and current professional knowledge (IOM, 2001). Additionally, quality care includes collaborative engagement with the recipient of care in assuming responsibility for health promotion and illness treatment behaviors. Quality care both improves desired health outcomes, and prevents harm (IOM, 2001). Addressing contributors and barriers to quality and safety, at both individual and system levels, are necessary. Essentially, everyone in health care is responsible for quality care and patient safety. Nurses are uniquely positioned to lead or co-lead teams that address the improvement of quality and safety because of their knowledge and ethical code (ANA Code of Ethics, 2015). Increasing complexity of care has contributed to continued gaps in healthcare safety.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "5.1",
-    "Title": "",
-    "Descriptor": "science. Quality and safety, as core values of nursing practice, enhance quality and",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1a",
-    "Title": "",
-    "Descriptor": "minimize risk of harm to patients and providers through both system effectiveness and",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1b",
-    "Title": "",
-    "Descriptor": "individual performance.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1c",
-    "Title": "",
-    "Descriptor": "Implement standardized, evidence-based processes for care delivery.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1d",
-    "Title": "",
-    "Descriptor": "Interpret benchmark and unit outcome data to inform individual and microsystem practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1e",
-    "Title": "",
-    "Descriptor": "Compare quality improvement methods in the delivery of patient care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1f",
-    "Title": "",
-    "Descriptor": "Identify strategies to improve outcomes of patient care in practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1g",
-    "Title": "",
-    "Descriptor": "Participate in the implementation of a practice change.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1h",
-    "Title": "",
-    "Descriptor": "Develop a plan for monitoring quality improvement change.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1i",
-    "Title": "",
-    "Descriptor": "Establish and incorporate data driven benchmarks to monitor system performance.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1j",
-    "Title": "",
-    "Descriptor": "Use national safety resources to lead teambased change initiatives.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1k",
-    "Title": "",
-    "Descriptor": "Integrate outcome metrics to inform change and policy recommendations.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1l",
-    "Title": "",
-    "Descriptor": "Collaborate in analyzing organizational process improvement initiatives.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1m",
-    "Title": "",
-    "Descriptor": "Lead the development of a business plan for quality improvement initiatives.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1n",
-    "Title": "",
-    "Descriptor": "Advocate for change related to financial policies that impact the relationship between economics and quality care delivery.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.1o",
-    "Title": "",
-    "Descriptor": "Advance quality improvement practices through dissemination of outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "5.2",
-    "Title": "",
-    "Descriptor": "Contribute to a culture of patient safety.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2a",
-    "Title": "",
-    "Descriptor": "Describe the factors that create a culture of safety",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2b",
-    "Title": "",
-    "Descriptor": "Articulate the nurse�s role within an interprofessional team in promoting safety and preventing errors and near misses.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2c",
-    "Title": "",
-    "Descriptor": "Examine basic safety design principles to reduce risk of harm.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2d",
-    "Title": "",
-    "Descriptor": "Assume accountability for reporting unsafe conditions, near misses, and errors to reduce harm.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2e",
-    "Title": "",
-    "Descriptor": "Describe processes used in understanding causes of error.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2f",
-    "Title": "",
-    "Descriptor": "Use national patient safety resources, initiatives, and regulations at the point of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2g",
-    "Title": "",
-    "Descriptor": "Evaluate the alignment of system data and comparative patient safety benchmarks.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2h",
-    "Title": "",
-    "Descriptor": "Lead analysis of actual errors, near misses, and potential situations that would impact safety.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2i",
-    "Title": "",
-    "Descriptor": "Design evidence-based interventions to mitigate risk.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.2j",
-    "Title": "",
-    "Descriptor": "Evaluate emergency preparedness system-level plans to protect safety.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "5.3",
-    "Title": "",
-    "Descriptor": "Contribute to a culture of provider and work environment safety.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.3a",
-    "Title": "",
-    "Descriptor": "Identify actual and potential level of risks to providers within the workplace.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.3b",
-    "Title": "",
-    "Descriptor": "Recognize how to prevent workplace violence and injury.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.3c",
-    "Title": "",
-    "Descriptor": "Promote policies for prevention of violence and risk mitigation.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.3d",
-    "Title": "",
-    "Descriptor": "Recognize one�s role in sustaining a just culture reflecting civility and respect.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.3e",
-    "Title": "",
-    "Descriptor": "Advocate for structures, policies, and processes that promote a culture of safety and prevent workplace risks and injury.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.3f",
-    "Title": "",
-    "Descriptor": "Foster a just culture reflecting civility and respect.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.3g",
-    "Title": "",
-    "Descriptor": "Create a safe and transparent culture for reporting incidents.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "5.3h",
-    "Title": "",
-    "Descriptor": "Role model and lead well-being and resiliency for self and team.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "6",
-    "Title": "Interprofessional Partnerships",
-    "Descriptor": "Intentional collaboration across professions and with care team members, patients, families, communities, and other stakeholders to optimize care, enhance the healthcare experience, and strengthen outcomes.",
-    "Contexual Statement": "Professional partnerships that include interprofessional, intraprofessional, and paraprofessional partnerships, build on a consistent demonstration of core professional values (altruism, excellence, caring, ethics, respect, communication, and shared accountability) in the provision of team-based, person-centered care. Nursing knowledge and expertise uniquely contributes to the intentional work within teams and in concert with patient, family, and community preferences and goals. Interprofessional partnerships require a coordinated, integrated, and collaborative implementation of the unique knowledge, beliefs, and skills of the full team for the end purpose of optimized care delivery. Effective collaboration requires an understanding of team dynamics and an ability to work effectively in care-oriented teams. Leadership of the team varies depending on needs of the individual, community, population, and context of care.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "6.1",
-    "Title": "",
-    "Descriptor": "Communicate in a manner that facilitates a partnership approach to quality care delivery.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1a",
-    "Title": "",
-    "Descriptor": "Communicate the nurse�s roles and responsibilities clearly.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1b",
-    "Title": "",
-    "Descriptor": "Use various communication tools and techniques effectively.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1c",
-    "Title": "",
-    "Descriptor": "Elicit the perspectives of team members to inform person-centered care decision making.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1d",
-    "Title": "",
-    "Descriptor": "Articulate impact of diversity, equity, and inclusion on team-based communications.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1e",
-    "Title": "",
-    "Descriptor": "Communicate individual information in a professional, accurate, and timely manner.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1f",
-    "Title": "",
-    "Descriptor": "Communicate as informed by legal, regulatory, and policy guidelines.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1g",
-    "Title": "",
-    "Descriptor": "Evaluate effectiveness of interprofessional communication tools and techniques to support and improve the efficacy of team-based interactions.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1h",
-    "Title": "",
-    "Descriptor": "Facilitate improvements in interprofessional communications of individual information (e.g. EHR).",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1i",
-    "Title": "",
-    "Descriptor": "Role model respect for diversity, equity, and inclusion in team-based communications.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1j",
-    "Title": "",
-    "Descriptor": "Communicate nursing�s unique disciplinary knowledge to strengthen interprofessional partnerships.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1k",
-    "Title": "",
-    "Descriptor": "Provide expert consultation for other members of the healthcare team in one�s area of practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.1l",
-    "Title": "",
-    "Descriptor": "Demonstrate capacity to resolve interprofessional conflict.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "6.2",
-    "Title": "",
-    "Descriptor": "Perform effectively in different team roles, using principles and values of team dynamics.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2a",
-    "Title": "",
-    "Descriptor": "Apply principles of team dynamics, including team roles, to facilitate effective team functioning.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2b",
-    "Title": "",
-    "Descriptor": "Delegate work to team members based on their roles and competency.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2c",
-    "Title": "",
-    "Descriptor": "Engage in the work of the team as appropriate to one�s scope of practice and competency.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2d",
-    "Title": "",
-    "Descriptor": "Recognize how one�s uniqueness (as a person and a nurse) contributes to effective interprofessional working relationships.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2e",
-    "Title": "",
-    "Descriptor": "Apply principles of team leadership and management. performance to improve quality and assure safety.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2f",
-    "Title": "",
-    "Descriptor": "Evaluate performance of individual and team to improve quality and promote safety.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2g",
-    "Title": "",
-    "Descriptor": "Integrate evidence-based strategies and processes to improve team effectiveness and outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2h",
-    "Title": "",
-    "Descriptor": "Evaluate the impact of team dynamics and performance on desired outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2i",
-    "Title": "",
-    "Descriptor": "Reflect on how one�s role and expertise influences team performance.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.2j",
-    "Title": "",
-    "Descriptor": "Foster positive team dynamics to strengthen desired outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "6.3",
-    "Title": "",
-    "Descriptor": "Use knowledge of nursing and other professions to address healthcare needs.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.3a",
-    "Title": "",
-    "Descriptor": "Integrate the roles and responsibilities of healthcare professionals through interprofessional collaborative practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.3b",
-    "Title": "",
-    "Descriptor": "Leverage roles and abilities of team members to optimize care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.3c",
-    "Title": "",
-    "Descriptor": "Communicate with team members to clarify responsibilities in executing plan of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.3d",
-    "Title": "",
-    "Descriptor": "Direct interprofessional activities and initiatives.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "6.4",
-    "Title": "",
-    "Descriptor": "Work with other professions to maintain a climate of mutual learning, respect, and shared values.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4a",
-    "Title": "",
-    "Descriptor": "Demonstrate an awareness of one�s biases and how they may affect mutual respect and communication with team members.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4b",
-    "Title": "",
-    "Descriptor": "Demonstrate respect for the perspectives and experiences of other professions.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4c",
-    "Title": "",
-    "Descriptor": "Engage in constructive communication to facilitate conflict management.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4d",
-    "Title": "",
-    "Descriptor": "Collaborate with interprofessional team members to establish mutual healthcare goals for individuals, communities, or populations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4e",
-    "Title": "",
-    "Descriptor": "Practice self-assessment to mitigate conscious and implicit biases toward other team members.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4f",
-    "Title": "",
-    "Descriptor": "Foster an environment that supports the constructive sharing of multiple perspectives and enhances interprofessional learning.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4g",
-    "Title": "",
-    "Descriptor": "Integrate diversity, equity, and inclusion into team practices.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4h",
-    "Title": "",
-    "Descriptor": "Manage disagreements, conflicts, and challenging conversations among team members.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "6.4i",
-    "Title": "",
-    "Descriptor": "Promote an environment that advances interprofessional learning.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "7",
-    "Title": "Systems-Based Practice",
-    "Descriptor": "Responding to and leading within complex systems of health care. Nurses effectively and proactively coordinate resources to provide safe, quality, and equitable care to diverse populations.",
-    "Contexual Statement": "Using evidence-based methodologies, nurses lead innovative solutions to address complex health problems and ensure optimal care. Understanding of systemsbased practice is foundational to the delivery of quality care and incorporates key concepts of organizational structure, including relationships among macro-, meso-, and microsystems across healthcare settings. Knowledge of financial and payment models relative to reimbursement and healthcare costs is essential. In addition, the impact of local, regional, national, and global structures, systems, and regulations on individuals and diverse populations must be considered when evaluating patient outcomes. As change agents and leaders, nurses possess the intellectual capacity to be agile in response to continually evolving healthcare systems, to address structural racism and other forms of discrimination, and to advocate for the needs of diverse populations. Systems-based practice is predicated on an ethical practice environment where professional and organizational values are aligned, and structures and processes enable ethical practice by all members of the institution. Integrated healthcare systems are highly complex, and gaps or failures in service and delivery can cause ineffective, harmful outcomes. These outcomes also span individual through global networks. Cognitive shifting from focused to big picture is a crucial skill set. Similarly, the ability for nurses to predict change, employ improvement strategies, and exercise fiscal prudence are critical skills. System awareness, innovation, and design also are needed to address such issues as structural racism and systemic inequity.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "7.1",
-    "Title": "",
-    "Descriptor": "Apply knowledge of systems to work effectively across the continuum of care.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.1a",
-    "Title": "",
-    "Descriptor": "Describe organizational structure, mission, vision, philosophy, and values.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.1b",
-    "Title": "",
-    "Descriptor": "Explain the relationships of macrosystems, mesosystems, and microsystems.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.1c",
-    "Title": "",
-    "Descriptor": "Differentiate between various healthcare delivery environments across the continuum of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.1d",
-    "Title": "",
-    "Descriptor": "Recognize internal and external system processes that impact care coordination and transition of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.1e",
-    "Title": "",
-    "Descriptor": "Participate in organizational strategic planning.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.1f",
-    "Title": "",
-    "Descriptor": "Participate in system-wide initiatives that improve care delivery and/or outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.1g",
-    "Title": "",
-    "Descriptor": "Analyze system-wide processes to optimize outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.1h",
-    "Title": "",
-    "Descriptor": "Design policies to impact health equity and structural racism within systems, communities, and populations.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "7.2",
-    "Title": "",
-    "Descriptor": "Incorporate consideration of cost-effectiveness of care.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2a",
-    "Title": "",
-    "Descriptor": "Describe the financial and payment models of health care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2b",
-    "Title": "",
-    "Descriptor": "Recognize the impact of health disparities and social determinants of health on care outcomes.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2c",
-    "Title": "",
-    "Descriptor": "Describe the impact of healthcare cost and payment models on the delivery, access, and quality of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2d",
-    "Title": "",
-    "Descriptor": "Explain the relationship of policy, regulatory requirements, and economics on care outcomes.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2e",
-    "Title": "",
-    "Descriptor": "Incorporate considerations of efficiency, value, and cost in providing care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2f",
-    "Title": "",
-    "Descriptor": "Identify the impact of differing system structures, leadership, and workforce needs on care outcomes.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2g",
-    "Title": "",
-    "Descriptor": "Analyze relevant internal and external factors that drive healthcare costs and reimbursement.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2h",
-    "Title": "",
-    "Descriptor": "Design practices that enhance value, access, quality, and cost-effectiveness.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2i",
-    "Title": "",
-    "Descriptor": "Advocate for healthcare economic policies and regulations to enhance value, quality, and costeffectiveness.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2j",
-    "Title": "",
-    "Descriptor": "Formulate, document, and disseminate the return on investment for improvement initiatives collaboratively with an interdisciplinary team.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2k",
-    "Title": "",
-    "Descriptor": "Recommend system-wide strategies that improve cost- effectiveness considering structure, leadership, and workforce needs.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.2l",
-    "Title": "",
-    "Descriptor": "Evaluate health policies based on an ethical framework considering cost-effectiveness, health equity, and care outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "7.3",
-    "Title": "",
-    "Descriptor": "Optimize system effectiveness through application of innovation and evidence-based practice.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.3a",
-    "Title": "",
-    "Descriptor": "Demonstrate a systematic approach for decision-making.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.3b",
-    "Title": "",
-    "Descriptor": "Use reported performance metrics to compare/monitor outcomes.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.3c",
-    "Title": "",
-    "Descriptor": "Participate in evaluating system effectiveness.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.3d",
-    "Title": "",
-    "Descriptor": "Recognize internal and external system processes and structures that perpetuate racism and other forms of discrimination within health care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.3e",
-    "Title": "",
-    "Descriptor": "Apply innovative and evidence-based strategies focusing on system preparedness and capabilities.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.3f",
-    "Title": "",
-    "Descriptor": "Design system improvement strategies based on performance data and metrics.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.3g",
-    "Title": "",
-    "Descriptor": "Manage change to sustain system effectiveness.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "7.3h",
-    "Title": "",
-    "Descriptor": "Design system improvement strategies that address internal and external system processes and structures that perpetuate structural racism and other forms of discrimination in healthcare systems.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "8",
-    "Title": "Informatics and Healthcare Technologies",
-    "Descriptor": "Information and communication technologies and informatics processes are used to provide care, gather data, form information to drive decision making, and support professionals as they expand knowledge and wisdom for practice. Informatics processes and technologies are used to manage and improve the delivery of safe, high-quality, and efficient healthcare services in accordance with best practice and professional and regulatory standards.",
-    "Contexual Statement": "Healthcare professionals interact with patients, families, communities, and populations in technology-rich environments. Nurses, as essential members of the healthcare team, use information and communication technologies and informatics tools in their direct and indirect care roles. The technologies, the locations in which they are used, the users interacting with the technology, the communication occurring, and the work being done all impact the data collected, information formed, decisions made, and the knowledge generated. Additionally, the utilization of information and communication technologies in healthcare settings changes how people, processes, and policies interact. Using these tools in the provision of care has both short- and long-term consequences for the quality of care, efficiency of communications, and connections between team members, patients, and consumers. It is essential that nurses at all levels understand their role and the value of their input in health information technology analysis, planning, implementation, and evaluation. With the prevalence of patient-focused health information technologies, all nurses have a responsibility to advocate for equitable access and assist patients and consumers to optimally use these tools to engage in care, improve health, and manage health conditions.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "8.1",
-    "Title": "",
-    "Descriptor": "Describe the various information and communication technology tools used in the care of patients, communities, and populations.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1a",
-    "Title": "",
-    "Descriptor": "Identify the variety of information and communication technologies used in care settings.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1b",
-    "Title": "",
-    "Descriptor": "Identify the basic concepts of electronic health, mobile health, and telehealth systems for enabling patient care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1c",
-    "Title": "",
-    "Descriptor": "Effectively use electronic communication tools.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1d",
-    "Title": "",
-    "Descriptor": "Describe the appropriate use of multimedia applications in health care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1e",
-    "Title": "",
-    "Descriptor": "Demonstrate best practice use of social networking applications.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1f",
-    "Title": "",
-    "Descriptor": "Explain the importance of nursing engagement in the planning and selection of healthcare technologies.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1g",
-    "Title": "",
-    "Descriptor": "Identify best evidence and practices for the application of information and communication technologies to support care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1h",
-    "Title": "",
-    "Descriptor": "Evaluate the unintended consequences of information and communication technologies on care processes, communications, and information flow across care settings.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1i",
-    "Title": "",
-    "Descriptor": "Propose a plan to influence the selection and implementation of new information and communication technologies.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1j",
-    "Title": "",
-    "Descriptor": "Explore the fiscal impact of information and communication technologies on health care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.1k",
-    "Title": "",
-    "Descriptor": "Identify the impact of information and communication technologies on workflow processes and healthcare outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "8.2",
-    "Title": "",
-    "Descriptor": "Use information and communication technology to gather data, create information, and generate knowledge.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2a",
-    "Title": "",
-    "Descriptor": "Enter accurate data when chronicling care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2b",
-    "Title": "",
-    "Descriptor": "Explain how data entered on one patient impacts public and population health data.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2c",
-    "Title": "",
-    "Descriptor": "Use appropriate data when planning care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2d",
-    "Title": "",
-    "Descriptor": "Demonstrate the appropriate use of health information literacy assessments and improvement strategies.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2e",
-    "Title": "",
-    "Descriptor": "Describe the importance of standardized nursing data to reflect the unique contribution of nursing practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2f",
-    "Title": "",
-    "Descriptor": "Generate information and knowledge from health information technology databases.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2g",
-    "Title": "",
-    "Descriptor": "Evaluate the use of communication technology to improve consumer health information literacy.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2h",
-    "Title": "",
-    "Descriptor": "Use standardized data to evaluate decisionmaking and outcomes across all systems levels.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2i",
-    "Title": "",
-    "Descriptor": "Clarify how the collection of standardized data advances the practice, understanding, and value of nursing and supports care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.2j",
-    "Title": "",
-    "Descriptor": "Interpret primary and secondary data and other information to support care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "8.3",
-    "Title": "",
-    "Descriptor": "Use information and communication technologies and informatics processes to deliver safe nursing care to diverse populations in a variety of settings.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3a",
-    "Title": "",
-    "Descriptor": "Demonstrate appropriate use of information and communication technologies.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3b",
-    "Title": "",
-    "Descriptor": "Evaluate how decision support tools impact clinical judgment and safe patient care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3c",
-    "Title": "",
-    "Descriptor": "Use information and communication technology in a manner that supports the nursepatient relationship.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3d",
-    "Title": "",
-    "Descriptor": "Examine how emerging technologies influence healthcare delivery and clinical decision making.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3e",
-    "Title": "",
-    "Descriptor": "Identify impact of information and communication technology on quality and safety of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3f",
-    "Title": "",
-    "Descriptor": "Identify the importance of reporting system processes and functional issues (error messages, mis-directions, device malfunctions, etc.) according to organizational policies and procedures.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3g",
-    "Title": "",
-    "Descriptor": "Evaluate the use of information and communication technology to address needs, gaps, and inefficiencies in care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3h",
-    "Title": "",
-    "Descriptor": "Formulate a plan to influence decisionmaking processes for selecting, implementing, and evaluating support tools.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3i",
-    "Title": "",
-    "Descriptor": "Appraise the role of information and communication technologies in engaging the patient and supporting the nurse-patient relationship.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3j",
-    "Title": "",
-    "Descriptor": "Evaluate the potential uses and impact",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.3k",
-    "Title": "",
-    "Descriptor": "Pose strategies to reduce inequities in digital access to data and information.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "8.4",
-    "Title": "",
-    "Descriptor": "Use information and communication technology to support documentation of care and communication among providers, patients, and all system levels.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.4a",
-    "Title": "",
-    "Descriptor": "Explain the role of communication technology in enhancing clinical information flows.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.4b",
-    "Title": "",
-    "Descriptor": "Describe how information and communication technology tools support patient and team communications.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.4c",
-    "Title": "",
-    "Descriptor": "Identify the basic concepts of electronic health, mobile health, and telehealth systems in enabling patient care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.4d",
-    "Title": "",
-    "Descriptor": "Explain the impact of health information exchange, interoperability, and integration on health care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.4e",
-    "Title": "",
-    "Descriptor": "Assess best practices for the use of advanced information and communication technologies to support patient and team communications.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.4f",
-    "Title": "",
-    "Descriptor": "Employ electronic health, mobile health, and telehealth systems to enable quality, ethical, and efficient patient care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.4g",
-    "Title": "",
-    "Descriptor": "Evaluate the impact of health information exchange, interoperability, and integration to support patient-centered care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "8.5",
-    "Title": "",
-    "Descriptor": "Use information and communication technologies in accordance with ethical, legal, professional, and regulatory standards, and workplace policies in the delivery of care.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5a",
-    "Title": "",
-    "Descriptor": "Identify common risks associated with using information and communication technology",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5b",
-    "Title": "",
-    "Descriptor": "Demonstrate ethical use of social networking applications.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5c",
-    "Title": "",
-    "Descriptor": "Comply with legal and regulatory requirements while using communication and information technologies.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5d",
-    "Title": "",
-    "Descriptor": "Educate patients on their rights to access, review, and correct personal data and medical records.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5e",
-    "Title": "",
-    "Descriptor": "Discuss how clinical judgment and critical thinking must prevail in the presence of information and communication technologies.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5f",
-    "Title": "",
-    "Descriptor": "Deliver care using remote technology.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5g",
-    "Title": "",
-    "Descriptor": "Apply risk mitigation and security strategies to reduce misuse of information and communication technology.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5h",
-    "Title": "",
-    "Descriptor": "Assess potential ethical and legal issues associated with the use of information and communication technology.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5i",
-    "Title": "",
-    "Descriptor": "Recommend strategies to protect health information when using communication and information technology.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5j",
-    "Title": "",
-    "Descriptor": "Promote patient engagement with their personal health data.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5k",
-    "Title": "",
-    "Descriptor": "Advocate for policies and regulations that support the appropriate use of technologies impacting health care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "8.5l",
-    "Title": "",
-    "Descriptor": "Analyze the impact of federal and state policies and regulation on health data and technology in care settings.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "9",
-    "Title": "Professionalism",
-    "Descriptor": "Formation and cultivation of a sustainable professional identity, including accountability, perspective, collaborative disposition, and comportment, that reflects nursing�s characteristics and values.",
-    "Contexual Statement": "Professionalism encompasses the development of a nursing identity embracing the values of integrity, altruism, inclusivity, compassion, courage, humility, advocacy, caring, autonomy, humanity, and social justice. Professional identity formation necessitates the development of emotional intelligence to promote social good, engage in social justice, and demonstrate ethical comportment, moral courage, and assertiveness in decision making and actions. Nursing professionalism is a continuous process of socialization that requires the nurse to give back to the profession through the mentorship and development of others. Professional identity, influenced by one�s personal identity and unique background, is formed throughout one�s education and career. Nursing identity flourishes through engagement and reflection in multiple experiences that is defined by differing perspectives and voices. As a result, nurses embrace the history, characteristics, and values of the discipline and think, act, and feel like a nurse. Professional identity formation is not a linear process but rather one that responds to challenges and matures through professional experiences as one develops confidence as a nurse.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "9.1",
-    "Title": "",
-    "Descriptor": "Demonstrate an ethical comportment in one�s practice reflective of nursing�s mission to society",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1a",
-    "Title": "",
-    "Descriptor": "Apply principles of professional nursing ethics and human rights in patient care and professional situations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1b",
-    "Title": "",
-    "Descriptor": "Reflect on one�s actions and their consequences.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1c",
-    "Title": "",
-    "Descriptor": "Demonstrate ethical behaviors in practice",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1d",
-    "Title": "",
-    "Descriptor": "Change behavior based on self and situational awareness.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1e",
-    "Title": "",
-    "Descriptor": "Report unethical behaviors when observed.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1f",
-    "Title": "",
-    "Descriptor": "Safeguard privacy, confidentiality, and autonomy in all interactions.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1g",
-    "Title": "",
-    "Descriptor": "Advocate for the individual�s right to self-determination.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1h",
-    "Title": "",
-    "Descriptor": "Analyze current policies and practices in the context of an ethical framework.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1i",
-    "Title": "",
-    "Descriptor": "Model ethical behaviors in practice and leadership roles.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1j",
-    "Title": "",
-    "Descriptor": "Suggest solutions when unethical behaviors are observed.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.1k",
-    "Title": "",
-    "Descriptor": "Assume accountability for working to resolve ethical dilemmas.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "9.2",
-    "Title": "",
-    "Descriptor": "Employ participatory approach to nursing care.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2a",
-    "Title": "",
-    "Descriptor": "Employ the use of intentional presence to facilitate shared meaning of the experience between nurse and recipient of care.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2b",
-    "Title": "",
-    "Descriptor": "Facilitate health and healing through compassionate caring.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2c",
-    "Title": "",
-    "Descriptor": "Demonstrate empathy to the individual�s life experience.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2d",
-    "Title": "",
-    "Descriptor": "Advocate for practices that advance diversity, equity, and inclusion.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2e",
-    "Title": "",
-    "Descriptor": "Demonstrate cultural sensitivity and humility in practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2f",
-    "Title": "",
-    "Descriptor": "Apply principles of therapeutic relationships and professional boundaries.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2g",
-    "Title": "",
-    "Descriptor": "Communicate in a professional manner",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2h",
-    "Title": "",
-    "Descriptor": "Foster opportunities for intentional presence in practice.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2i",
-    "Title": "",
-    "Descriptor": "Identify innovative and evidence-based practices that promote person-centered care.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2j",
-    "Title": "",
-    "Descriptor": "Advocate for practices that advance diversity, equity, and inclusion.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2k",
-    "Title": "",
-    "Descriptor": "Model professional expectations for therapeutic relationships.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.2l",
-    "Title": "",
-    "Descriptor": "Facilitate communication that promotes a participatory approach.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "9.3",
-    "Title": "",
-    "Descriptor": "Demonstrate accountability to the individual, society, and the profession.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3a",
-    "Title": "",
-    "Descriptor": "Engage in advocacy that promotes the best interest of the individual, community, and profession.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3b",
-    "Title": "",
-    "Descriptor": "Demonstrate the moral courage to report concerns related to actual or potential hazards and/ or errors.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3c",
-    "Title": "",
-    "Descriptor": "Demonstrate professional and personal honesty and integrity.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3d",
-    "Title": "",
-    "Descriptor": "Take responsibility for one�s roles, decisions, obligations, actions, and care outcomes.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3e",
-    "Title": "",
-    "Descriptor": "Engage in professional activities and/or organizations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3f",
-    "Title": "",
-    "Descriptor": "Demonstrate adherence to a culture of civility.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3g",
-    "Title": "",
-    "Descriptor": "Advocate for social justice and health equity, including addressing the health of vulnerable populations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3h",
-    "Title": "",
-    "Descriptor": "Engage in peer evaluation.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3i",
-    "Title": "",
-    "Descriptor": "Advocate for nursing�s professional responsibility for ensuring optimal care outcomes",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3j",
-    "Title": "",
-    "Descriptor": "Demonstrate leadership skills when participating in professional activities and/or organizations.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3k",
-    "Title": "",
-    "Descriptor": "Address actual or potential hazards and/or errors.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3l",
-    "Title": "",
-    "Descriptor": "Foster a practice environment that promotes accountability for care outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3m",
-    "Title": "",
-    "Descriptor": "Advocate for policies/practices that promote social justice and health equity.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3n",
-    "Title": "",
-    "Descriptor": "Foster strategies that promote a culture of civility across a variety of settings.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.3o",
-    "Title": "",
-    "Descriptor": "Lead in the development of opportunities for professional and interprofessional activities.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "9.4",
-    "Title": "",
-    "Descriptor": "Comply with relevant laws, policies, and regulations.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.4a",
-    "Title": "",
-    "Descriptor": "Advocate for policies that promote health and prevent harm.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.4b",
-    "Title": "",
-    "Descriptor": "Adhere to the registered nurse scope and standards of practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.4c",
-    "Title": "",
-    "Descriptor": "Adhere to regulatory requirements and workplace policies consistent with one�s educational preparation.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.4d",
-    "Title": "",
-    "Descriptor": "Advocate for polices that enable nurses to practice to the full extent of their education.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.4e",
-    "Title": "",
-    "Descriptor": "Assess the interaction between regulatory agency requirements and quality, fiscal, and value-based indicators.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.4f",
-    "Title": "",
-    "Descriptor": "Evaluate the effect of legal and regulatory policies on nursing practice and healthcare outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.4g",
-    "Title": "",
-    "Descriptor": "Analyze efforts to change legal and regulatory policies that improve nursing practice and health outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.4h",
-    "Title": "",
-    "Descriptor": "Participate in the implementation of policies and regulations to improve the professional practice environment and healthcare outcomes.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "9.5",
-    "Title": "",
-    "Descriptor": "Demonstrate the professional identity of nursing.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5a",
-    "Title": "",
-    "Descriptor": "Describe nursing�s professional identity and contributions to the healthcare team.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5b",
-    "Title": "",
-    "Descriptor": "Demonstrate the core values of professional nursing identity.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5c",
-    "Title": "",
-    "Descriptor": "Demonstrate sensitivity to the values of others.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5d",
-    "Title": "",
-    "Descriptor": "Demonstrate ethical comportment and moral courage in decision making and actions.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5e",
-    "Title": "",
-    "Descriptor": "Demonstrate emotional intelligence.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5f",
-    "Title": "",
-    "Descriptor": "Articulate nursing�s unique professional identity to other interprofessional team members and the public.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5g",
-    "Title": "",
-    "Descriptor": "Evaluate practice environment to ensure that nursing core values are demonstrated.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5h",
-    "Title": "",
-    "Descriptor": "Identify opportunities to lead with moral courage to influence team decision-making.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.5i",
-    "Title": "",
-    "Descriptor": "Engage in professional organizations that reflect nursing�s values and identity.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "9.6",
-    "Title": "",
-    "Descriptor": "Integrate diversity, equity, and inclusion as core to one�s professional identity.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6a",
-    "Title": "",
-    "Descriptor": "Demonstrate respect for diverse individual differences and diverse communities and populations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6b",
-    "Title": "",
-    "Descriptor": "Demonstrate awareness of personal and professional values and conscious and unconscious biases.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6c",
-    "Title": "",
-    "Descriptor": "Integrate core principles of social justice and human rights into practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6d",
-    "Title": "",
-    "Descriptor": "Model respect for diversity, equity, and inclusion for all team members.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6e",
-    "Title": "",
-    "Descriptor": "Critique one�s personal and professional practices in the context of nursing�s core values.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6f",
-    "Title": "",
-    "Descriptor": "Analyze the impact of structural and cultural influences on nursing�s professional identity",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6g",
-    "Title": "",
-    "Descriptor": "Ensure that care provided by self and others is reflective of nursing�s core values.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6h",
-    "Title": "",
-    "Descriptor": "Structure the practice environment to facilitate care that is culturally and linguistically appropriate.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "9.6i",
-    "Title": "",
-    "Descriptor": "Ensure self and others are accountable in upholding moral, legal, and humanistic principles related to health.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Domain",
-    "Code": "10",
-    "Title": "Personal, Professional, and Leadership Development",
-    "Descriptor": "Participation in activities and self-reflection that foster personal health, resilience, and well-being; contribute to lifelong learning; and support the acquisition of nursing expertise and the assertion of leadership.",
-    "Contexual Statement": "Competency in personal, professional, and leadership development encompasses three areas: 1) development of the nurse as an individual who is resilient, agile, and capable of adapting to ambiguity and change; 2) development of the nurse as a professional responsible for lifelong learning and ongoing self-reflection; and 3) development of the nurse as a leader proficient in asserting control, influence, and power in professional and personal contexts, which includes advocacy for patients and the nursing profession as leaders within the healthcare arena. Development of these dimensions requires a commitment to personal growth, sustained expansion of professional knowledge and expertise, and determined leadership practice in a variety of contexts. Graduates must develop attributes and skills critical to the viability of the profession and practice environments. The aim is to promote diversity and retention in the profession, selfawareness, avoidance of stress-induced emotional and mental exhaustion, and re-direction of energy from negative perceptions to positive influence through leadership opportunities.",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "10.1",
-    "Title": "",
-    "Descriptor": "Demonstrate a commitment to personal health and well-being.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.1a",
-    "Title": "",
-    "Descriptor": "Demonstrate healthy, self-care behaviors that promote wellness and resiliency.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.1b",
-    "Title": "",
-    "Descriptor": "Manage conflict between personal and professional responsibilities.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.1c",
-    "Title": "",
-    "Descriptor": "Contribute to an environment that promotes self-care, personal health, and well-being.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.1d",
-    "Title": "",
-    "Descriptor": "Evaluate the workplace environment to determine level of health and well-being.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "10.2",
-    "Title": "",
-    "Descriptor": "Demonstrate a spirit of inquiry that fosters flexibility and professional maturity.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2a",
-    "Title": "",
-    "Descriptor": "Engage in guided and spontaneous reflection of one�s practice.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2b",
-    "Title": "",
-    "Descriptor": "Integrate comprehensive feedback to improve performance.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2c",
-    "Title": "",
-    "Descriptor": "Commit to personal and professional development.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2d",
-    "Title": "",
-    "Descriptor": "Expand personal knowledge to inform clinical judgment.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2e",
-    "Title": "",
-    "Descriptor": "Participate in ongoing activities that embrace principles of diversity, equity, inclusion, and antidiscrimination.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2f",
-    "Title": "",
-    "Descriptor": "Identify role models and mentors to support professional growth.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2g",
-    "Title": "",
-    "Descriptor": "Demonstrate cognitive flexibility in managing change within complex environments.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2h",
-    "Title": "",
-    "Descriptor": "Mentor others in the development of their professional growth and accountability",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2i",
-    "Title": "",
-    "Descriptor": "Foster activities that support a culture of lifelong learning.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.2j",
-    "Title": "",
-    "Descriptor": "Expand leadership skills through professional service.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Competency",
-    "Code": "10.3",
-    "Title": "",
-    "Descriptor": "Develop capacity for leadership.",
-    "Contexual Statement": "",
-    "Level": ""
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3a",
-    "Title": "",
-    "Descriptor": "Compare and contrast leadership principles and theories.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3b",
-    "Title": "",
-    "Descriptor": "Formulate a personal leadership style.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3c",
-    "Title": "",
-    "Descriptor": "Demonstrate leadership behaviors in professional situations.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3d",
-    "Title": "",
-    "Descriptor": "Demonstrate self-efficacy consistent with one�s professional development.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3e",
-    "Title": "",
-    "Descriptor": "Use appropriate resources when dealing with ambiguity.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3f",
-    "Title": "",
-    "Descriptor": "Modify one�s own leadership behaviors based on guided self-reflection.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3g",
-    "Title": "",
-    "Descriptor": "Demonstrate self-awareness of one�s own implicit biases and their relationship to one�s culture and environment.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3h",
-    "Title": "",
-    "Descriptor": "Communicate a consistent image of the nurse as a leader.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3i",
-    "Title": "",
-    "Descriptor": "Recognize the importance of nursing�s contributions as leaders in practice and policy issues.",
-    "Contexual Statement": "",
-    "Level": "Entry-Level"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3j",
-    "Title": "",
-    "Descriptor": "Provide leadership to advance the nursing profession.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3k",
-    "Title": "",
-    "Descriptor": "Influence intentional change guided by leadership principles and theories.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3l",
-    "Title": "",
-    "Descriptor": "Evaluate the outcomes of intentional change.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3m",
-    "Title": "",
-    "Descriptor": "Evaluate strategies/methods for peer review.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3n",
-    "Title": "",
-    "Descriptor": "Participate in the evaluation of other members of the care team.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3o",
-    "Title": "",
-    "Descriptor": "Demonstrate leadership skills in times of uncertainty and crisis.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3p",
-    "Title": "",
-    "Descriptor": "Advocate for the promotion of social justice and eradication of structural racism and systematic inequity in nursing and society.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
-  },
-  {
-    "Data Type": "Sub-Competency",
-    "Code": "10.3q",
-    "Title": "",
-    "Descriptor": "Advocate for the nursing profession in a manner that is consistent, positive, relevant, accurate, and distinctive.",
-    "Contexual Statement": "",
-    "Level": "Advanced"
+{
+  "1.1a": {
+    "description": "Identify concepts, derived from theories from nursing and other disciplines, which distinguish the practice of nursing.",
+    "level": "Entry-Level"
+  },
+  "1.1b": {
+    "description": "Apply knowledge of nursing science that develops a foundation for nursing practice.",
+    "level": "Entry-Level"
+  },
+  "1.1c": {
+    "description": "Understand the historical foundation of nursing as the relationship developed between the individual and nurse.",
+    "level": "Entry-Level"
+  },
+  "1.1d": {
+    "description": "Articulate nursing’s distinct perspective to practice.",
+    "level": "Entry-Level"
+  },
+  "1.1e": {
+    "description": "Translate evidence from nursing science as well as other sciences into practice.",
+    "level": "Advanced"
+  },
+  "1.1f": {
+    "description": "Demonstrate the application of nursing science to practice.",
+    "level": "Advanced"
+  },
+  "1.1g": {
+    "description": "Integrate an understanding of nursing history in advancing nursing’s influence in health care.",
+    "level": "Advanced"
+  },
+  "1.2a": {
+    "description": "Apply or employ knowledge from nursing science as well as the natural, physical, and social sciences to build an understanding of the human experience and nursing practice.",
+    "level": "Entry-Level"
+  },
+  "1.2b": {
+    "description": "Demonstrate intellectual curiosity.",
+    "level": "Entry-Level"
+  },
+  "1.2c": {
+    "description": "Demonstrate social responsibility as a global citizen who fosters the attainment of health equity for all.",
+    "level": "Entry-Level"
+  },
+  "1.2d": {
+    "description": "Examine influence of personal values in decision making for nursing practice.",
+    "level": "Entry-Level"
+  },
+  "1.2e": {
+    "description": "Demonstrate ethical decision making.",
+    "level": "Entry-Level"
+  },
+  "1.2f": {
+    "description": "Synthesize knowledge from nursing and other disciplines to inform education, practice, and research.",
+    "level": "Advanced"
+  },
+  "1.2g": {
+    "description": "Apply a systematic and defendable approach to nursing practice decisions.",
+    "level": "Advanced"
+  },
+  "1.2h": {
+    "description": "Employ ethical decision making to assess, intervene, and evaluate nursing care.",
+    "level": "Advanced"
+  },
+  "1.2i": {
+    "description": "Demonstrate socially responsible leadership.",
+    "level": "Advanced"
+  },
+  "1.2j": {
+    "description": "Translate theories from nursing and other disciplines to practice.",
+    "level": "Advanced"
+  },
+  "1.3a": {
+    "description": "Demonstrate clinical reasoning.",
+    "level": "Entry-Level"
+  },
+  "1.3b": {
+    "description": "Integrate nursing knowledge (theories, multiple ways of knowing, evidence) and knowledge from other disciplines and inquiry to inform clinical judgment.",
+    "level": "Entry-Level"
+  },
+  "1.3c": {
+    "description": "Incorporate knowledge from nursing and other disciplines to support clinical judgment.",
+    "level": "Entry-Level"
+  },
+  "1.3d": {
+    "description": "Integrate foundational and advanced specialty knowledge into clinical reasoning.",
+    "level": "Advanced"
+  },
+  "1.3e": {
+    "description": "Synthesize current and emerging evidence to Influence practice.",
+    "level": "Advanced"
+  },
+  "1.3f": {
+    "description": "Analyze decision models from nursing and other knowledge domains to improve clinical judgment.",
+    "level": "Advanced"
+  },
+  "2.1a": {
+    "description": "Demonstrate qualities of empathy.",
+    "level": "Entry-Level"
+  },
+  "2.1b": {
+    "description": "Demonstrate compassionate care.",
+    "level": "Entry-Level"
+  },
+  "2.1c": {
+    "description": "Establish mutual respect with the individual and family.",
+    "level": "Entry-Level"
+  },
+  "2.1d": {
+    "description": "Promote caring relationships to effect positive outcomes.",
+    "level": "Advanced"
+  },
+  "2.1e": {
+    "description": "Foster caring relationships.",
+    "level": "Advanced"
+  },
+  "2.2a": {
+    "description": "Demonstrate relationship-centered care.",
+    "level": "Entry-Level"
+  },
+  "2.2b": {
+    "description": "Consider individual beliefs, values, and personalized information in communications.",
+    "level": "Entry-Level"
+  },
+  "2.2c": {
+    "description": "Use a variety of communication modes appropriate for the context.",
+    "level": "Entry-Level"
+  },
+  "2.2d": {
+    "description": "Demonstrate the ability to conduct sensitive or difficult conversations.",
+    "level": "Entry-Level"
+  },
+  "2.2e": {
+    "description": "Use evidence-based patient teaching materials, considering health literacy, vision, hearing, and cultural sensitivity.",
+    "level": "Entry-Level"
+  },
+  "2.2f": {
+    "description": "Demonstrate emotional intelligence in communications.",
+    "level": "Entry-Level"
+  },
+  "2.2g": {
+    "description": "Demonstrate advanced communication skills and techniques using a variety of modalities with diverse audiences.",
+    "level": "Advanced"
+  },
+  "2.2h": {
+    "description": "Design evidence-based, person-centered engagement materials.",
+    "level": "Advanced"
+  },
+  "2.2i": {
+    "description": "Apply individualized information, such as genetic/genomic, pharmacogenetic, and environmental exposure information in the delivery of personalized health care.",
+    "level": "Advanced"
+  },
+  "2.2j": {
+    "description": "Facilitate difficult conversations and disclosure of sensitive information.",
+    "level": "Advanced"
+  },
+  "2.3a": {
+    "description": "Create an environment during assessment that promotes a dynamic interactive experience.",
+    "level": "Entry-Level"
+  },
+  "2.3b": {
+    "description": "Obtain a complete and accurate history in a systematic manner.",
+    "level": "Entry-Level"
+  },
+  "2.3c": {
+    "description": "Perform a clinically relevant, holistic health assessment.",
+    "level": "Entry-Level"
+  },
+  "2.3d": {
+    "description": "Perform point of care screening/diagnostic testing (e.g. blood glucose, PO2, EKG).",
+    "level": "Entry-Level"
+  },
+  "2.3e": {
+    "description": "Distinguish between normal and abnormal health findings.",
+    "level": "Entry-Level"
+  },
+  "2.3f": {
+    "description": "Apply nursing knowledge to gain a holistic perspective of the person, family, community, and population.",
+    "level": "Entry-Level"
+  },
+  "2.3g": {
+    "description": "Communicate findings of a comprehensive assessment.",
+    "level": "Entry-Level"
+  },
+  "2.3h": {
+    "description": "Demonstrate that one’s practice is informed by a comprehensive assessment appropriate to the functional area of advanced nursing practice.",
+    "level": "Advanced"
+  },
+  "2.4a": {
+    "description": "Synthesize assessment data in the context of the individual’s current preferences, situation, and experience.",
+    "level": "Entry-Level"
+  },
+  "2.4b": {
+    "description": "Create a list of problems/health concerns.",
+    "level": "Entry-Level"
+  },
+  "2.4c": {
+    "description": "Prioritize problems/health concerns.",
+    "level": "Entry-Level"
+  },
+  "2.4d": {
+    "description": "Understand and apply the results of social screening, psychological testing, laboratory data, imaging studies, and other diagnostic tests in actions and plans of care.",
+    "level": "Entry-Level"
+  },
+  "2.4e": {
+    "description": "Contribute as a team member to the formation and improvement of diagnoses.",
+    "level": "Entry-Level"
+  },
+  "2.4f": {
+    "description": "Employ context driven, advanced reasoning to the diagnostic and decision-making process.",
+    "level": "Advanced"
+  },
+  "2.4g": {
+    "description": "Integrate advanced scientific knowledge to guide decision making.",
+    "level": "Advanced"
+  },
+  "2.5a": {
+    "description": "Engage the individual and the team in plan development.",
+    "level": "Entry-Level"
+  },
+  "2.5b": {
+    "description": "Organize care based on mutual health goals.",
+    "level": "Entry-Level"
+  },
+  "2.5c": {
+    "description": "Prioritize care based on best evidence.",
+    "level": "Entry-Level"
+  },
+  "2.5d": {
+    "description": "Incorporate evidence-based intervention to improve outcomes and safety.",
+    "level": "Entry-Level"
+  },
+  "2.5e": {
+    "description": "Anticipate outcomes of care (expected, unexpected, and potentially adverse).",
+    "level": "Entry-Level"
+  },
+  "2.5f": {
+    "description": "Demonstrate rationale for plan.",
+    "level": "Entry-Level"
+  },
+  "2.5g": {
+    "description": "Address individuals’ experiences and perspectives in designing plans of care.",
+    "level": "Entry-Level"
+  },
+  "2.5h": {
+    "description": "Lead and collaborate with an interprofessional team to develop a comprehensive plan of care.",
+    "level": "Advanced"
+  },
+  "2.5i": {
+    "description": "Prioritize risk mitigation strategies to prevent or reduce adverse outcomes.",
+    "level": "Advanced"
+  },
+  "2.5j": {
+    "description": "Develop evidence-based interventions to improve outcomes and safety.",
+    "level": "Advanced"
+  },
+  "2.5k": {
+    "description": "Incorporate innovations into practice when evidence is not available.",
+    "level": "Advanced"
+  },
+  "2.6a": {
+    "description": "Implement individualized plan of care using established protocols.",
+    "level": "Entry-Level"
+  },
+  "2.6b": {
+    "description": "Communicate care delivery through multiple modalities.",
+    "level": "Entry-Level"
+  },
+  "2.6c": {
+    "description": "Delegate appropriately to team members.",
+    "level": "Entry-Level"
+  },
+  "2.6d": {
+    "description": "Monitor the implementation of the plan of care.",
+    "level": "Entry-Level"
+  },
+  "2.6e": {
+    "description": "Model best care practices to the team.",
+    "level": "Advanced"
+  },
+  "2.6f": {
+    "description": "Monitor aggregate metrics to assure accountability for care outcomes.",
+    "level": "Advanced"
+  },
+  "2.6g": {
+    "description": "Promote delivery of care that supports practice at the full scope of education.",
+    "level": "Advanced"
+  },
+  "2.6h": {
+    "description": "Contribute to the development of policies and processes that promote transparency and accountability.",
+    "level": "Advanced"
+  },
+  "2.6i": {
+    "description": "Apply current and emerging evidence to the development of care guidelines/tools.",
+    "level": "Advanced"
+  },
+  "2.6j": {
+    "description": "Ensure accountability throughout transitions of care across the health continuum.",
+    "level": "Advanced"
+  },
+  "2.7a": {
+    "description": "Reassess the individual to evaluate health outcomes/goals",
+    "level": "Entry-Level"
+  },
+  "2.7b": {
+    "description": "Modify plan of care as needed.",
+    "level": "Entry-Level"
+  },
+  "2.7c": {
+    "description": "Recognize the need for modifications to standard practice.",
+    "level": "Entry-Level"
+  },
+  "2.7d": {
+    "description": "Analyze data to identify gaps and inequities in care and monitor trends in outcomes.",
+    "level": "Advanced"
+  },
+  "2.7e": {
+    "description": "Monitor epidemiological and system-level aggregate data to determine healthcare outcomes and trends.",
+    "level": "Advanced"
+  },
+  "2.7f": {
+    "description": "Synthesize outcome data to inform evidencebased practice, guidelines, and policies.",
+    "level": "Advanced"
+  },
+  "2.8a": {
+    "description": "Assist the individual to engage in self-care management.",
+    "level": "Entry-Level"
+  },
+  "2.8b": {
+    "description": "Employ individualized educational strategies based on learning theories, methodologies, and health literacy.",
+    "level": "Entry-Level"
+  },
+  "2.8c": {
+    "description": "Educate individuals and families regarding selfcare for health promotion, illness prevention, and illness management.",
+    "level": "Entry-Level"
+  },
+  "2.8d": {
+    "description": "Respect individuals and families’ selfdetermination in their healthcare decisions.",
+    "level": "Entry-Level"
+  },
+  "2.8e": {
+    "description": "Identify personal, system, and community resources available to support self-care management.",
+    "level": "Entry-Level"
+  },
+  "2.8f": {
+    "description": "Develop strategies that promote self-care management.",
+    "level": "Advanced"
+  },
+  "2.8g": {
+    "description": "Incorporate the use of current and emerging technologies to support self-care management.",
+    "level": "Advanced"
+  },
+  "2.8h": {
+    "description": "Employ counseling techniques, including motivational interviewing, to advance wellness and self-care management.",
+    "level": "Advanced"
+  },
+  "2.8i": {
+    "description": "Evaluate adequacy of resources available to support self-care management.",
+    "level": "Advanced"
+  },
+  "2.8j": {
+    "description": "Foster partnerships with community organizations to support self-care management.",
+    "level": "Advanced"
+  },
+  "2.9a": {
+    "description": "Facilitate continuity of care based on assessment of assets and needs.",
+    "level": "Entry-Level"
+  },
+  "2.9b": {
+    "description": "Communicate with relevant stakeholders across health systems.",
+    "level": "Entry-Level"
+  },
+  "2.9c": {
+    "description": "Promote collaboration by clarifying responsibilities among individual, family, and team members.",
+    "level": "Entry-Level"
+  },
+  "2.9d": {
+    "description": "Recognize when additional expertise and knowledge is needed to manage the patient.",
+    "level": "Entry-Level"
+  },
+  "2.9e": {
+    "description": "Provide coordination of care of individuals and families in collaboration with care team.",
+    "level": "Advanced"
+  },
+  "2.9f": {
+    "description": "Evaluate communication pathways among providers and others across settings, systems, and communities.",
+    "level": "Advanced"
+  },
+  "2.9g": {
+    "description": "Develop strategies to optimize care coordination and transitions of care.",
+    "level": "Advanced"
+  },
+  "2.9h": {
+    "description": "Guide the coordination of care across health systems.",
+    "level": "Advanced"
+  },
+  "2.9i": {
+    "description": "Analyze system-level and public policy influence on care coordination.",
+    "level": "Advanced"
+  },
+  "2.9j": {
+    "description": "Participate in system-level change to improve care coordination across settings.",
+    "level": "Advanced"
+  },
+  "3.1a": {
+    "description": "Define a target population including its functional and problem-solving capabilities (anywhere in the continuum of care).",
+    "level": "Entry-Level"
+  },
+  "3.1b": {
+    "description": "Assess population health data.",
+    "level": "Entry-Level"
+  },
+  "3.1c": {
+    "description": "Assess the priorities of the community and/or the affected clinical population.",
+    "level": "Entry-Level"
+  },
+  "3.1d": {
+    "description": "Compare and contrast local, regional, national, and global benchmarks to identify health patterns across populations.",
+    "level": "Entry-Level"
+  },
+  "3.1e": {
+    "description": "Apply an understanding of the public health system and its interfaces with clinical health care in addressing population health needs.",
+    "level": "Entry-Level"
+  },
+  "3.1f": {
+    "description": "Develop an action plan to meet an identified need(s), including evaluation methods.",
+    "level": "Entry-Level"
+  },
+  "3.1g": {
+    "description": "Participate in the implementation of sociocultural and linguistically responsive interventions.",
+    "level": "Entry-Level"
+  },
+  "3.1h": {
+    "description": "Describe general principles and practices for the clinical management of populations across the age continuum.",
+    "level": "Entry-Level"
+  },
+  "3.1i": {
+    "description": "Identify ethical principles to protect the health and safety of diverse populations.",
+    "level": "Entry-Level"
+  },
+  "3.1j": {
+    "description": "Assess the efficacy of a system’s capability to serve a target sub-population’s healthcare needs.",
+    "level": "Advanced"
+  },
+  "3.1k": {
+    "description": "Analyze primary and secondary population health data for multiple populations against relevant benchmarks.",
+    "level": "Advanced"
+  },
+  "3.1l": {
+    "description": "Use established or evolving methods to determine population-focused priorities for care.",
+    "level": "Advanced"
+  },
+  "3.1m": {
+    "description": "Develop a collaborative approach with relevant stakeholders to address population healthcare needs, including evaluation methods.",
+    "level": "Advanced"
+  },
+  "3.1n": {
+    "description": "Collaborate with appropriate stakeholders to implement a sociocultural and linguistically responsive intervention plan.",
+    "level": "Advanced"
+  },
+  "3.2a": {
+    "description": "Engage with other health professionals to address population health issues.",
+    "level": "Entry-Level"
+  },
+  "3.2b": {
+    "description": "Demonstrate effective collaboration and mutual accountability with relevant stakeholders.",
+    "level": "Entry-Level"
+  },
+  "3.2c": {
+    "description": "Use culturally and linguistically responsive communication strategies.",
+    "level": "Entry-Level"
+  },
+  "3.2d": {
+    "description": "Ascertain collaborative opportunities for individuals and organizations to improve population health.",
+    "level": "Advanced"
+  },
+  "3.2e": {
+    "description": "Challenge biases and barriers that impact population health outcomes.",
+    "level": "Advanced"
+  },
+  "3.2f": {
+    "description": "Evaluate the effectiveness of partnerships for achieving health equity.",
+    "level": "Advanced"
+  },
+  "3.2g": {
+    "description": "Lead partnerships to improve population health outcomes.",
+    "level": "Advanced"
+  },
+  "3.2h": {
+    "description": "Assess preparation and readiness of partners to organize during natural and manmade disasters.",
+    "level": "Advanced"
+  },
+  "3.3a": {
+    "description": "Describe access and equity implications of proposed intervention(s).",
+    "level": "Entry-Level"
+  },
+  "3.3b": {
+    "description": "Prioritize patient-focused and/or community action plans that are safe, effective, and efficient in the context of available resources.",
+    "level": "Entry-Level"
+  },
+  "3.3c": {
+    "description": "Analyze cost-benefits of selected populationbased interventions.",
+    "level": "Advanced"
+  },
+  "3.3d": {
+    "description": "Collaborate with partners to secure and leverage resources necessary for effective, sustainable interventions.",
+    "level": "Advanced"
+  },
+  "3.3e": {
+    "description": "Advocate for interventions that maximize costeffective, accessible, and equitable resources for populations.",
+    "level": "Advanced"
+  },
+  "3.3f": {
+    "description": "Incorporate ethical principles in resource allocation in achieving equitable health.",
+    "level": "Advanced"
+  },
+  "3.4a": {
+    "description": "Describe policy development processes.",
+    "level": "Entry-Level"
+  },
+  "3.4b": {
+    "description": "Describe the impact of policies on population outcomes, including social justice and health equity.",
+    "level": "Entry-Level"
+  },
+  "3.4c": {
+    "description": "Identify best evidence to support policy development.",
+    "level": "Entry-Level"
+  },
+  "3.4d": {
+    "description": "Propose modifications to or development of policy based on population findings.",
+    "level": "Entry-Level"
+  },
+  "3.4e": {
+    "description": "Develop an awareness of the interconnectedness of population health across borders.",
+    "level": "Entry-Level"
+  },
+  "3.4f": {
+    "description": "Identify opportunities to influence the policy process.",
+    "level": "Advanced"
+  },
+  "3.4g": {
+    "description": "Design comprehensive advocacy strategies to support the policy process.",
+    "level": "Advanced"
+  },
+  "3.4h": {
+    "description": "Engage in strategies to influence policy change.",
+    "level": "Advanced"
+  },
+  "3.4i": {
+    "description": "Contribute to policy development at the system, local, regional, or national levels.",
+    "level": "Advanced"
+  },
+  "3.4j": {
+    "description": "Assess the impact of policy changes.",
+    "level": "Advanced"
+  },
+  "3.4k": {
+    "description": "Evaluate the ability of policy to address disparities and inequities within segments of the population.",
+    "level": "Advanced"
+  },
+  "3.4l": {
+    "description": "Evaluate the risks to population health associated with globalization.",
+    "level": "Advanced"
+  },
+  "3.5a": {
+    "description": "Articulate a need for change.",
+    "level": "Entry-Level"
+  },
+  "3.5b": {
+    "description": "Describe the intent of the proposed change.",
+    "level": "Entry-Level"
+  },
+  "3.5c": {
+    "description": "Define stakeholders, including members of the community and/or clinical populations, and their level of influence.",
+    "level": "Entry-Level"
+  },
+  "3.5d": {
+    "description": "Implement messaging strategies appropriate to audience and stakeholders.",
+    "level": "Entry-Level"
+  },
+  "3.5e": {
+    "description": "Evaluate the effectiveness of advocacy actions.",
+    "level": "Entry-Level"
+  },
+  "3.5f": {
+    "description": "Appraise advocacy priorities for a population.",
+    "level": "Advanced"
+  },
+  "3.5g": {
+    "description": "Strategize with an interdisciplinary group and others to develop effective advocacy approaches.",
+    "level": "Advanced"
+  },
+  "3.5h": {
+    "description": "Engage in relationship-building activities with stakeholders at any level of influence, including system, local, state, national, and/or global.",
+    "level": "Advanced"
+  },
+  "3.5i": {
+    "description": "Demonstrate leadership skills to promote advocacy efforts that include principles of social justice, diversity, equity, and inclusion.",
+    "level": "Advanced"
+  },
+  "3.6a": {
+    "description": "Identify changes in conditions that might indicate a disaster or public health emergency.",
+    "level": "Entry-Level"
+  },
+  "3.6b": {
+    "description": "Understand the impact of climate change on environmental and population health.",
+    "level": "Entry-Level"
+  },
+  "3.6c": {
+    "description": "Describe the health and safety hazards of disasters and public health emergencies.",
+    "level": "Entry-Level"
+  },
+  "3.6d": {
+    "description": "Describe the overarching principles and methods regarding personal safety measures, including personal protective equipment (PPE).",
+    "level": "Entry-Level"
+  },
+  "3.6e": {
+    "description": "Implement infection control measures and proper use of personal protective equipment.",
+    "level": "Entry-Level"
+  },
+  "3.6f": {
+    "description": "Collaboratively initiate rapid response activities to protect population health.",
+    "level": "Advanced"
+  },
+  "3.6g": {
+    "description": "Participate in ethical decision making that includes diversity, equity, and inclusion in advanced preparedness to protect populations.",
+    "level": "Advanced"
+  },
+  "3.6h": {
+    "description": "Collaborate with interdisciplinary teams to lead preparedness and mitigation efforts to protect population health with attention to the most vulnerable populations.",
+    "level": "Advanced"
+  },
+  "3.6i": {
+    "description": "Coordinate the implementation of evidencebased infection control measures and proper use of personal protective equipment.",
+    "level": "Advanced"
+  },
+  "3.6j": {
+    "description": "Contribute to system-level planning, decision making, and evaluation for disasters and public health emergencies.",
+    "level": "Advanced"
   }
-]
+}
