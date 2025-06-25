@@ -1,20 +1,4 @@
 {
-  "1.1a": {
-    "description": "Identify concepts, derived from theories from nursing and other disciplines, which distinguish the practice of nursing.",
-    "level": "Entry-Level"
-  },
-  "1.1b": {
-    "description": "Apply knowledge of nursing science that develops a foundation for nursing practice.",
-    "level": "Entry-Level"
-  },
-  "1.1c": {
-    "description": "Understand the historical foundation of nursing as the relationship developed between the individual and nurse.",
-    "level": "Entry-Level"
-  },
-  "1.1d": {
-    "description": "Articulate nursing\u2019s distinct perspective to practice.",
-    "level": "Entry-Level"
-  },
   "1.1e": {
     "description": "Translate evidence from nursing science as well as other sciences into practice.",
     "level": "Advanced"
@@ -26,26 +10,6 @@
   "1.1g": {
     "description": "Integrate an understanding of nursing history in advancing nursing\u2019s influence in health care.",
     "level": "Advanced"
-  },
-  "1.2a": {
-    "description": "Apply or employ knowledge from nursing science as well as the natural, physical, and social sciences to build an understanding of the human experience and nursing practice.",
-    "level": "Entry-Level"
-  },
-  "1.2b": {
-    "description": "Demonstrate intellectual curiosity.",
-    "level": "Entry-Level"
-  },
-  "1.2c": {
-    "description": "Demonstrate social responsibility as a global citizen who fosters the attainment of health equity for all.",
-    "level": "Entry-Level"
-  },
-  "1.2d": {
-    "description": "Examine influence of personal values in decision making for nursing practice.",
-    "level": "Entry-Level"
-  },
-  "1.2e": {
-    "description": "Demonstrate ethical decision making.",
-    "level": "Entry-Level"
   },
   "1.2f": {
     "description": "Synthesize knowledge from nursing and other disciplines to inform education, practice, and research.",
@@ -67,18 +31,6 @@
     "description": "Translate theories from nursing and other disciplines to practice.",
     "level": "Advanced"
   },
-  "1.3a": {
-    "description": "Demonstrate clinical reasoning.",
-    "level": "Entry-Level"
-  },
-  "1.3b": {
-    "description": "Integrate nursing knowledge (theories, multiple ways of knowing, evidence) and knowledge from other disciplines and inquiry to inform clinical judgment.",
-    "level": "Entry-Level"
-  },
-  "1.3c": {
-    "description": "Incorporate knowledge from nursing and other disciplines to support clinical judgment.",
-    "level": "Entry-Level"
-  },
   "1.3d": {
     "description": "Integrate foundational and advanced specialty knowledge into clinical reasoning.",
     "level": "Advanced"
@@ -91,18 +43,6 @@
     "description": "Analyze decision models from nursing and other knowledge domains to improve clinical judgment.",
     "level": "Advanced"
   },
-  "2.1a": {
-    "description": "Demonstrate qualities of empathy.",
-    "level": "Entry-Level"
-  },
-  "2.1b": {
-    "description": "Demonstrate compassionate care.",
-    "level": "Entry-Level"
-  },
-  "2.1c": {
-    "description": "Establish mutual respect with the individual and family.",
-    "level": "Entry-Level"
-  },
   "2.1d": {
     "description": "Promote caring relationships to effect positive outcomes.",
     "level": "Advanced"
@@ -110,30 +50,6 @@
   "2.1e": {
     "description": "Foster caring relationships.",
     "level": "Advanced"
-  },
-  "2.2a": {
-    "description": "Demonstrate relationship-centered care.",
-    "level": "Entry-Level"
-  },
-  "2.2b": {
-    "description": "Consider individual beliefs, values, and personalized information in communications.",
-    "level": "Entry-Level"
-  },
-  "2.2c": {
-    "description": "Use a variety of communication modes appropriate for the context.",
-    "level": "Entry-Level"
-  },
-  "2.2d": {
-    "description": "Demonstrate the ability to conduct sensitive or difficult conversations.",
-    "level": "Entry-Level"
-  },
-  "2.2e": {
-    "description": "Use evidence-based patient teaching materials, considering health literacy, vision, hearing, and cultural sensitivity.",
-    "level": "Entry-Level"
-  },
-  "2.2f": {
-    "description": "Demonstrate emotional intelligence in communications.",
-    "level": "Entry-Level"
   },
   "2.2g": {
     "description": "Demonstrate advanced communication skills and techniques using a variety of modalities with diverse audiences.",
@@ -151,57 +67,9 @@
     "description": "Facilitate difficult conversations and disclosure of sensitive information.",
     "level": "Advanced"
   },
-  "2.3a": {
-    "description": "Create an environment during assessment that promotes a dynamic interactive experience.",
-    "level": "Entry-Level"
-  },
-  "2.3b": {
-    "description": "Obtain a complete and accurate history in a systematic manner.",
-    "level": "Entry-Level"
-  },
-  "2.3c": {
-    "description": "Perform a clinically relevant, holistic health assessment.",
-    "level": "Entry-Level"
-  },
-  "2.3d": {
-    "description": "Perform point of care screening/diagnostic testing (e.g. blood glucose, PO2, EKG).",
-    "level": "Entry-Level"
-  },
-  "2.3e": {
-    "description": "Distinguish between normal and abnormal health findings.",
-    "level": "Entry-Level"
-  },
-  "2.3f": {
-    "description": "Apply nursing knowledge to gain a holistic perspective of the person, family, community, and population.",
-    "level": "Entry-Level"
-  },
-  "2.3g": {
-    "description": "Communicate findings of a comprehensive assessment.",
-    "level": "Entry-Level"
-  },
   "2.3h": {
     "description": "Demonstrate that one\u2019s practice is informed by a comprehensive assessment appropriate to the functional area of advanced nursing practice.",
     "level": "Advanced"
-  },
-  "2.4a": {
-    "description": "Synthesize assessment data in the context of the individual\u2019s current preferences, situation, and experience.",
-    "level": "Entry-Level"
-  },
-  "2.4b": {
-    "description": "Create a list of problems/health concerns.",
-    "level": "Entry-Level"
-  },
-  "2.4c": {
-    "description": "Prioritize problems/health concerns.",
-    "level": "Entry-Level"
-  },
-  "2.4d": {
-    "description": "Understand and apply the results of social screening, psychological testing, laboratory data, imaging studies, and other diagnostic tests in actions and plans of care.",
-    "level": "Entry-Level"
-  },
-  "2.4e": {
-    "description": "Contribute as a team member to the formation and improvement of diagnoses.",
-    "level": "Entry-Level"
   },
   "2.4f": {
     "description": "Employ context driven, advanced reasoning to the diagnostic and decision-making process.",
@@ -210,34 +78,6 @@
   "2.4g": {
     "description": "Integrate advanced scientific knowledge to guide decision making.",
     "level": "Advanced"
-  },
-  "2.5a": {
-    "description": "Engage the individual and the team in plan development.",
-    "level": "Entry-Level"
-  },
-  "2.5b": {
-    "description": "Organize care based on mutual health goals.",
-    "level": "Entry-Level"
-  },
-  "2.5c": {
-    "description": "Prioritize care based on best evidence.",
-    "level": "Entry-Level"
-  },
-  "2.5d": {
-    "description": "Incorporate evidence-based intervention to improve outcomes and safety.",
-    "level": "Entry-Level"
-  },
-  "2.5e": {
-    "description": "Anticipate outcomes of care (expected, unexpected, and potentially adverse).",
-    "level": "Entry-Level"
-  },
-  "2.5f": {
-    "description": "Demonstrate rationale for plan.",
-    "level": "Entry-Level"
-  },
-  "2.5g": {
-    "description": "Address individuals\u2019 experiences and perspectives in designing plans of care.",
-    "level": "Entry-Level"
   },
   "2.5h": {
     "description": "Lead and collaborate with an interprofessional team to develop a comprehensive plan of care.",
@@ -254,22 +94,6 @@
   "2.5k": {
     "description": "Incorporate innovations into practice when evidence is not available.",
     "level": "Advanced"
-  },
-  "2.6a": {
-    "description": "Implement individualized plan of care using established protocols.",
-    "level": "Entry-Level"
-  },
-  "2.6b": {
-    "description": "Communicate care delivery through multiple modalities.",
-    "level": "Entry-Level"
-  },
-  "2.6c": {
-    "description": "Delegate appropriately to team members.",
-    "level": "Entry-Level"
-  },
-  "2.6d": {
-    "description": "Monitor the implementation of the plan of care.",
-    "level": "Entry-Level"
   },
   "2.6e": {
     "description": "Model best care practices to the team.",
@@ -295,18 +119,6 @@
     "description": "Ensure accountability throughout transitions of care across the health continuum.",
     "level": "Advanced"
   },
-  "2.7a": {
-    "description": "Reassess the individual to evaluate health outcomes/goals",
-    "level": "Entry-Level"
-  },
-  "2.7b": {
-    "description": "Modify plan of care as needed.",
-    "level": "Entry-Level"
-  },
-  "2.7c": {
-    "description": "Recognize the need for modifications to standard practice.",
-    "level": "Entry-Level"
-  },
   "2.7d": {
     "description": "Analyze data to identify gaps and inequities in care and monitor trends in outcomes.",
     "level": "Advanced"
@@ -318,26 +130,6 @@
   "2.7f": {
     "description": "Synthesize outcome data to inform evidencebased practice, guidelines, and policies.",
     "level": "Advanced"
-  },
-  "2.8a": {
-    "description": "Assist the individual to engage in self-care management.",
-    "level": "Entry-Level"
-  },
-  "2.8b": {
-    "description": "Employ individualized educational strategies based on learning theories, methodologies, and health literacy.",
-    "level": "Entry-Level"
-  },
-  "2.8c": {
-    "description": "Educate individuals and families regarding selfcare for health promotion, illness prevention, and illness management.",
-    "level": "Entry-Level"
-  },
-  "2.8d": {
-    "description": "Respect individuals and families\u2019 selfdetermination in their healthcare decisions.",
-    "level": "Entry-Level"
-  },
-  "2.8e": {
-    "description": "Identify personal, system, and community resources available to support self-care management.",
-    "level": "Entry-Level"
   },
   "2.8f": {
     "description": "Develop strategies that promote self-care management.",
@@ -358,22 +150,6 @@
   "2.8j": {
     "description": "Foster partnerships with community organizations to support self-care management.",
     "level": "Advanced"
-  },
-  "2.9a": {
-    "description": "Facilitate continuity of care based on assessment of assets and needs.",
-    "level": "Entry-Level"
-  },
-  "2.9b": {
-    "description": "Communicate with relevant stakeholders across health systems.",
-    "level": "Entry-Level"
-  },
-  "2.9c": {
-    "description": "Promote collaboration by clarifying responsibilities among individual, family, and team members.",
-    "level": "Entry-Level"
-  },
-  "2.9d": {
-    "description": "Recognize when additional expertise and knowledge is needed to manage the patient.",
-    "level": "Entry-Level"
   },
   "2.9e": {
     "description": "Provide coordination of care of individuals and families in collaboration with care team.",
@@ -399,42 +175,6 @@
     "description": "Participate in system-level change to improve care coordination across settings.",
     "level": "Advanced"
   },
-  "3.1a": {
-    "description": "Define a target population including its functional and problem-solving capabilities (anywhere in the continuum of care).",
-    "level": "Entry-Level"
-  },
-  "3.1b": {
-    "description": "Assess population health data.",
-    "level": "Entry-Level"
-  },
-  "3.1c": {
-    "description": "Assess the priorities of the community and/or the affected clinical population.",
-    "level": "Entry-Level"
-  },
-  "3.1d": {
-    "description": "Compare and contrast local, regional, national, and global benchmarks to identify health patterns across populations.",
-    "level": "Entry-Level"
-  },
-  "3.1e": {
-    "description": "Apply an understanding of the public health system and its interfaces with clinical health care in addressing population health needs.",
-    "level": "Entry-Level"
-  },
-  "3.1f": {
-    "description": "Develop an action plan to meet an identified need(s), including evaluation methods.",
-    "level": "Entry-Level"
-  },
-  "3.1g": {
-    "description": "Participate in the implementation of sociocultural and linguistically responsive interventions.",
-    "level": "Entry-Level"
-  },
-  "3.1h": {
-    "description": "Describe general principles and practices for the clinical management of populations across the age continuum.",
-    "level": "Entry-Level"
-  },
-  "3.1i": {
-    "description": "Identify ethical principles to protect the health and safety of diverse populations.",
-    "level": "Entry-Level"
-  },
   "3.1j": {
     "description": "Assess the efficacy of a system\u2019s capability to serve a target sub-population\u2019s healthcare needs.",
     "level": "Advanced"
@@ -454,18 +194,6 @@
   "3.1n": {
     "description": "Collaborate with appropriate stakeholders to implement a sociocultural and linguistically responsive intervention plan.",
     "level": "Advanced"
-  },
-  "3.2a": {
-    "description": "Engage with other health professionals to address population health issues.",
-    "level": "Entry-Level"
-  },
-  "3.2b": {
-    "description": "Demonstrate effective collaboration and mutual accountability with relevant stakeholders.",
-    "level": "Entry-Level"
-  },
-  "3.2c": {
-    "description": "Use culturally and linguistically responsive communication strategies.",
-    "level": "Entry-Level"
   },
   "3.2d": {
     "description": "Ascertain collaborative opportunities for individuals and organizations to improve population health.",
@@ -487,14 +215,6 @@
     "description": "Assess preparation and readiness of partners to organize during natural and manmade disasters.",
     "level": "Advanced"
   },
-  "3.3a": {
-    "description": "Describe access and equity implications of proposed intervention(s).",
-    "level": "Entry-Level"
-  },
-  "3.3b": {
-    "description": "Prioritize patient-focused and/or community action plans that are safe, effective, and efficient in the context of available resources.",
-    "level": "Entry-Level"
-  },
   "3.3c": {
     "description": "Analyze cost-benefits of selected populationbased interventions.",
     "level": "Advanced"
@@ -510,26 +230,6 @@
   "3.3f": {
     "description": "Incorporate ethical principles in resource allocation in achieving equitable health.",
     "level": "Advanced"
-  },
-  "3.4a": {
-    "description": "Describe policy development processes.",
-    "level": "Entry-Level"
-  },
-  "3.4b": {
-    "description": "Describe the impact of policies on population outcomes, including social justice and health equity.",
-    "level": "Entry-Level"
-  },
-  "3.4c": {
-    "description": "Identify best evidence to support policy development.",
-    "level": "Entry-Level"
-  },
-  "3.4d": {
-    "description": "Propose modifications to or development of policy based on population findings.",
-    "level": "Entry-Level"
-  },
-  "3.4e": {
-    "description": "Develop an awareness of the interconnectedness of population health across borders.",
-    "level": "Entry-Level"
   },
   "3.4f": {
     "description": "Identify opportunities to influence the policy process.",
@@ -559,26 +259,6 @@
     "description": "Evaluate the risks to population health associated with globalization.",
     "level": "Advanced"
   },
-  "3.5a": {
-    "description": "Articulate a need for change.",
-    "level": "Entry-Level"
-  },
-  "3.5b": {
-    "description": "Describe the intent of the proposed change.",
-    "level": "Entry-Level"
-  },
-  "3.5c": {
-    "description": "Define stakeholders, including members of the community and/or clinical populations, and their level of influence.",
-    "level": "Entry-Level"
-  },
-  "3.5d": {
-    "description": "Implement messaging strategies appropriate to audience and stakeholders.",
-    "level": "Entry-Level"
-  },
-  "3.5e": {
-    "description": "Evaluate the effectiveness of advocacy actions.",
-    "level": "Entry-Level"
-  },
   "3.5f": {
     "description": "Appraise advocacy priorities for a population.",
     "level": "Advanced"
@@ -594,26 +274,6 @@
   "3.5i": {
     "description": "Demonstrate leadership skills to promote advocacy efforts that include principles of social justice, diversity, equity, and inclusion.",
     "level": "Advanced"
-  },
-  "3.6a": {
-    "description": "Identify changes in conditions that might indicate a disaster or public health emergency.",
-    "level": "Entry-Level"
-  },
-  "3.6b": {
-    "description": "Understand the impact of climate change on environmental and population health.",
-    "level": "Entry-Level"
-  },
-  "3.6c": {
-    "description": "Describe the health and safety hazards of disasters and public health emergencies.",
-    "level": "Entry-Level"
-  },
-  "3.6d": {
-    "description": "Describe the overarching principles and methods regarding personal safety measures, including personal protective equipment (PPE).",
-    "level": "Entry-Level"
-  },
-  "3.6e": {
-    "description": "Implement infection control measures and proper use of personal protective equipment.",
-    "level": "Entry-Level"
   },
   "3.6f": {
     "description": "Collaboratively initiate rapid response activities to protect population health.",
@@ -634,34 +294,6 @@
   "3.6j": {
     "description": "Contribute to system-level planning, decision making, and evaluation for disasters and public health emergencies.",
     "level": "Advanced"
-  },
-  "4.1a": {
-    "description": "Demonstrate an understanding of different approaches to scholarly practice.",
-    "level": "Entry-Level"
-  },
-  "4.1b": {
-    "description": "Demonstrate application of different levels of evidence.",
-    "level": "Entry-Level"
-  },
-  "4.1c": {
-    "description": "Apply theoretical framework(s)/models in practice.",
-    "level": "Entry-Level"
-  },
-  "4.1d": {
-    "description": "Demonstrate an understanding of basic elements of the research process.",
-    "level": "Entry-Level"
-  },
-  "4.1e": {
-    "description": "Participate in scholarly inquiry as a team member.",
-    "level": "Entry-Level"
-  },
-  "4.1f": {
-    "description": "Evaluate research.",
-    "level": "Entry-Level"
-  },
-  "4.1g": {
-    "description": "Communicate scholarly findings",
-    "level": "Entry-Level"
   },
   "4.1h": {
     "description": "Apply and critically evaluate advanced knowledge in a defined area of nursing practice.",
@@ -687,26 +319,6 @@
     "description": "Advocate within the interprofessional team and with other stakeholders for the contributions of nursing scholarship.",
     "level": "Advanced"
   },
-  "4.2a": {
-    "description": "Evaluate clinical practice to generate questions to improve nursing care.",
-    "level": "Entry-Level"
-  },
-  "4.2b": {
-    "description": "Evaluate appropriateness and strength of the evidence.",
-    "level": "Entry-Level"
-  },
-  "4.2c": {
-    "description": "Use best evidence in practice.",
-    "level": "Entry-Level"
-  },
-  "4.2d": {
-    "description": "Participate in the implementation of a practice change to improve nursing care.",
-    "level": "Entry-Level"
-  },
-  "4.2e": {
-    "description": "Participate in the evaluation of outcomes and their implications for practice.",
-    "level": "Entry-Level"
-  },
   "4.2f": {
     "description": "Use diverse sources of evidence to inform practice.",
     "level": "Advanced"
@@ -731,22 +343,6 @@
     "description": "Evaluate outcomes and impact of new practices based on the evidence.",
     "level": "Advanced"
   },
-  "4.3a": {
-    "description": "Explain the rationale for ethical research guidelines, including Institutional Review Board (IRB) guidelines.",
-    "level": "Entry-Level"
-  },
-  "4.3b": {
-    "description": "Demonstrate ethical behaviors in scholarly projects including quality improvement and EBP initiatives.",
-    "level": "Entry-Level"
-  },
-  "4.3c": {
-    "description": "Advocate for the protection of participants in the conduct of scholarly initiatives.",
-    "level": "Entry-Level"
-  },
-  "4.3d": {
-    "description": "Recognize the impact of equity issues in research.",
-    "level": "Entry-Level"
-  },
   "4.3e": {
     "description": "Identify and mitigate potential risks and areas of ethical concern in the conduct of scholarly activities.",
     "level": "Advanced"
@@ -766,38 +362,6 @@
   "4.3i": {
     "description": "Apply ethical principles to the dissemination of nursing scholarship.",
     "level": "Advanced"
-  },
-  "5.1a": {
-    "description": "minimize risk of harm to patients and providers through both system effectiveness and",
-    "level": "Entry-Level"
-  },
-  "5.1b": {
-    "description": "individual performance.",
-    "level": "Entry-Level"
-  },
-  "5.1c": {
-    "description": "Implement standardized, evidence-based processes for care delivery.",
-    "level": "Entry-Level"
-  },
-  "5.1d": {
-    "description": "Interpret benchmark and unit outcome data to inform individual and microsystem practice.",
-    "level": "Entry-Level"
-  },
-  "5.1e": {
-    "description": "Compare quality improvement methods in the delivery of patient care.",
-    "level": "Entry-Level"
-  },
-  "5.1f": {
-    "description": "Identify strategies to improve outcomes of patient care in practice.",
-    "level": "Entry-Level"
-  },
-  "5.1g": {
-    "description": "Participate in the implementation of a practice change.",
-    "level": "Entry-Level"
-  },
-  "5.1h": {
-    "description": "Develop a plan for monitoring quality improvement change.",
-    "level": "Entry-Level"
   },
   "5.1i": {
     "description": "Establish and incorporate data driven benchmarks to monitor system performance.",
@@ -827,30 +391,6 @@
     "description": "Advance quality improvement practices through dissemination of outcomes.",
     "level": "Advanced"
   },
-  "5.2a": {
-    "description": "Describe the factors that create a culture of safety",
-    "level": "Entry-Level"
-  },
-  "5.2b": {
-    "description": "Articulate the nurse\u2019s role within an interprofessional team in promoting safety and preventing errors and near misses.",
-    "level": "Entry-Level"
-  },
-  "5.2c": {
-    "description": "Examine basic safety design principles to reduce risk of harm.",
-    "level": "Entry-Level"
-  },
-  "5.2d": {
-    "description": "Assume accountability for reporting unsafe conditions, near misses, and errors to reduce harm.",
-    "level": "Entry-Level"
-  },
-  "5.2e": {
-    "description": "Describe processes used in understanding causes of error.",
-    "level": "Entry-Level"
-  },
-  "5.2f": {
-    "description": "Use national patient safety resources, initiatives, and regulations at the point of care.",
-    "level": "Entry-Level"
-  },
   "5.2g": {
     "description": "Evaluate the alignment of system data and comparative patient safety benchmarks.",
     "level": "Advanced"
@@ -867,22 +407,6 @@
     "description": "Evaluate emergency preparedness system-level plans to protect safety.",
     "level": "Advanced"
   },
-  "5.3a": {
-    "description": "Identify actual and potential level of risks to providers within the workplace.",
-    "level": "Entry-Level"
-  },
-  "5.3b": {
-    "description": "Recognize how to prevent workplace violence and injury.",
-    "level": "Entry-Level"
-  },
-  "5.3c": {
-    "description": "Promote policies for prevention of violence and risk mitigation.",
-    "level": "Entry-Level"
-  },
-  "5.3d": {
-    "description": "Recognize one\u2019s role in sustaining a just culture reflecting civility and respect.",
-    "level": "Entry-Level"
-  },
   "5.3e": {
     "description": "Advocate for structures, policies, and processes that promote a culture of safety and prevent workplace risks and injury.",
     "level": "Advanced"
@@ -898,30 +422,6 @@
   "5.3h": {
     "description": "Role model and lead well-being and resiliency for self and team.",
     "level": "Advanced"
-  },
-  "6.1a": {
-    "description": "Communicate the nurse\u2019s roles and responsibilities clearly.",
-    "level": "Entry-Level"
-  },
-  "6.1b": {
-    "description": "Use various communication tools and techniques effectively.",
-    "level": "Entry-Level"
-  },
-  "6.1c": {
-    "description": "Elicit the perspectives of team members to inform person-centered care decision making.",
-    "level": "Entry-Level"
-  },
-  "6.1d": {
-    "description": "Articulate impact of diversity, equity, and inclusion on team-based communications.",
-    "level": "Entry-Level"
-  },
-  "6.1e": {
-    "description": "Communicate individual information in a professional, accurate, and timely manner.",
-    "level": "Entry-Level"
-  },
-  "6.1f": {
-    "description": "Communicate as informed by legal, regulatory, and policy guidelines.",
-    "level": "Entry-Level"
   },
   "6.1g": {
     "description": "Evaluate effectiveness of interprofessional communication tools and techniques to support and improve the efficacy of team-based interactions.",
@@ -947,30 +447,6 @@
     "description": "Demonstrate capacity to resolve interprofessional conflict.",
     "level": "Advanced"
   },
-  "6.2a": {
-    "description": "Apply principles of team dynamics, including team roles, to facilitate effective team functioning.",
-    "level": "Entry-Level"
-  },
-  "6.2b": {
-    "description": "Delegate work to team members based on their roles and competency.",
-    "level": "Entry-Level"
-  },
-  "6.2c": {
-    "description": "Engage in the work of the team as appropriate to one\u2019s scope of practice and competency.",
-    "level": "Entry-Level"
-  },
-  "6.2d": {
-    "description": "Recognize how one\u2019s uniqueness (as a person and a nurse) contributes to effective interprofessional working relationships.",
-    "level": "Entry-Level"
-  },
-  "6.2e": {
-    "description": "Apply principles of team leadership and management. performance to improve quality and assure safety.",
-    "level": "Entry-Level"
-  },
-  "6.2f": {
-    "description": "Evaluate performance of individual and team to improve quality and promote safety.",
-    "level": "Entry-Level"
-  },
   "6.2g": {
     "description": "Integrate evidence-based strategies and processes to improve team effectiveness and outcomes.",
     "level": "Advanced"
@@ -987,37 +463,9 @@
     "description": "Foster positive team dynamics to strengthen desired outcomes.",
     "level": "Advanced"
   },
-  "6.3a": {
-    "description": "Integrate the roles and responsibilities of healthcare professionals through interprofessional collaborative practice.",
-    "level": "Entry-Level"
-  },
-  "6.3b": {
-    "description": "Leverage roles and abilities of team members to optimize care.",
-    "level": "Entry-Level"
-  },
-  "6.3c": {
-    "description": "Communicate with team members to clarify responsibilities in executing plan of care.",
-    "level": "Entry-Level"
-  },
   "6.3d": {
     "description": "Direct interprofessional activities and initiatives.",
     "level": "Advanced"
-  },
-  "6.4a": {
-    "description": "Demonstrate an awareness of one\u2019s biases and how they may affect mutual respect and communication with team members.",
-    "level": "Entry-Level"
-  },
-  "6.4b": {
-    "description": "Demonstrate respect for the perspectives and experiences of other professions.",
-    "level": "Entry-Level"
-  },
-  "6.4c": {
-    "description": "Engage in constructive communication to facilitate conflict management.",
-    "level": "Entry-Level"
-  },
-  "6.4d": {
-    "description": "Collaborate with interprofessional team members to establish mutual healthcare goals for individuals, communities, or populations.",
-    "level": "Entry-Level"
   },
   "6.4e": {
     "description": "Practice self-assessment to mitigate conscious and implicit biases toward other team members.",
@@ -1039,22 +487,6 @@
     "description": "Promote an environment that advances interprofessional learning.",
     "level": "Advanced"
   },
-  "7.1a": {
-    "description": "Describe organizational structure, mission, vision, philosophy, and values.",
-    "level": "Entry-Level"
-  },
-  "7.1b": {
-    "description": "Explain the relationships of macrosystems, mesosystems, and microsystems.",
-    "level": "Entry-Level"
-  },
-  "7.1c": {
-    "description": "Differentiate between various healthcare delivery environments across the continuum of care.",
-    "level": "Entry-Level"
-  },
-  "7.1d": {
-    "description": "Recognize internal and external system processes that impact care coordination and transition of care.",
-    "level": "Entry-Level"
-  },
   "7.1e": {
     "description": "Participate in organizational strategic planning.",
     "level": "Advanced"
@@ -1070,30 +502,6 @@
   "7.1h": {
     "description": "Design policies to impact health equity and structural racism within systems, communities, and populations.",
     "level": "Advanced"
-  },
-  "7.2a": {
-    "description": "Describe the financial and payment models of health care.",
-    "level": "Entry-Level"
-  },
-  "7.2b": {
-    "description": "Recognize the impact of health disparities and social determinants of health on care outcomes.",
-    "level": "Entry-Level"
-  },
-  "7.2c": {
-    "description": "Describe the impact of healthcare cost and payment models on the delivery, access, and quality of care.",
-    "level": "Entry-Level"
-  },
-  "7.2d": {
-    "description": "Explain the relationship of policy, regulatory requirements, and economics on care outcomes.",
-    "level": "Entry-Level"
-  },
-  "7.2e": {
-    "description": "Incorporate considerations of efficiency, value, and cost in providing care.",
-    "level": "Entry-Level"
-  },
-  "7.2f": {
-    "description": "Identify the impact of differing system structures, leadership, and workforce needs on care outcomes.",
-    "level": "Entry-Level"
   },
   "7.2g": {
     "description": "Analyze relevant internal and external factors that drive healthcare costs and reimbursement.",
@@ -1119,22 +527,6 @@
     "description": "Evaluate health policies based on an ethical framework considering cost-effectiveness, health equity, and care outcomes.",
     "level": "Advanced"
   },
-  "7.3a": {
-    "description": "Demonstrate a systematic approach for decision-making.",
-    "level": "Entry-Level"
-  },
-  "7.3b": {
-    "description": "Use reported performance metrics to compare/monitor outcomes.",
-    "level": "Entry-Level"
-  },
-  "7.3c": {
-    "description": "Participate in evaluating system effectiveness.",
-    "level": "Entry-Level"
-  },
-  "7.3d": {
-    "description": "Recognize internal and external system processes and structures that perpetuate racism and other forms of discrimination within health care.",
-    "level": "Entry-Level"
-  },
   "7.3e": {
     "description": "Apply innovative and evidence-based strategies focusing on system preparedness and capabilities.",
     "level": "Advanced"
@@ -1150,30 +542,6 @@
   "7.3h": {
     "description": "Design system improvement strategies that address internal and external system processes and structures that perpetuate structural racism and other forms of discrimination in healthcare systems.",
     "level": "Advanced"
-  },
-  "8.1a": {
-    "description": "Identify the variety of information and communication technologies used in care settings.",
-    "level": "Entry-Level"
-  },
-  "8.1b": {
-    "description": "Identify the basic concepts of electronic health, mobile health, and telehealth systems for enabling patient care.",
-    "level": "Entry-Level"
-  },
-  "8.1c": {
-    "description": "Effectively use electronic communication tools.",
-    "level": "Entry-Level"
-  },
-  "8.1d": {
-    "description": "Describe the appropriate use of multimedia applications in health care.",
-    "level": "Entry-Level"
-  },
-  "8.1e": {
-    "description": "Demonstrate best practice use of social networking applications.",
-    "level": "Entry-Level"
-  },
-  "8.1f": {
-    "description": "Explain the importance of nursing engagement in the planning and selection of healthcare technologies.",
-    "level": "Entry-Level"
   },
   "8.1g": {
     "description": "Identify best evidence and practices for the application of information and communication technologies to support care.",
@@ -1195,26 +563,6 @@
     "description": "Identify the impact of information and communication technologies on workflow processes and healthcare outcomes.",
     "level": "Advanced"
   },
-  "8.2a": {
-    "description": "Enter accurate data when chronicling care.",
-    "level": "Entry-Level"
-  },
-  "8.2b": {
-    "description": "Explain how data entered on one patient impacts public and population health data.",
-    "level": "Entry-Level"
-  },
-  "8.2c": {
-    "description": "Use appropriate data when planning care.",
-    "level": "Entry-Level"
-  },
-  "8.2d": {
-    "description": "Demonstrate the appropriate use of health information literacy assessments and improvement strategies.",
-    "level": "Entry-Level"
-  },
-  "8.2e": {
-    "description": "Describe the importance of standardized nursing data to reflect the unique contribution of nursing practice.",
-    "level": "Entry-Level"
-  },
   "8.2f": {
     "description": "Generate information and knowledge from health information technology databases.",
     "level": "Advanced"
@@ -1234,30 +582,6 @@
   "8.2j": {
     "description": "Interpret primary and secondary data and other information to support care.",
     "level": "Advanced"
-  },
-  "8.3a": {
-    "description": "Demonstrate appropriate use of information and communication technologies.",
-    "level": "Entry-Level"
-  },
-  "8.3b": {
-    "description": "Evaluate how decision support tools impact clinical judgment and safe patient care.",
-    "level": "Entry-Level"
-  },
-  "8.3c": {
-    "description": "Use information and communication technology in a manner that supports the nursepatient relationship.",
-    "level": "Entry-Level"
-  },
-  "8.3d": {
-    "description": "Examine how emerging technologies influence healthcare delivery and clinical decision making.",
-    "level": "Entry-Level"
-  },
-  "8.3e": {
-    "description": "Identify impact of information and communication technology on quality and safety of care.",
-    "level": "Entry-Level"
-  },
-  "8.3f": {
-    "description": "Identify the importance of reporting system processes and functional issues (error messages, mis-directions, device malfunctions, etc.) according to organizational policies and procedures.",
-    "level": "Entry-Level"
   },
   "8.3g": {
     "description": "Evaluate the use of information and communication technology to address needs, gaps, and inefficiencies in care.",
@@ -1279,22 +603,6 @@
     "description": "Pose strategies to reduce inequities in digital access to data and information.",
     "level": "Advanced"
   },
-  "8.4a": {
-    "description": "Explain the role of communication technology in enhancing clinical information flows.",
-    "level": "Entry-Level"
-  },
-  "8.4b": {
-    "description": "Describe how information and communication technology tools support patient and team communications.",
-    "level": "Entry-Level"
-  },
-  "8.4c": {
-    "description": "Identify the basic concepts of electronic health, mobile health, and telehealth systems in enabling patient care.",
-    "level": "Entry-Level"
-  },
-  "8.4d": {
-    "description": "Explain the impact of health information exchange, interoperability, and integration on health care.",
-    "level": "Entry-Level"
-  },
   "8.4e": {
     "description": "Assess best practices for the use of advanced information and communication technologies to support patient and team communications.",
     "level": "Advanced"
@@ -1306,30 +614,6 @@
   "8.4g": {
     "description": "Evaluate the impact of health information exchange, interoperability, and integration to support patient-centered care.",
     "level": "Advanced"
-  },
-  "8.5a": {
-    "description": "Identify common risks associated with using information and communication technology",
-    "level": "Entry-Level"
-  },
-  "8.5b": {
-    "description": "Demonstrate ethical use of social networking applications.",
-    "level": "Entry-Level"
-  },
-  "8.5c": {
-    "description": "Comply with legal and regulatory requirements while using communication and information technologies.",
-    "level": "Entry-Level"
-  },
-  "8.5d": {
-    "description": "Educate patients on their rights to access, review, and correct personal data and medical records.",
-    "level": "Entry-Level"
-  },
-  "8.5e": {
-    "description": "Discuss how clinical judgment and critical thinking must prevail in the presence of information and communication technologies.",
-    "level": "Entry-Level"
-  },
-  "8.5f": {
-    "description": "Deliver care using remote technology.",
-    "level": "Entry-Level"
   },
   "8.5g": {
     "description": "Apply risk mitigation and security strategies to reduce misuse of information and communication technology.",
@@ -1355,34 +639,6 @@
     "description": "Analyze the impact of federal and state policies and regulation on health data and technology in care settings.",
     "level": "Advanced"
   },
-  "9.1a": {
-    "description": "Apply principles of professional nursing ethics and human rights in patient care and professional situations.",
-    "level": "Entry-Level"
-  },
-  "9.1b": {
-    "description": "Reflect on one\u2019s actions and their consequences.",
-    "level": "Entry-Level"
-  },
-  "9.1c": {
-    "description": "Demonstrate ethical behaviors in practice",
-    "level": "Entry-Level"
-  },
-  "9.1d": {
-    "description": "Change behavior based on self and situational awareness.",
-    "level": "Entry-Level"
-  },
-  "9.1e": {
-    "description": "Report unethical behaviors when observed.",
-    "level": "Entry-Level"
-  },
-  "9.1f": {
-    "description": "Safeguard privacy, confidentiality, and autonomy in all interactions.",
-    "level": "Entry-Level"
-  },
-  "9.1g": {
-    "description": "Advocate for the individual\u2019s right to self-determination.",
-    "level": "Entry-Level"
-  },
   "9.1h": {
     "description": "Analyze current policies and practices in the context of an ethical framework.",
     "level": "Advanced"
@@ -1398,34 +654,6 @@
   "9.1k": {
     "description": "Assume accountability for working to resolve ethical dilemmas.",
     "level": "Advanced"
-  },
-  "9.2a": {
-    "description": "Employ the use of intentional presence to facilitate shared meaning of the experience between nurse and recipient of care.",
-    "level": "Entry-Level"
-  },
-  "9.2b": {
-    "description": "Facilitate health and healing through compassionate caring.",
-    "level": "Entry-Level"
-  },
-  "9.2c": {
-    "description": "Demonstrate empathy to the individual\u2019s life experience.",
-    "level": "Entry-Level"
-  },
-  "9.2d": {
-    "description": "Advocate for practices that advance diversity, equity, and inclusion.",
-    "level": "Entry-Level"
-  },
-  "9.2e": {
-    "description": "Demonstrate cultural sensitivity and humility in practice.",
-    "level": "Entry-Level"
-  },
-  "9.2f": {
-    "description": "Apply principles of therapeutic relationships and professional boundaries.",
-    "level": "Entry-Level"
-  },
-  "9.2g": {
-    "description": "Communicate in a professional manner",
-    "level": "Entry-Level"
   },
   "9.2h": {
     "description": "Foster opportunities for intentional presence in practice.",
@@ -1446,38 +674,6 @@
   "9.2l": {
     "description": "Facilitate communication that promotes a participatory approach.",
     "level": "Advanced"
-  },
-  "9.3a": {
-    "description": "Engage in advocacy that promotes the best interest of the individual, community, and profession.",
-    "level": "Entry-Level"
-  },
-  "9.3b": {
-    "description": "Demonstrate the moral courage to report concerns related to actual or potential hazards and/ or errors.",
-    "level": "Entry-Level"
-  },
-  "9.3c": {
-    "description": "Demonstrate professional and personal honesty and integrity.",
-    "level": "Entry-Level"
-  },
-  "9.3d": {
-    "description": "Take responsibility for one\u2019s roles, decisions, obligations, actions, and care outcomes.",
-    "level": "Entry-Level"
-  },
-  "9.3e": {
-    "description": "Engage in professional activities and/or organizations.",
-    "level": "Entry-Level"
-  },
-  "9.3f": {
-    "description": "Demonstrate adherence to a culture of civility.",
-    "level": "Entry-Level"
-  },
-  "9.3g": {
-    "description": "Advocate for social justice and health equity, including addressing the health of vulnerable populations.",
-    "level": "Entry-Level"
-  },
-  "9.3h": {
-    "description": "Engage in peer evaluation.",
-    "level": "Entry-Level"
   },
   "9.3i": {
     "description": "Advocate for nursing\u2019s professional responsibility for ensuring optimal care outcomes",
@@ -1507,18 +703,6 @@
     "description": "Lead in the development of opportunities for professional and interprofessional activities.",
     "level": "Advanced"
   },
-  "9.4a": {
-    "description": "Advocate for policies that promote health and prevent harm.",
-    "level": "Entry-Level"
-  },
-  "9.4b": {
-    "description": "Adhere to the registered nurse scope and standards of practice.",
-    "level": "Entry-Level"
-  },
-  "9.4c": {
-    "description": "Adhere to regulatory requirements and workplace policies consistent with one\u2019s educational preparation.",
-    "level": "Entry-Level"
-  },
   "9.4d": {
     "description": "Advocate for polices that enable nurses to practice to the full extent of their education.",
     "level": "Advanced"
@@ -1539,26 +723,6 @@
     "description": "Participate in the implementation of policies and regulations to improve the professional practice environment and healthcare outcomes.",
     "level": "Advanced"
   },
-  "9.5a": {
-    "description": "Describe nursing\u2019s professional identity and contributions to the healthcare team.",
-    "level": "Entry-Level"
-  },
-  "9.5b": {
-    "description": "Demonstrate the core values of professional nursing identity.",
-    "level": "Entry-Level"
-  },
-  "9.5c": {
-    "description": "Demonstrate sensitivity to the values of others.",
-    "level": "Entry-Level"
-  },
-  "9.5d": {
-    "description": "Demonstrate ethical comportment and moral courage in decision making and actions.",
-    "level": "Entry-Level"
-  },
-  "9.5e": {
-    "description": "Demonstrate emotional intelligence.",
-    "level": "Entry-Level"
-  },
   "9.5f": {
     "description": "Articulate nursing\u2019s unique professional identity to other interprofessional team members and the public.",
     "level": "Advanced"
@@ -1574,18 +738,6 @@
   "9.5i": {
     "description": "Engage in professional organizations that reflect nursing\u2019s values and identity.",
     "level": "Advanced"
-  },
-  "9.6a": {
-    "description": "Demonstrate respect for diverse individual differences and diverse communities and populations.",
-    "level": "Entry-Level"
-  },
-  "9.6b": {
-    "description": "Demonstrate awareness of personal and professional values and conscious and unconscious biases.",
-    "level": "Entry-Level"
-  },
-  "9.6c": {
-    "description": "Integrate core principles of social justice and human rights into practice.",
-    "level": "Entry-Level"
   },
   "9.6d": {
     "description": "Model respect for diversity, equity, and inclusion for all team members.",
@@ -1611,14 +763,6 @@
     "description": "Ensure self and others are accountable in upholding moral, legal, and humanistic principles related to health.",
     "level": "Advanced"
   },
-  "10.1a": {
-    "description": "Demonstrate healthy, self-care behaviors that promote wellness and resiliency.",
-    "level": "Entry-Level"
-  },
-  "10.1b": {
-    "description": "Manage conflict between personal and professional responsibilities.",
-    "level": "Entry-Level"
-  },
   "10.1c": {
     "description": "Contribute to an environment that promotes self-care, personal health, and well-being.",
     "level": "Advanced"
@@ -1626,26 +770,6 @@
   "10.1d": {
     "description": "Evaluate the workplace environment to determine level of health and well-being.",
     "level": "Advanced"
-  },
-  "10.2a": {
-    "description": "Engage in guided and spontaneous reflection of one\u2019s practice.",
-    "level": "Entry-Level"
-  },
-  "10.2b": {
-    "description": "b Integrate comprehensive feedback to improve performance.",
-    "level": "Entry-Level"
-  },
-  "10.2c": {
-    "description": "Commit to personal and professional development.",
-    "level": "Entry-Level"
-  },
-  "10.2d": {
-    "description": "Expand personal knowledge to inform clinical judgment.",
-    "level": "Entry-Level"
-  },
-  "10.2e": {
-    "description": "Participate in ongoing activities that embrace principles of diversity, equity, inclusion, and antidiscrimination.",
-    "level": "Entry-Level"
   },
   "10.2f": {
     "description": "Identify role models and mentors to support professional growth.",
@@ -1666,42 +790,6 @@
   "10.2j": {
     "description": "Expand leadership skills through professional service.",
     "level": ""
-  },
-  "10.3a": {
-    "description": "Compare and contrast leadership principles and theories.",
-    "level": "Entry-Level"
-  },
-  "10.3b": {
-    "description": "Formulate a personal leadership style.",
-    "level": "Entry-Level"
-  },
-  "10.3c": {
-    "description": "Demonstrate leadership behaviors in professional situations.",
-    "level": "Entry-Level"
-  },
-  "10.3d": {
-    "description": "Demonstrate self-efficacy consistent with one\u2019s professional development.",
-    "level": "Entry-Level"
-  },
-  "10.3e": {
-    "description": "Use appropriate resources when dealing with ambiguity.",
-    "level": "Entry-Level"
-  },
-  "10.3f": {
-    "description": "Modify one\u2019s own leadership behaviors based on guided self-reflection.",
-    "level": "Entry-Level"
-  },
-  "10.3g": {
-    "description": "Demonstrate self-awareness of one\u2019s own implicit biases and their relationship to one\u2019s culture and environment.",
-    "level": "Entry-Level"
-  },
-  "10.3h": {
-    "description": "Communicate a consistent image of the nurse as a leader.",
-    "level": "Entry-Level"
-  },
-  "10.3i": {
-    "description": "Recognize the importance of nursing\u2019s contributions as leaders in practice and policy issues.",
-    "level": "Entry-Level"
   },
   "10.3j": {
     "description": "Provide leadership to advance the nursing profession.",
