@@ -1,0 +1,302 @@
+{
+  "NP 1.1h": {
+    "description": "Integrate historical, foundational\nand population focused knowledge into NP practice."
+  },
+  "NP 1.1i": {
+    "description": "Translate evidence from nursing science and other sciences into NP practice."
+  },
+  "NP 1.1j": {
+    "description": "Evaluate the application of nursing science to NP practice."
+  },
+  "NP 1.2k": {
+    "description": "Synthesize evidence from nursing and other disciplines to inform and improve NP practice at a micro, meso, and macro level."
+  },
+  "NP 1.2l": {
+    "description": "Translate science-based theories and concepts to guide one\u2019s overall NP practice."
+  },
+  "NP 1.2m": {
+    "description": "Employ ethical decision making to manage\nand evaluate patient care and population health."
+  },
+  "NP 1.2n": {
+    "description": "Practice socially responsible leadership."
+  },
+  "NP 1.3f": {
+    "description": "Demonstrate clinical judgment using a systematic approach to inform, improve, and advance NP practice processes and outcomes."
+  },
+  "NP 1.3g": {
+    "description": "Demonstrate clinical judgment to inform and improve NP practice based on the foundational knowledge\nof advanced physiology/ pathophysiology, advanced health assessment\nand advanced pharmacology."
+  },
+  "NP 2.1f": {
+    "description": "Practice holistic person-centered care to include confidentiality, privacy, comfort, emotional support, mutual trust, and respect."
+  },
+  "NP 2.1g": {
+    "description": "Engage in shared decision making with consideration of determinants of health."
+  },
+  "NP 2.2k": {
+    "description": "Utilize communication tools and techniques to promote therapeutic relationships with individuals and/or caregiver."
+  },
+  "NP 2.2l": {
+    "description": "Apply motivational interviewing techniques to engage individual and/or caregiver in management of health."
+  },
+  "NP 2.2m": {
+    "description": "Communicate findings to the interprofessional team, including the preceptor, in a systematic, concise manner to accurately convey the health status of the patient."
+  },
+  "NP 2.2n": {
+    "description": "Demonstrate empathy and compassion in communication with others."
+  },
+  "NP 2.3i": {
+    "description": "Utilize advanced critical thinking\nto determine the appropriate focused or comprehensive relevant patient history."
+  },
+  "NP 2.3j": {
+    "description": "Apply advanced assessment skills to perform a comprehensive patient physical assessment utilizing appropriate techniques."
+  },
+  "NP 2.3k": {
+    "description": "Apply advanced assessment skills to perform a focused patient physical assessment utilizing appropriate techniques."
+  },
+  "NP 2.3l": {
+    "description": "Order the appropriate diagnostic and screening tests based on patient\u2019s\nrisk factors and chief complaint."
+  },
+  "NP 2.3m": {
+    "description": "Identify health risk factors."
+  },
+  "NP 2.3n": {
+    "description": "Evaluate determinants of health that may influence the patient\u2019s well-being."
+  },
+  "NP 2.3o": {
+    "description": "Utilize appropriate evidence- based screening tools."
+  },
+  "NP 2.3p": {
+    "description": "Document comprehensive history, screening, and assessment."
+  },
+  "NP 2.4h": {
+    "description": "Analyze physical findings to differentiate between normal, variations of normal,\nand signs of pathology to formulate actual and differential diagnoses."
+  },
+  "NP 2.4i": {
+    "description": "Utilize diagnostic reasoning to formulate actual and differential diagnoses."
+  },
+  "NP 2.5k": {
+    "description": "Provide holistic person-centered care by developing a mutually acceptable, cost- conscious, and evidence- based plan of care."
+  },
+  "NP 2.5l": {
+    "description": "Synthesize data to develop and initiate a person-centered plan of care."
+  },
+  "NP 2.5m": {
+    "description": "Prescribe medications safely and accurately using patient data and following legal and regulatory guidelines."
+  },
+  "NP 2.5n": {
+    "description": "Order appropriate nonpharmacological interventions."
+  },
+  "NP 2.5o": {
+    "description": "Anticipate risks and take action to\nmitigate adverse events."
+  },
+  "NP 2.5p": {
+    "description": "Incorporate health promotion, maintenance and restoration of health into plan of care."
+  },
+  "NP 2.6k": {
+    "description": "Provide healthcare services within scope of practice boundaries, which include health promotion, disease\nprevention, anticipatory guidance, counseling, disease management, palliative, and end of life care."
+  },
+  "NP 2.6l": {
+    "description": "Collaborate with the interprofessional team to formulate a plan of care."
+  },
+  "NP 2.6m": {
+    "description": "Order consultations or referrals based on evidence and standards of professional care."
+  },
+  "NP 2.6n": {
+    "description": "Document the comprehensive care provided."
+  },
+  "NP 2.6o": {
+    "description": "Engage caregivers and support systems in care planning for the individual."
+  },
+  "NP 2.7g": {
+    "description": "Evaluate individual outcomes based on evidence- based interventions."
+  },
+  "NP 2.7h": {
+    "description": "Revise plan of care based on effectiveness."
+  },
+  "NP 2.7i": {
+    "description": "Analyze data to evaluate interventions, inequities, and gaps in care."
+  },
+  "NP 2.8k": {
+    "description": "Integrate the principles of self-care management."
+  },
+  "NP 2.8l": {
+    "description": "Incorporate coaching in patient and family self-care management."
+  },
+  "NP 2.8m": {
+    "description": "Create partnerships with community\norganizations to support self-care management."
+  },
+  "NP 2.9k": {
+    "description": "Implement evidence-based guidelines and strategies that enable effective transitions of care and care coordination."
+  },
+  "NP 3.1o": {
+    "description": "Evaluate outcomes of population health using available sources of data to inform NP practice, guidelines, and policies."
+  },
+  "NP 3.1p": {
+    "description": "Integrate findings of population health data to impact competent care."
+  },
+  "NP 3.2i": {
+    "description": "Contribute clinical expertise and knowledge from advanced practice to interprofessional\nefforts to protect and improve health."
+  },
+  "NP 3.3g": {
+    "description": "Appraise ethical, legal, and social factors to guide population health policy development."
+  },
+  "NP 3.6k": {
+    "description": "Summarize the unique roles and responsibilities of NPs in emergency preparedness and disaster response."
+  },
+  "NP 3.6l": {
+    "description": "Collaborate with a team\nto advance preparedness for potential public health emergencies."
+  },
+  "NP 3.6m": {
+    "description": "Evaluate the impact of globalization on population health."
+  },
+  "NP 4.1n": {
+    "description": "Translate advanced practice knowledge to inform practice and patient outcomes."
+  },
+  "NP 4.1o": {
+    "description": "Lead scholarly activities resulting in the focus of the translation and dissemination of contemporary evidence into practice."
+  },
+  "NP 4.1p": {
+    "description": "Apply clinical investigative skills\nto improve health outcomes."
+  },
+  "NP 4.2l": {
+    "description": "Evaluate quality improvement processes and evidence-based outcomes."
+  },
+  "NP 4.2m": {
+    "description": "Disseminate findings from quality improvement, implementation science, and research to improve healthcare delivery and patient outcome."
+  },
+  "NP 4.3j": {
+    "description": "Translate knowledge from clinical practice to improve population health outcomes through diversity, equity, and inclusion."
+  },
+  "NP 4.3k": {
+    "description": "Utilize ethical principles to ensure participant safety through scholarship activities."
+  },
+  "NP 5.1p": {
+    "description": "Systematically evaluate quality and outcomes of care using quality improvement principles."
+  },
+  "NP 5.1q": {
+    "description": "Evaluate the relationships and influence of access, populations, cost, quality, and safety on healthcare."
+  },
+  "NP 5.1r": {
+    "description": "Evaluate the impact of organizational\nsystems in healthcare to include care processes, financing, marketing, and policy."
+  },
+  "NP 5.2k": {
+    "description": "Build a culture of safety through quality improvement methods and evidence-based interventions."
+  },
+  "NP 6.1m": {
+    "description": "Engage in collaboration with multiple interprofessional stakeholders (e.g. individuals, community,\nintegrated health care teams, and policy makers) to impact a diverse and inclusive healthcare system."
+  },
+  "NP 6.1n": {
+    "description": "Demonstrate equitable and quality health care through interprofessional collaboration with the health care team."
+  },
+  "NP 6.1o": {
+    "description": "Advocate for the patient as a\nmember of the health care team."
+  },
+  "NP 6.1p": {
+    "description": "Demonstrate sensitivity to diverse organizations, cultures, and populations."
+  },
+  "NP 6.2k": {
+    "description": "Assume different roles (e.g. member, leader) within the interprofessional, health care team."
+  },
+  "NP 6.4j": {
+    "description": "Promote a climate of respect, dignity, inclusion, integrity, civility, and trust to foster collaboration within\nthe health care team."
+  },
+  "NP 6.4k": {
+    "description": "Collaborate to develop, implement, and evaluate healthcare strategies to optimize safe, effective systems of care."
+  },
+  "NP 7.1i": {
+    "description": "Apply knowledge of organizational practices and complex systems to improve healthcare delivery."
+  },
+  "NP 7.2m": {
+    "description": "Demonstrate fiduciary stewardship in the delivery of quality care."
+  },
+  "NP 8.1l": {
+    "description": "Evaluate technologies and communication platforms in the care of patients."
+  },
+  "NP 8.2k": {
+    "description": "Analyze data to impact care delivery at the\nperson, population, or systems\u2019 levels."
+  },
+  "NP 8.2l": {
+    "description": "Use technology systems to generate, analyze, and interpret data on variables for\nthe evaluation of healthcare."
+  },
+  "NP 8.2m": {
+    "description": "Select appropriate technology and communication tools to promote engagement and share credible information that is congruent with\npatient needs, values, and learning styles."
+  },
+  "NP 8.4h": {
+    "description": "Assess the patient's and\ncaregiver's learning and communication needs to address gaps in access, knowledge, and information literacy."
+  },
+  "NP 8.4i": {
+    "description": "Evaluate the design and implementation of clinical information systems within the contexts of quality care, accountability, ethics, and cost- effectiveness."
+  },
+  "NP 8.5m": {
+    "description": "Use information technology safely, legally, and ethically to manage data to ensure quality care and organizational accountability\nto promote interprofessional communication."
+  },
+  "NP 9.1l": {
+    "description": "Demonstrate the ability to apply ethical principles in complex health care situations."
+  },
+  "NP 9.1m": {
+    "description": "Develop strategies to prevent one\u2019s own\npersonal biases from interfering with delivery of quality care."
+  },
+  "NP 9.1n": {
+    "description": "Actively seeks opportunities for continuous improvement in professional practice."
+  },
+  "NP 9.2m": {
+    "description": "Demonstrate an NP professional identity."
+  },
+  "NP 9.2n": {
+    "description": "Demonstrate accountability to practice within\nthe regulatory standard and scope of educational preparation."
+  },
+  "NP 9.3p": {
+    "description": "Participate in professional organizations to advance the NP profession and improve health."
+  },
+  "NP 9.3q": {
+    "description": "Reflect on past experiences to guide present and future practice."
+  },
+  "NP 9.4i": {
+    "description": "Advocate for policies that support population focus NPs to practice at the full extent of their education."
+  },
+  "NP 9.4j": {
+    "description": "Articulate the regulatory process that guides NP practice at\nthe national and individual state level."
+  },
+  "NP 9.4k": {
+    "description": "Analyze laws, policies, and regulations to describe scope of practice in future population focus."
+  },
+  "NP 9.5j": {
+    "description": "Articulate NPs unique professional identity to other interprofessional team members and the public."
+  },
+  "NP 9.5k": {
+    "description": "Demonstrate the ability to effectively educate and mentor\npeers, students or members of the interprofessional healthcare team."
+  },
+  "NP 10.1e": {
+    "description": "Create an environment that promotes self-care, health, and well-being."
+  },
+  "NP 10.1f": {
+    "description": "Support for whole person health and holistic well-being of self."
+  },
+  "NP 10.2k": {
+    "description": "Demonstrate responsibility to practice in the NP population focus\narea defined by your education, certification and license."
+  },
+  "NP 10.2l": {
+    "description": "Employ empathy to communicate effectively."
+  },
+  "NP 10.2m": {
+    "description": "Conduct self in a professional manner."
+  },
+  "NP 10.2n": {
+    "description": "Uphold standards of the NP profession."
+  },
+  "NP 10.3r": {
+    "description": "Articulate the complex leadership role of the NP."
+  },
+  "NP 10.3s": {
+    "description": "Execute leadership skills in the translation of new\nknowledge to improve outcomes."
+  },
+  "NP 10.3t": {
+    "description": "Provide leadership on teams, and in different team roles, across a variety of practice settings."
+  },
+  "NP 10.3u": {
+    "description": "Mentor peers."
+  },
+  "NP 10.3v": {
+    "description": "Engage in advocacy efforts to address health disparities, social\njustice, and equity to improve healthcare outcomes."
+  }
+}
