@@ -1,686 +1,686 @@
 {
   "1.1a": {
-    "Descriptor": "Identify concepts, derived from theories from nursing and other disciplines, which distinguish the practice of nursing."
+    "description": "Identify concepts, derived from theories from nursing and other disciplines, which distinguish the practice of nursing."
   },
   "1.1b": {
-    "Descriptor": "Apply knowledge of nursing science that develops a foundation for nursing practice."
+    "description": "Apply knowledge of nursing science that develops a foundation for nursing practice."
   },
   "1.1c": {
-    "Descriptor": "Understand the historical foundation of nursing as the relationship developed between the individual and nurse."
+    "description": "Understand the historical foundation of nursing as the relationship developed between the individual and nurse."
   },
   "1.1d": {
-    "Descriptor": "Articulate nursing\u2019s distinct perspective to practice."
+    "description": "Articulate nursing\u2019s distinct perspective to practice."
   },
   "1.2a": {
-    "Descriptor": "Apply or employ knowledge from nursing science as well as the natural, physical, and social sciences to build an understanding of the human experience and nursing practice."
+    "description": "Apply or employ knowledge from nursing science as well as the natural, physical, and social sciences to build an understanding of the human experience and nursing practice."
   },
   "1.2b": {
-    "Descriptor": "Demonstrate intellectual curiosity."
+    "description": "Demonstrate intellectual curiosity."
   },
   "1.2c": {
-    "Descriptor": "Demonstrate social responsibility as a global citizen who fosters the attainment of health equity for all."
+    "description": "Demonstrate social responsibility as a global citizen who fosters the attainment of health equity for all."
   },
   "1.2d": {
-    "Descriptor": "Examine influence of personal values in decision making for nursing practice."
+    "description": "Examine influence of personal values in decision making for nursing practice."
   },
   "1.2e": {
-    "Descriptor": "Demonstrate ethical decision making."
+    "description": "Demonstrate ethical decision making."
   },
   "1.3a": {
-    "Descriptor": "Demonstrate clinical reasoning."
+    "description": "Demonstrate clinical reasoning."
   },
   "1.3b": {
-    "Descriptor": "Integrate nursing knowledge (theories, multiple ways of knowing, evidence) and knowledge from other disciplines and inquiry to inform clinical judgment."
+    "description": "Integrate nursing knowledge (theories, multiple ways of knowing, evidence) and knowledge from other disciplines and inquiry to inform clinical judgment."
   },
   "1.3c": {
-    "Descriptor": "Incorporate knowledge from nursing and other disciplines to support clinical judgment."
+    "description": "Incorporate knowledge from nursing and other disciplines to support clinical judgment."
   },
   "2.1a": {
-    "Descriptor": "Demonstrate qualities of empathy."
+    "description": "Demonstrate qualities of empathy."
   },
   "2.1b": {
-    "Descriptor": "Demonstrate compassionate care."
+    "description": "Demonstrate compassionate care."
   },
   "2.1c": {
-    "Descriptor": "Establish mutual respect with the individual and family."
+    "description": "Establish mutual respect with the individual and family."
   },
   "2.2a": {
-    "Descriptor": "Demonstrate relationship-centered care."
+    "description": "Demonstrate relationship-centered care."
   },
   "2.2b": {
-    "Descriptor": "Consider individual beliefs, values, and personalized information in communications."
+    "description": "Consider individual beliefs, values, and personalized information in communications."
   },
   "2.2c": {
-    "Descriptor": "Use a variety of communication modes appropriate for the context."
+    "description": "Use a variety of communication modes appropriate for the context."
   },
   "2.2d": {
-    "Descriptor": "Demonstrate the ability to conduct sensitive or difficult conversations."
+    "description": "Demonstrate the ability to conduct sensitive or difficult conversations."
   },
   "2.2e": {
-    "Descriptor": "Use evidence-based patient teaching materials, considering health literacy, vision, hearing, and cultural sensitivity."
+    "description": "Use evidence-based patient teaching materials, considering health literacy, vision, hearing, and cultural sensitivity."
   },
   "2.2f": {
-    "Descriptor": "Demonstrate emotional intelligence in communications."
+    "description": "Demonstrate emotional intelligence in communications."
   },
   "2.3a": {
-    "Descriptor": "Create an environment during assessment that promotes a dynamic interactive experience."
+    "description": "Create an environment during assessment that promotes a dynamic interactive experience."
   },
   "2.3b": {
-    "Descriptor": "Obtain a complete and accurate history in a systematic manner."
+    "description": "Obtain a complete and accurate history in a systematic manner."
   },
   "2.3c": {
-    "Descriptor": "Perform a clinically relevant, holistic health assessment."
+    "description": "Perform a clinically relevant, holistic health assessment."
   },
   "2.3d": {
-    "Descriptor": "Perform point of care screening/diagnostic testing (e.g. blood glucose, PO2, EKG)."
+    "description": "Perform point of care screening/diagnostic testing (e.g. blood glucose, PO2, EKG)."
   },
   "2.3e": {
-    "Descriptor": "Distinguish between normal and abnormal health findings."
+    "description": "Distinguish between normal and abnormal health findings."
   },
   "2.3f": {
-    "Descriptor": "Apply nursing knowledge to gain a holistic perspective of the person, family, community, and population."
+    "description": "Apply nursing knowledge to gain a holistic perspective of the person, family, community, and population."
   },
   "2.3g": {
-    "Descriptor": "Communicate findings of a comprehensive assessment."
+    "description": "Communicate findings of a comprehensive assessment."
   },
   "2.4a": {
-    "Descriptor": "Synthesize assessment data in the context of the individual\u2019s current preferences, situation, and experience."
+    "description": "Synthesize assessment data in the context of the individual\u2019s current preferences, situation, and experience."
   },
   "2.4b": {
-    "Descriptor": "Create a list of problems/health concerns."
+    "description": "Create a list of problems/health concerns."
   },
   "2.4c": {
-    "Descriptor": "Prioritize problems/health concerns."
+    "description": "Prioritize problems/health concerns."
   },
   "2.4d": {
-    "Descriptor": "Understand and apply the results of social screening, psychological testing, laboratory data, imaging studies, and other diagnostic tests in actions and plans of care."
+    "description": "Understand and apply the results of social screening, psychological testing, laboratory data, imaging studies, and other diagnostic tests in actions and plans of care."
   },
   "2.4e": {
-    "Descriptor": "Contribute as a team member to the formation and improvement of diagnoses."
+    "description": "Contribute as a team member to the formation and improvement of diagnoses."
   },
   "2.5a": {
-    "Descriptor": "Engage the individual and the team in plan development."
+    "description": "Engage the individual and the team in plan development."
   },
   "2.5b": {
-    "Descriptor": "Organize care based on mutual health goals."
+    "description": "Organize care based on mutual health goals."
   },
   "2.5c": {
-    "Descriptor": "Prioritize care based on best evidence."
+    "description": "Prioritize care based on best evidence."
   },
   "2.5d": {
-    "Descriptor": "Incorporate evidence-based intervention to improve outcomes and safety."
+    "description": "Incorporate evidence-based intervention to improve outcomes and safety."
   },
   "2.5e": {
-    "Descriptor": "Anticipate outcomes of care (expected, unexpected, and potentially adverse)."
+    "description": "Anticipate outcomes of care (expected, unexpected, and potentially adverse)."
   },
   "2.5f": {
-    "Descriptor": "Demonstrate rationale for plan."
+    "description": "Demonstrate rationale for plan."
   },
   "2.5g": {
-    "Descriptor": "Address individuals\u2019 experiences and perspectives in designing plans of care."
+    "description": "Address individuals\u2019 experiences and perspectives in designing plans of care."
   },
   "2.6a": {
-    "Descriptor": "Implement individualized plan of care using established protocols."
+    "description": "Implement individualized plan of care using established protocols."
   },
   "2.6b": {
-    "Descriptor": "Communicate care delivery through multiple modalities."
+    "description": "Communicate care delivery through multiple modalities."
   },
   "2.6c": {
-    "Descriptor": "Delegate appropriately to team members."
+    "description": "Delegate appropriately to team members."
   },
   "2.6d": {
-    "Descriptor": "Monitor the implementation of the plan of care."
+    "description": "Monitor the implementation of the plan of care."
   },
   "2.7a": {
-    "Descriptor": "Reassess the individual to evaluate health outcomes/goals"
+    "description": "Reassess the individual to evaluate health outcomes/goals"
   },
   "2.7b": {
-    "Descriptor": "Modify plan of care as needed."
+    "description": "Modify plan of care as needed."
   },
   "2.7c": {
-    "Descriptor": "Recognize the need for modifications to standard practice."
+    "description": "Recognize the need for modifications to standard practice."
   },
   "2.8a": {
-    "Descriptor": "Assist the individual to engage in self-care management."
+    "description": "Assist the individual to engage in self-care management."
   },
   "2.8b": {
-    "Descriptor": "Employ individualized educational strategies based on learning theories, methodologies, and health literacy."
+    "description": "Employ individualized educational strategies based on learning theories, methodologies, and health literacy."
   },
   "2.8c": {
-    "Descriptor": "Educate individuals and families regarding selfcare for health promotion, illness prevention, and illness management."
+    "description": "Educate individuals and families regarding selfcare for health promotion, illness prevention, and illness management."
   },
   "2.8d": {
-    "Descriptor": "Respect individuals and families\u2019 selfdetermination in their healthcare decisions."
+    "description": "Respect individuals and families\u2019 selfdetermination in their healthcare decisions."
   },
   "2.8e": {
-    "Descriptor": "Identify personal, system, and community resources available to support self-care management."
+    "description": "Identify personal, system, and community resources available to support self-care management."
   },
   "2.9a": {
-    "Descriptor": "Facilitate continuity of care based on assessment of assets and needs."
+    "description": "Facilitate continuity of care based on assessment of assets and needs."
   },
   "2.9b": {
-    "Descriptor": "Communicate with relevant stakeholders across health systems."
+    "description": "Communicate with relevant stakeholders across health systems."
   },
   "2.9c": {
-    "Descriptor": "Promote collaboration by clarifying responsibilities among individual, family, and team members."
+    "description": "Promote collaboration by clarifying responsibilities among individual, family, and team members."
   },
   "2.9d": {
-    "Descriptor": "Recognize when additional expertise and knowledge is needed to manage the patient."
+    "description": "Recognize when additional expertise and knowledge is needed to manage the patient."
   },
   "3.1a": {
-    "Descriptor": "Define a target population including its functional and problem-solving capabilities (anywhere in the continuum of care)."
+    "description": "Define a target population including its functional and problem-solving capabilities (anywhere in the continuum of care)."
   },
   "3.1b": {
-    "Descriptor": "Assess population health data."
+    "description": "Assess population health data."
   },
   "3.1c": {
-    "Descriptor": "Assess the priorities of the community and/or the affected clinical population."
+    "description": "Assess the priorities of the community and/or the affected clinical population."
   },
   "3.1d": {
-    "Descriptor": "Compare and contrast local, regional, national, and global benchmarks to identify health patterns across populations."
+    "description": "Compare and contrast local, regional, national, and global benchmarks to identify health patterns across populations."
   },
   "3.1e": {
-    "Descriptor": "Apply an understanding of the public health system and its interfaces with clinical health care in addressing population health needs."
+    "description": "Apply an understanding of the public health system and its interfaces with clinical health care in addressing population health needs."
   },
   "3.1f": {
-    "Descriptor": "Develop an action plan to meet an identified need(s), including evaluation methods."
+    "description": "Develop an action plan to meet an identified need(s), including evaluation methods."
   },
   "3.1g": {
-    "Descriptor": "Participate in the implementation of sociocultural and linguistically responsive interventions."
+    "description": "Participate in the implementation of sociocultural and linguistically responsive interventions."
   },
   "3.1h": {
-    "Descriptor": "Describe general principles and practices for the clinical management of populations across the age continuum."
+    "description": "Describe general principles and practices for the clinical management of populations across the age continuum."
   },
   "3.1i": {
-    "Descriptor": "Identify ethical principles to protect the health and safety of diverse populations."
+    "description": "Identify ethical principles to protect the health and safety of diverse populations."
   },
   "3.2a": {
-    "Descriptor": "Engage with other health professionals to address population health issues."
+    "description": "Engage with other health professionals to address population health issues."
   },
   "3.2b": {
-    "Descriptor": "Demonstrate effective collaboration and mutual accountability with relevant stakeholders."
+    "description": "Demonstrate effective collaboration and mutual accountability with relevant stakeholders."
   },
   "3.2c": {
-    "Descriptor": "Use culturally and linguistically responsive communication strategies."
+    "description": "Use culturally and linguistically responsive communication strategies."
   },
   "3.3a": {
-    "Descriptor": "Describe access and equity implications of proposed intervention(s)."
+    "description": "Describe access and equity implications of proposed intervention(s)."
   },
   "3.3b": {
-    "Descriptor": "Prioritize patient-focused and/or community action plans that are safe, effective, and efficient in the context of available resources."
+    "description": "Prioritize patient-focused and/or community action plans that are safe, effective, and efficient in the context of available resources."
   },
   "3.4a": {
-    "Descriptor": "Describe policy development processes."
+    "description": "Describe policy development processes."
   },
   "3.4b": {
-    "Descriptor": "Describe the impact of policies on population outcomes, including social justice and health equity."
+    "description": "Describe the impact of policies on population outcomes, including social justice and health equity."
   },
   "3.4c": {
-    "Descriptor": "Identify best evidence to support policy development."
+    "description": "Identify best evidence to support policy development."
   },
   "3.4d": {
-    "Descriptor": "Propose modifications to or development of policy based on population findings."
+    "description": "Propose modifications to or development of policy based on population findings."
   },
   "3.4e": {
-    "Descriptor": "Develop an awareness of the interconnectedness of population health across borders."
+    "description": "Develop an awareness of the interconnectedness of population health across borders."
   },
   "3.5a": {
-    "Descriptor": "Articulate a need for change."
+    "description": "Articulate a need for change."
   },
   "3.5b": {
-    "Descriptor": "Describe the intent of the proposed change."
+    "description": "Describe the intent of the proposed change."
   },
   "3.5c": {
-    "Descriptor": "Define stakeholders, including members of the community and/or clinical populations, and their level of influence."
+    "description": "Define stakeholders, including members of the community and/or clinical populations, and their level of influence."
   },
   "3.5d": {
-    "Descriptor": "Implement messaging strategies appropriate to audience and stakeholders."
+    "description": "Implement messaging strategies appropriate to audience and stakeholders."
   },
   "3.5e": {
-    "Descriptor": "Evaluate the effectiveness of advocacy actions."
+    "description": "Evaluate the effectiveness of advocacy actions."
   },
   "3.6a": {
-    "Descriptor": "Identify changes in conditions that might indicate a disaster or public health emergency."
+    "description": "Identify changes in conditions that might indicate a disaster or public health emergency."
   },
   "3.6b": {
-    "Descriptor": "Understand the impact of climate change on environmental and population health."
+    "description": "Understand the impact of climate change on environmental and population health."
   },
   "3.6c": {
-    "Descriptor": "Describe the health and safety hazards of disasters and public health emergencies."
+    "description": "Describe the health and safety hazards of disasters and public health emergencies."
   },
   "3.6d": {
-    "Descriptor": "Describe the overarching principles and methods regarding personal safety measures, including personal protective equipment (PPE)."
+    "description": "Describe the overarching principles and methods regarding personal safety measures, including personal protective equipment (PPE)."
   },
   "3.6e": {
-    "Descriptor": "Implement infection control measures and proper use of personal protective equipment."
+    "description": "Implement infection control measures and proper use of personal protective equipment."
   },
   "4.1a": {
-    "Descriptor": "Demonstrate an understanding of different approaches to scholarly practice."
+    "description": "Demonstrate an understanding of different approaches to scholarly practice."
   },
   "4.1b": {
-    "Descriptor": "Demonstrate application of different levels of evidence."
+    "description": "Demonstrate application of different levels of evidence."
   },
   "4.1c": {
-    "Descriptor": "Apply theoretical framework(s)/models in practice."
+    "description": "Apply theoretical framework(s)/models in practice."
   },
   "4.1d": {
-    "Descriptor": "Demonstrate an understanding of basic elements of the research process."
+    "description": "Demonstrate an understanding of basic elements of the research process."
   },
   "4.1e": {
-    "Descriptor": "Participate in scholarly inquiry as a team member."
+    "description": "Participate in scholarly inquiry as a team member."
   },
   "4.1f": {
-    "Descriptor": "Evaluate research."
+    "description": "Evaluate research."
   },
   "4.1g": {
-    "Descriptor": "Communicate scholarly findings"
+    "description": "Communicate scholarly findings"
   },
   "4.2a": {
-    "Descriptor": "Evaluate clinical practice to generate questions to improve nursing care."
+    "description": "Evaluate clinical practice to generate questions to improve nursing care."
   },
   "4.2b": {
-    "Descriptor": "Evaluate appropriateness and strength of the evidence."
+    "description": "Evaluate appropriateness and strength of the evidence."
   },
   "4.2c": {
-    "Descriptor": "Use best evidence in practice."
+    "description": "Use best evidence in practice."
   },
   "4.2d": {
-    "Descriptor": "Participate in the implementation of a practice change to improve nursing care."
+    "description": "Participate in the implementation of a practice change to improve nursing care."
   },
   "4.2e": {
-    "Descriptor": "Participate in the evaluation of outcomes and their implications for practice."
+    "description": "Participate in the evaluation of outcomes and their implications for practice."
   },
   "4.3a": {
-    "Descriptor": "Explain the rationale for ethical research guidelines, including Institutional Review Board (IRB) guidelines."
+    "description": "Explain the rationale for ethical research guidelines, including Institutional Review Board (IRB) guidelines."
   },
   "4.3b": {
-    "Descriptor": "Demonstrate ethical behaviors in scholarly projects including quality improvement and EBP initiatives."
+    "description": "Demonstrate ethical behaviors in scholarly projects including quality improvement and EBP initiatives."
   },
   "4.3c": {
-    "Descriptor": "Advocate for the protection of participants in the conduct of scholarly initiatives."
+    "description": "Advocate for the protection of participants in the conduct of scholarly initiatives."
   },
   "4.3d": {
-    "Descriptor": "Recognize the impact of equity issues in research."
+    "description": "Recognize the impact of equity issues in research."
   },
   "5.1a": {
-    "Descriptor": "minimize risk of harm to patients and providers through both system effectiveness and"
+    "description": "minimize risk of harm to patients and providers through both system effectiveness and"
   },
   "5.1b": {
-    "Descriptor": "individual performance."
+    "description": "individual performance."
   },
   "5.1c": {
-    "Descriptor": "Implement standardized, evidence-based processes for care delivery."
+    "description": "Implement standardized, evidence-based processes for care delivery."
   },
   "5.1d": {
-    "Descriptor": "Interpret benchmark and unit outcome data to inform individual and microsystem practice."
+    "description": "Interpret benchmark and unit outcome data to inform individual and microsystem practice."
   },
   "5.1e": {
-    "Descriptor": "Compare quality improvement methods in the delivery of patient care."
+    "description": "Compare quality improvement methods in the delivery of patient care."
   },
   "5.1f": {
-    "Descriptor": "Identify strategies to improve outcomes of patient care in practice."
+    "description": "Identify strategies to improve outcomes of patient care in practice."
   },
   "5.1g": {
-    "Descriptor": "Participate in the implementation of a practice change."
+    "description": "Participate in the implementation of a practice change."
   },
   "5.1h": {
-    "Descriptor": "Develop a plan for monitoring quality improvement change."
+    "description": "Develop a plan for monitoring quality improvement change."
   },
   "5.2a": {
-    "Descriptor": "Describe the factors that create a culture of safety"
+    "description": "Describe the factors that create a culture of safety"
   },
   "5.2b": {
-    "Descriptor": "Articulate the nurse\u2019s role within an interprofessional team in promoting safety and preventing errors and near misses."
+    "description": "Articulate the nurse\u2019s role within an interprofessional team in promoting safety and preventing errors and near misses."
   },
   "5.2c": {
-    "Descriptor": "Examine basic safety design principles to reduce risk of harm."
+    "description": "Examine basic safety design principles to reduce risk of harm."
   },
   "5.2d": {
-    "Descriptor": "Assume accountability for reporting unsafe conditions, near misses, and errors to reduce harm."
+    "description": "Assume accountability for reporting unsafe conditions, near misses, and errors to reduce harm."
   },
   "5.2e": {
-    "Descriptor": "Describe processes used in understanding causes of error."
+    "description": "Describe processes used in understanding causes of error."
   },
   "5.2f": {
-    "Descriptor": "Use national patient safety resources, initiatives, and regulations at the point of care."
+    "description": "Use national patient safety resources, initiatives, and regulations at the point of care."
   },
   "5.3a": {
-    "Descriptor": "Identify actual and potential level of risks to providers within the workplace."
+    "description": "Identify actual and potential level of risks to providers within the workplace."
   },
   "5.3b": {
-    "Descriptor": "Recognize how to prevent workplace violence and injury."
+    "description": "Recognize how to prevent workplace violence and injury."
   },
   "5.3c": {
-    "Descriptor": "Promote policies for prevention of violence and risk mitigation."
+    "description": "Promote policies for prevention of violence and risk mitigation."
   },
   "5.3d": {
-    "Descriptor": "Recognize one\u2019s role in sustaining a just culture reflecting civility and respect."
+    "description": "Recognize one\u2019s role in sustaining a just culture reflecting civility and respect."
   },
   "6.1a": {
-    "Descriptor": "Communicate the nurse\u2019s roles and responsibilities clearly."
+    "description": "Communicate the nurse\u2019s roles and responsibilities clearly."
   },
   "6.1b": {
-    "Descriptor": "Use various communication tools and techniques effectively."
+    "description": "Use various communication tools and techniques effectively."
   },
   "6.1c": {
-    "Descriptor": "Elicit the perspectives of team members to inform person-centered care decision making."
+    "description": "Elicit the perspectives of team members to inform person-centered care decision making."
   },
   "6.1d": {
-    "Descriptor": "Articulate impact of diversity, equity, and inclusion on team-based communications."
+    "description": "Articulate impact of diversity, equity, and inclusion on team-based communications."
   },
   "6.1e": {
-    "Descriptor": "Communicate individual information in a professional, accurate, and timely manner."
+    "description": "Communicate individual information in a professional, accurate, and timely manner."
   },
   "6.1f": {
-    "Descriptor": "Communicate as informed by legal, regulatory, and policy guidelines."
+    "description": "Communicate as informed by legal, regulatory, and policy guidelines."
   },
   "6.2a": {
-    "Descriptor": "Apply principles of team dynamics, including team roles, to facilitate effective team functioning."
+    "description": "Apply principles of team dynamics, including team roles, to facilitate effective team functioning."
   },
   "6.2b": {
-    "Descriptor": "Delegate work to team members based on their roles and competency."
+    "description": "Delegate work to team members based on their roles and competency."
   },
   "6.2c": {
-    "Descriptor": "Engage in the work of the team as appropriate to one\u2019s scope of practice and competency."
+    "description": "Engage in the work of the team as appropriate to one\u2019s scope of practice and competency."
   },
   "6.2d": {
-    "Descriptor": "Recognize how one\u2019s uniqueness (as a person and a nurse) contributes to effective interprofessional working relationships."
+    "description": "Recognize how one\u2019s uniqueness (as a person and a nurse) contributes to effective interprofessional working relationships."
   },
   "6.2e": {
-    "Descriptor": "Apply principles of team leadership and management. performance to improve quality and assure safety."
+    "description": "Apply principles of team leadership and management. performance to improve quality and assure safety."
   },
   "6.2f": {
-    "Descriptor": "Evaluate performance of individual and team to improve quality and promote safety."
+    "description": "Evaluate performance of individual and team to improve quality and promote safety."
   },
   "6.3a": {
-    "Descriptor": "Integrate the roles and responsibilities of healthcare professionals through interprofessional collaborative practice."
+    "description": "Integrate the roles and responsibilities of healthcare professionals through interprofessional collaborative practice."
   },
   "6.3b": {
-    "Descriptor": "Leverage roles and abilities of team members to optimize care."
+    "description": "Leverage roles and abilities of team members to optimize care."
   },
   "6.3c": {
-    "Descriptor": "Communicate with team members to clarify responsibilities in executing plan of care."
+    "description": "Communicate with team members to clarify responsibilities in executing plan of care."
   },
   "6.4a": {
-    "Descriptor": "Demonstrate an awareness of one\u2019s biases and how they may affect mutual respect and communication with team members."
+    "description": "Demonstrate an awareness of one\u2019s biases and how they may affect mutual respect and communication with team members."
   },
   "6.4b": {
-    "Descriptor": "Demonstrate respect for the perspectives and experiences of other professions."
+    "description": "Demonstrate respect for the perspectives and experiences of other professions."
   },
   "6.4c": {
-    "Descriptor": "Engage in constructive communication to facilitate conflict management."
+    "description": "Engage in constructive communication to facilitate conflict management."
   },
   "6.4d": {
-    "Descriptor": "Collaborate with interprofessional team members to establish mutual healthcare goals for individuals, communities, or populations."
+    "description": "Collaborate with interprofessional team members to establish mutual healthcare goals for individuals, communities, or populations."
   },
   "7.1a": {
-    "Descriptor": "Describe organizational structure, mission, vision, philosophy, and values."
+    "description": "Describe organizational structure, mission, vision, philosophy, and values."
   },
   "7.1b": {
-    "Descriptor": "Explain the relationships of macrosystems, mesosystems, and microsystems."
+    "description": "Explain the relationships of macrosystems, mesosystems, and microsystems."
   },
   "7.1c": {
-    "Descriptor": "Differentiate between various healthcare delivery environments across the continuum of care."
+    "description": "Differentiate between various healthcare delivery environments across the continuum of care."
   },
   "7.1d": {
-    "Descriptor": "Recognize internal and external system processes that impact care coordination and transition of care."
+    "description": "Recognize internal and external system processes that impact care coordination and transition of care."
   },
   "7.2a": {
-    "Descriptor": "Describe the financial and payment models of health care."
+    "description": "Describe the financial and payment models of health care."
   },
   "7.2b": {
-    "Descriptor": "Recognize the impact of health disparities and social determinants of health on care outcomes."
+    "description": "Recognize the impact of health disparities and social determinants of health on care outcomes."
   },
   "7.2c": {
-    "Descriptor": "Describe the impact of healthcare cost and payment models on the delivery, access, and quality of care."
+    "description": "Describe the impact of healthcare cost and payment models on the delivery, access, and quality of care."
   },
   "7.2d": {
-    "Descriptor": "Explain the relationship of policy, regulatory requirements, and economics on care outcomes."
+    "description": "Explain the relationship of policy, regulatory requirements, and economics on care outcomes."
   },
   "7.2e": {
-    "Descriptor": "Incorporate considerations of efficiency, value, and cost in providing care."
+    "description": "Incorporate considerations of efficiency, value, and cost in providing care."
   },
   "7.2f": {
-    "Descriptor": "Identify the impact of differing system structures, leadership, and workforce needs on care outcomes."
+    "description": "Identify the impact of differing system structures, leadership, and workforce needs on care outcomes."
   },
   "7.3a": {
-    "Descriptor": "Demonstrate a systematic approach for decision-making."
+    "description": "Demonstrate a systematic approach for decision-making."
   },
   "7.3b": {
-    "Descriptor": "Use reported performance metrics to compare/monitor outcomes."
+    "description": "Use reported performance metrics to compare/monitor outcomes."
   },
   "7.3c": {
-    "Descriptor": "Participate in evaluating system effectiveness."
+    "description": "Participate in evaluating system effectiveness."
   },
   "7.3d": {
-    "Descriptor": "Recognize internal and external system processes and structures that perpetuate racism and other forms of discrimination within health care."
+    "description": "Recognize internal and external system processes and structures that perpetuate racism and other forms of discrimination within health care."
   },
   "8.1a": {
-    "Descriptor": "Identify the variety of information and communication technologies used in care settings."
+    "description": "Identify the variety of information and communication technologies used in care settings."
   },
   "8.1b": {
-    "Descriptor": "Identify the basic concepts of electronic health, mobile health, and telehealth systems for enabling patient care."
+    "description": "Identify the basic concepts of electronic health, mobile health, and telehealth systems for enabling patient care."
   },
   "8.1c": {
-    "Descriptor": "Effectively use electronic communication tools."
+    "description": "Effectively use electronic communication tools."
   },
   "8.1d": {
-    "Descriptor": "Describe the appropriate use of multimedia applications in health care."
+    "description": "Describe the appropriate use of multimedia applications in health care."
   },
   "8.1e": {
-    "Descriptor": "Demonstrate best practice use of social networking applications."
+    "description": "Demonstrate best practice use of social networking applications."
   },
   "8.1f": {
-    "Descriptor": "Explain the importance of nursing engagement in the planning and selection of healthcare technologies."
+    "description": "Explain the importance of nursing engagement in the planning and selection of healthcare technologies."
   },
   "8.2a": {
-    "Descriptor": "Enter accurate data when chronicling care."
+    "description": "Enter accurate data when chronicling care."
   },
   "8.2b": {
-    "Descriptor": "Explain how data entered on one patient impacts public and population health data."
+    "description": "Explain how data entered on one patient impacts public and population health data."
   },
   "8.2c": {
-    "Descriptor": "Use appropriate data when planning care."
+    "description": "Use appropriate data when planning care."
   },
   "8.2d": {
-    "Descriptor": "Demonstrate the appropriate use of health information literacy assessments and improvement strategies."
+    "description": "Demonstrate the appropriate use of health information literacy assessments and improvement strategies."
   },
   "8.2e": {
-    "Descriptor": "Describe the importance of standardized nursing data to reflect the unique contribution of nursing practice."
+    "description": "Describe the importance of standardized nursing data to reflect the unique contribution of nursing practice."
   },
   "8.3a": {
-    "Descriptor": "Demonstrate appropriate use of information and communication technologies."
+    "description": "Demonstrate appropriate use of information and communication technologies."
   },
   "8.3b": {
-    "Descriptor": "Evaluate how decision support tools impact clinical judgment and safe patient care."
+    "description": "Evaluate how decision support tools impact clinical judgment and safe patient care."
   },
   "8.3c": {
-    "Descriptor": "Use information and communication technology in a manner that supports the nursepatient relationship."
+    "description": "Use information and communication technology in a manner that supports the nursepatient relationship."
   },
   "8.3d": {
-    "Descriptor": "Examine how emerging technologies influence healthcare delivery and clinical decision making."
+    "description": "Examine how emerging technologies influence healthcare delivery and clinical decision making."
   },
   "8.3e": {
-    "Descriptor": "Identify impact of information and communication technology on quality and safety of care."
+    "description": "Identify impact of information and communication technology on quality and safety of care."
   },
   "8.3f": {
-    "Descriptor": "Identify the importance of reporting system processes and functional issues (error messages, mis-directions, device malfunctions, etc.) according to organizational policies and procedures."
+    "description": "Identify the importance of reporting system processes and functional issues (error messages, mis-directions, device malfunctions, etc.) according to organizational policies and procedures."
   },
   "8.4a": {
-    "Descriptor": "Explain the role of communication technology in enhancing clinical information flows."
+    "description": "Explain the role of communication technology in enhancing clinical information flows."
   },
   "8.4b": {
-    "Descriptor": "Describe how information and communication technology tools support patient and team communications."
+    "description": "Describe how information and communication technology tools support patient and team communications."
   },
   "8.4c": {
-    "Descriptor": "Identify the basic concepts of electronic health, mobile health, and telehealth systems in enabling patient care."
+    "description": "Identify the basic concepts of electronic health, mobile health, and telehealth systems in enabling patient care."
   },
   "8.4d": {
-    "Descriptor": "Explain the impact of health information exchange, interoperability, and integration on health care."
+    "description": "Explain the impact of health information exchange, interoperability, and integration on health care."
   },
   "8.5a": {
-    "Descriptor": "Identify common risks associated with using information and communication technology"
+    "description": "Identify common risks associated with using information and communication technology"
   },
   "8.5b": {
-    "Descriptor": "Demonstrate ethical use of social networking applications."
+    "description": "Demonstrate ethical use of social networking applications."
   },
   "8.5c": {
-    "Descriptor": "Comply with legal and regulatory requirements while using communication and information technologies."
+    "description": "Comply with legal and regulatory requirements while using communication and information technologies."
   },
   "8.5d": {
-    "Descriptor": "Educate patients on their rights to access, review, and correct personal data and medical records."
+    "description": "Educate patients on their rights to access, review, and correct personal data and medical records."
   },
   "8.5e": {
-    "Descriptor": "Discuss how clinical judgment and critical thinking must prevail in the presence of information and communication technologies."
+    "description": "Discuss how clinical judgment and critical thinking must prevail in the presence of information and communication technologies."
   },
   "8.5f": {
-    "Descriptor": "Deliver care using remote technology."
+    "description": "Deliver care using remote technology."
   },
   "9.1a": {
-    "Descriptor": "Apply principles of professional nursing ethics and human rights in patient care and professional situations."
+    "description": "Apply principles of professional nursing ethics and human rights in patient care and professional situations."
   },
   "9.1b": {
-    "Descriptor": "Reflect on one\u2019s actions and their consequences."
+    "description": "Reflect on one\u2019s actions and their consequences."
   },
   "9.1c": {
-    "Descriptor": "Demonstrate ethical behaviors in practice"
+    "description": "Demonstrate ethical behaviors in practice"
   },
   "9.1d": {
-    "Descriptor": "Change behavior based on self and situational awareness."
+    "description": "Change behavior based on self and situational awareness."
   },
   "9.1e": {
-    "Descriptor": "Report unethical behaviors when observed."
+    "description": "Report unethical behaviors when observed."
   },
   "9.1f": {
-    "Descriptor": "Safeguard privacy, confidentiality, and autonomy in all interactions."
+    "description": "Safeguard privacy, confidentiality, and autonomy in all interactions."
   },
   "9.1g": {
-    "Descriptor": "Advocate for the individual\u2019s right to self-determination."
+    "description": "Advocate for the individual\u2019s right to self-determination."
   },
   "9.2a": {
-    "Descriptor": "Employ the use of intentional presence to facilitate shared meaning of the experience between nurse and recipient of care."
+    "description": "Employ the use of intentional presence to facilitate shared meaning of the experience between nurse and recipient of care."
   },
   "9.2b": {
-    "Descriptor": "Facilitate health and healing through compassionate caring."
+    "description": "Facilitate health and healing through compassionate caring."
   },
   "9.2c": {
-    "Descriptor": "Demonstrate empathy to the individual\u2019s life experience."
+    "description": "Demonstrate empathy to the individual\u2019s life experience."
   },
   "9.2d": {
-    "Descriptor": "Advocate for practices that advance diversity, equity, and inclusion."
+    "description": "Advocate for practices that advance diversity, equity, and inclusion."
   },
   "9.2e": {
-    "Descriptor": "Demonstrate cultural sensitivity and humility in practice."
+    "description": "Demonstrate cultural sensitivity and humility in practice."
   },
   "9.2f": {
-    "Descriptor": "Apply principles of therapeutic relationships and professional boundaries."
+    "description": "Apply principles of therapeutic relationships and professional boundaries."
   },
   "9.2g": {
-    "Descriptor": "Communicate in a professional manner"
+    "description": "Communicate in a professional manner"
   },
   "9.3a": {
-    "Descriptor": "Engage in advocacy that promotes the best interest of the individual, community, and profession."
+    "description": "Engage in advocacy that promotes the best interest of the individual, community, and profession."
   },
   "9.3b": {
-    "Descriptor": "Demonstrate the moral courage to report concerns related to actual or potential hazards and/ or errors."
+    "description": "Demonstrate the moral courage to report concerns related to actual or potential hazards and/ or errors."
   },
   "9.3c": {
-    "Descriptor": "Demonstrate professional and personal honesty and integrity."
+    "description": "Demonstrate professional and personal honesty and integrity."
   },
   "9.3d": {
-    "Descriptor": "Take responsibility for one\u2019s roles, decisions, obligations, actions, and care outcomes."
+    "description": "Take responsibility for one\u2019s roles, decisions, obligations, actions, and care outcomes."
   },
   "9.3e": {
-    "Descriptor": "Engage in professional activities and/or organizations."
+    "description": "Engage in professional activities and/or organizations."
   },
   "9.3f": {
-    "Descriptor": "Demonstrate adherence to a culture of civility."
+    "description": "Demonstrate adherence to a culture of civility."
   },
   "9.3g": {
-    "Descriptor": "Advocate for social justice and health equity, including addressing the health of vulnerable populations."
+    "description": "Advocate for social justice and health equity, including addressing the health of vulnerable populations."
   },
   "9.3h": {
-    "Descriptor": "Engage in peer evaluation."
+    "description": "Engage in peer evaluation."
   },
   "9.4a": {
-    "Descriptor": "Advocate for policies that promote health and prevent harm."
+    "description": "Advocate for policies that promote health and prevent harm."
   },
   "9.4b": {
-    "Descriptor": "Adhere to the registered nurse scope and standards of practice."
+    "description": "Adhere to the registered nurse scope and standards of practice."
   },
   "9.4c": {
-    "Descriptor": "Adhere to regulatory requirements and workplace policies consistent with one\u2019s educational preparation."
+    "description": "Adhere to regulatory requirements and workplace policies consistent with one\u2019s educational preparation."
   },
   "9.5a": {
-    "Descriptor": "Describe nursing\u2019s professional identity and contributions to the healthcare team."
+    "description": "Describe nursing\u2019s professional identity and contributions to the healthcare team."
   },
   "9.5b": {
-    "Descriptor": "Demonstrate the core values of professional nursing identity."
+    "description": "Demonstrate the core values of professional nursing identity."
   },
   "9.5c": {
-    "Descriptor": "Demonstrate sensitivity to the values of others."
+    "description": "Demonstrate sensitivity to the values of others."
   },
   "9.5d": {
-    "Descriptor": "Demonstrate ethical comportment and moral courage in decision making and actions."
+    "description": "Demonstrate ethical comportment and moral courage in decision making and actions."
   },
   "9.5e": {
-    "Descriptor": "Demonstrate emotional intelligence."
+    "description": "Demonstrate emotional intelligence."
   },
   "9.6a": {
-    "Descriptor": "Demonstrate respect for diverse individual differences and diverse communities and populations."
+    "description": "Demonstrate respect for diverse individual differences and diverse communities and populations."
   },
   "9.6b": {
-    "Descriptor": "Demonstrate awareness of personal and professional values and conscious and unconscious biases."
+    "description": "Demonstrate awareness of personal and professional values and conscious and unconscious biases."
   },
   "9.6c": {
-    "Descriptor": "Integrate core principles of social justice and human rights into practice."
+    "description": "Integrate core principles of social justice and human rights into practice."
   },
   "10.1a": {
-    "Descriptor": "Demonstrate healthy, self-care behaviors that promote wellness and resiliency."
+    "description": "Demonstrate healthy, self-care behaviors that promote wellness and resiliency."
   },
   "10.1b": {
-    "Descriptor": "Manage conflict between personal and professional responsibilities."
+    "description": "Manage conflict between personal and professional responsibilities."
   },
   "10.2a": {
-    "Descriptor": "Engage in guided and spontaneous reflection of one\u2019s practice."
+    "description": "Engage in guided and spontaneous reflection of one\u2019s practice."
   },
   "10.2b": {
-    "Descriptor": "b Integrate comprehensive feedback to improve performance."
+    "description": "b Integrate comprehensive feedback to improve performance."
   },
   "10.2c": {
-    "Descriptor": "Commit to personal and professional development."
+    "description": "Commit to personal and professional development."
   },
   "10.2d": {
-    "Descriptor": "Expand personal knowledge to inform clinical judgment."
+    "description": "Expand personal knowledge to inform clinical judgment."
   },
   "10.2e": {
-    "Descriptor": "Participate in ongoing activities that embrace principles of diversity, equity, inclusion, and antidiscrimination."
+    "description": "Participate in ongoing activities that embrace principles of diversity, equity, inclusion, and antidiscrimination."
   },
   "10.3a": {
-    "Descriptor": "Compare and contrast leadership principles and theories."
+    "description": "Compare and contrast leadership principles and theories."
   },
   "10.3b": {
-    "Descriptor": "Formulate a personal leadership style."
+    "description": "Formulate a personal leadership style."
   },
   "10.3c": {
-    "Descriptor": "Demonstrate leadership behaviors in professional situations."
+    "description": "Demonstrate leadership behaviors in professional situations."
   },
   "10.3d": {
-    "Descriptor": "Demonstrate self-efficacy consistent with one\u2019s professional development."
+    "description": "Demonstrate self-efficacy consistent with one\u2019s professional development."
   },
   "10.3e": {
-    "Descriptor": "Use appropriate resources when dealing with ambiguity."
+    "description": "Use appropriate resources when dealing with ambiguity."
   },
   "10.3f": {
-    "Descriptor": "Modify one\u2019s own leadership behaviors based on guided self-reflection."
+    "description": "Modify one\u2019s own leadership behaviors based on guided self-reflection."
   },
   "10.3g": {
-    "Descriptor": "Demonstrate self-awareness of one\u2019s own implicit biases and their relationship to one\u2019s culture and environment."
+    "description": "Demonstrate self-awareness of one\u2019s own implicit biases and their relationship to one\u2019s culture and environment."
   },
   "10.3h": {
-    "Descriptor": "Communicate a consistent image of the nurse as a leader."
+    "description": "Communicate a consistent image of the nurse as a leader."
   },
   "10.3i": {
-    "Descriptor": "Recognize the importance of nursing\u2019s contributions as leaders in practice and policy issues."
+    "description": "Recognize the importance of nursing\u2019s contributions as leaders in practice and policy issues."
   }
 }
