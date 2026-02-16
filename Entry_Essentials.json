@@ -18,19 +18,19 @@
             {
               "assessment_title": "Theory Snapshot Sheet",
               "assessment_descriptions": [
-                "Task: Complete a worksheet that describes the major components of selected nursing theories (e.g., Nightingale, Orem, Roy).\nFocus: Describe"
+                "Task: Complete a worksheet that describes the major components of selected nursing theories (e.g., Nightingale, Orem, Roy).\n\nFOcus: Describe"
               ]
             },
             {
               "assessment_title": "Guided Reflection Journal",
               "assessment_descriptions": [
-                "Task: Write a reflective entry explaining how a theory you've studied influences patient-centered care decisions.\nFocus: Explain"
+                "Task: Write a reflective entry explaining how a theory you've studied influences patient-centered care decisions.\n\nFOcus: Explain"
               ]
             },
             {
               "assessment_title": "Group Discussion with Concept Mapping",
               "assessment_descriptions": [
-                "Task: Collaborate in small groups to create a concept map showing how selected nursing theories guide nursing actions differently than medicine or allied health professions.\nFocus: Describe, Explain"
+                "Task: Collaborate in small groups to create a concept map showing how selected nursing theories guide nursing actions differently than medicine or allied health professions.\n\nFOcus: Describe, Explain"
               ]
             }
           ],
@@ -38,13 +38,13 @@
             {
               "assessment_title": "Essay — Theory and Practice",
               "assessment_descriptions": [
-                "Task: Write a 1,200-word essay that describes two fundamental nursing theories and explains how they guide nursing practice in contrast to other disciplines.\nFocus: Describe, Explain"
+                "Task: Write a 1,200-word essay that describes two fundamental nursing theories and explains how they guide nursing practice in contrast to other disciplines.\n\nFOcus: Describe, Explain"
               ]
             },
             {
               "assessment_title": "Case Study Analysis Paper",
               "assessment_descriptions": [
-                "Task: Given a short clinical case, identify theoretical concepts at play and explain how they influence the nursing response versus how another discipline might respond.\nFocus: Identify, Explain"
+                "Task: Given a short clinical case, identify theoretical concepts at play and explain how they influence the nursing response versus how another discipline might respond.\n\nFOcus: Identify, Explain"
               ]
             }
           ]
@@ -54,19 +54,19 @@
             {
               "assessment_title": "Comparative Theory Chart",
               "assessment_descriptions": [
-                "Task: Create a chart comparing one nursing theory with one theory from another discipline (e.g., psychology, sociology), including contributions to nursing care.\nFocus: Explain, Highlight, Identify"
+                "Task: Create a chart comparing one nursing theory with one theory from another discipline (e.g., psychology, sociology), including contributions to nursing care.\n\nFOcus: Explain, Highlight, Identify"
               ]
             },
             {
               "assessment_title": "Care Plan Drafting Session",
               "assessment_descriptions": [
-                "Task: Using a simulated case, begin developing a care plan that integrates both nursing and interdisciplinary theory.\nFocus: Develop, Integrate"
+                "Task: Using a simulated case, begin developing a care plan that integrates both nursing and interdisciplinary theory.\n\nFOcus: Develop, Integrate"
               ]
             },
             {
               "assessment_title": "Peer Feedback Roundtable",
               "assessment_descriptions": [
-                "Task: Present your care plan draft to peers for critique, focusing on integration of theoretical concepts.\nFocus: Implement, Identify"
+                "Task: Present your care plan draft to peers for critique, focusing on integration of theoretical concepts.\n\nFOcus: Implement, Identify"
               ]
             }
           ],
@@ -74,13 +74,13 @@
             {
               "assessment_title": "Integrated Care Plan Project",
               "assessment_descriptions": [
-                "Task: Write a comprehensive care plan based on a detailed case scenario, incorporating at least one nursing theory and one interdisciplinary theory. Include an evidence-based rationale for each intervention.\nFocus: Develop, Implement, Integrate"
+                "Task: Write a comprehensive care plan based on a detailed case scenario, incorporating at least one nursing theory and one interdisciplinary theory. Include an evidence-based rationale for each intervention.\n\nFOcus: Develop, Implement, Integrate"
               ]
             },
             {
               "assessment_title": "Oral Defense (Viva Voce)",
               "assessment_descriptions": [
-                "Task: Present and defend the care plan in a 10–15 minute oral assessment. Discuss how theory informed the plan and how the nursing approach is distinct.\nFocus: Explain, Identify, Highlight"
+                "Task: Present and defend the care plan in a 10–15 minute oral assessment. Discuss how theory informed the plan and how the nursing approach is distinct.\n\nFOcus: Explain, Identify, Highlight"
               ]
             }
           ]
@@ -124,19 +124,19 @@
             {
               "assessment_title": "Research Abstract Review Worksheet",
               "assessment_descriptions": [
-                "Task: Summarize and discuss the purpose, findings, and practice relevance of a peer-reviewed nursing article.\nFocus: Discuss, Apply"
+                "Task: Summarize and discuss the purpose, findings, and practice relevance of a peer-reviewed nursing article.\n\nFOcus: Discuss, Apply"
               ]
             },
             {
               "assessment_title": "Small Group Literature-to-Practice Debrief",
               "assessment_descriptions": [
-                "Task: In small groups, evaluate different studies and discuss their applicability to nursing interventions in practice.\nFocus: Discuss, Support"
+                "Task: In small groups, evaluate different studies and discuss their applicability to nursing interventions in practice.\n\nFOcus: Discuss, Support"
               ]
             },
             {
               "assessment_title": "Journal Reflection: Science in Action",
               "assessment_descriptions": [
-                "Task: Write a reflective entry connecting a current clinical observation to research-based evidence.\nFocus: Discuss, Apply"
+                "Task: Write a reflective entry connecting a current clinical observation to research-based evidence.\n\nFOcus: Discuss, Apply"
               ]
             }
           ],
@@ -144,13 +144,13 @@
             {
               "assessment_title": "Short Analytical Paper (800–1000 words)",
               "assessment_descriptions": [
-                "Task: Choose a clinical problem, find 1–2 nursing research studies, and discuss how the evidence supports current or potential nursing interventions.\nFocus: Discuss, Support"
+                "Task: Choose a clinical problem, find 1–2 nursing research studies, and discuss how the evidence supports current or potential nursing interventions.\n\nFOcus: Discuss, Support"
               ]
             },
             {
               "assessment_title": "Poster Presentation: Evidence-Informed Intervention",
               "assessment_descriptions": [
-                "Task: Create and present a clinical poster outlining a nursing intervention, the supporting research, and implications for practice.\nFocus: Discuss, Apply"
+                "Task: Create and present a clinical poster outlining a nursing intervention, the supporting research, and implications for practice.\n\nFOcus: Discuss, Apply"
               ]
             }
           ]
@@ -160,19 +160,19 @@
             {
               "assessment_title": "Case Study: Evidence-Informed Assessment",
               "assessment_descriptions": [
-                "Task: Evaluate a detailed patient scenario and identify assessment data needed to inform clinical decision-making based on nursing science.\nFocus: Assess, Integrate"
+                "Task: Evaluate a detailed patient scenario and identify assessment data needed to inform clinical decision-making based on nursing science.\n\nFOcus: Assess, Integrate"
               ]
             },
             {
               "assessment_title": "Care Plan Construction Worksheet",
               "assessment_descriptions": [
-                "Task: Using a case study, develop a draft care plan integrating nursing science (e.g., pathophysiology, pharmacology, psychosocial theories).\nFocus: Formulate, Integrate"
+                "Task: Using a case study, develop a draft care plan integrating nursing science (e.g., pathophysiology, pharmacology, psychosocial theories).\n\nFOcus: Formulate, Integrate"
               ]
             },
             {
               "assessment_title": "Decision-Making Simulation",
               "assessment_descriptions": [
-                "Task: Participate in a simulation requiring real-time patient assessment, clinical prioritization, and use of nursing science in decision-making.\nFocus: Assess, Formulate"
+                "Task: Participate in a simulation requiring real-time patient assessment, clinical prioritization, and use of nursing science in decision-making.\n\nFOcus: Assess, Formulate"
               ]
             }
           ],
@@ -180,13 +180,13 @@
             {
               "assessment_title": "Comprehensive Patient Care Plan (with Rationale)",
               "assessment_descriptions": [
-                "Task: Analyze a full case scenario and develop a comprehensive, evidence-based plan of care.\nMust include: Full assessment; Prioritized nursing problems; Evidence-informed interventions; Scientific rationale.\nFocus: Assess, Formulate, Integrate"
+                "Task: Analyze a full case scenario and develop a comprehensive, evidence-based plan of care.\nMust include: Full assessment; Prioritized nursing problems; Evidence-informed interventions; Scientific rationale.\n\nFOcus: Assess, Formulate, Integrate"
               ]
             },
             {
               "assessment_title": "Oral Presentation/Defense (OSCE Style)",
               "assessment_descriptions": [
-                "Task: Defend your clinical decisions in an oral exam format, citing relevant nursing science and justifying intervention strategies.\nFocus: Integrate, Assess"
+                "Task: Defend your clinical decisions in an oral exam format, citing relevant nursing science and justifying intervention strategies.\n\nFOcus: Integrate, Assess"
               ]
             }
           ]
@@ -238,19 +238,19 @@
             {
               "assessment_title": "Historical Figure Reflection Journal",
               "assessment_descriptions": [
-                "Task: Choose a historical nursing leader (e.g., Florence Nightingale, Mary Eliza Mahoney) and discuss their impact on nurse–patient relationships in a 1-page reflection.\nFocus: Discuss"
+                "Task: Choose a historical nursing leader (e.g., Florence Nightingale, Mary Eliza Mahoney) and discuss their impact on nurse–patient relationships in a 1-page reflection.\n\nFOcus: Discuss"
               ]
             },
             {
               "assessment_title": "Timeline of Nursing Evolution (Group Activity)",
               "assessment_descriptions": [
-                "Task: In teams, create an illustrated timeline that describes major events and their influence on nursing practice and the nurse–patient relationship.\nFocus: Describe"
+                "Task: In teams, create an illustrated timeline that describes major events and their influence on nursing practice and the nurse–patient relationship.\n\nFOcus: Describe"
               ]
             },
             {
               "assessment_title": "Mini-lecture Response Card",
               "assessment_descriptions": [
-                "Task: After a short lecture on nursing history, students submit index cards with a brief description of an event and its impact.\nFocus: Describe"
+                "Task: After a short lecture on nursing history, students submit index cards with a brief description of an event and its impact.\n\nFOcus: Describe"
               ]
             }
           ],
@@ -258,13 +258,13 @@
             {
               "assessment_title": "Short Essay: Foundations of the Nursing Relationship",
               "assessment_descriptions": [
-                "Task: Write an essay that discusses at least two historical figures and describes how historical events shaped the evolution of the nurse–patient relationship.\nFocus: Discuss, Describe"
+                "Task: Write an essay that discusses at least two historical figures and describes how historical events shaped the evolution of the nurse–patient relationship.\n\nFOcus: Discuss, Describe"
               ]
             },
             {
               "assessment_title": "Interactive Poster Presentation",
               "assessment_descriptions": [
-                "Task: Create a digital or physical poster showcasing a key era of nursing history, including descriptions of major developments and how they influenced relational aspects of care.\nFocus: Describe"
+                "Task: Create a digital or physical poster showcasing a key era of nursing history, including descriptions of major developments and how they influenced relational aspects of care.\n\nFOcus: Describe"
               ]
             }
           ]
@@ -274,19 +274,19 @@
             {
               "assessment_title": "Comparative Practice Reflection",
               "assessment_descriptions": [
-                "Task: Write a reflection that draws parallels between a historical nursing approach (e.g., holistic care during the Nightingale era) and current nursing models (e.g., patient-centered care).\nFocus: Draw parallels"
+                "Task: Write a reflection that draws parallels between a historical nursing approach (e.g., holistic care during the Nightingale era) and current nursing models (e.g., patient-centered care).\n\nFOcus: Draw parallels"
               ]
             },
             {
               "assessment_title": "Class Debate: \"Has Nursing Really Changed?\"",
               "assessment_descriptions": [
-                "Task: Students are divided to argue whether modern nursing is more different or more similar to early practices. Must draw parallels with specific examples.\nFocus: Draw parallels"
+                "Task: Students are divided to argue whether modern nursing is more different or more similar to early practices. Must draw parallels with specific examples.\n\nFOcus: Draw parallels"
               ]
             },
             {
               "assessment_title": "Timeline Remix Activity",
               "assessment_descriptions": [
-                "Task: Students annotate a historical timeline by pairing each event with a current nursing issue or practice that reflects continuity.\nFocus: Draw parallels"
+                "Task: Students annotate a historical timeline by pairing each event with a current nursing issue or practice that reflects continuity.\n\nFOcus: Draw parallels"
               ]
             }
           ],
@@ -294,13 +294,13 @@
             {
               "assessment_title": "Comparative Essay: Past to Present",
               "assessment_descriptions": [
-                "Task: Write a 3–5 page essay drawing parallels between selected historical nursing practices and current relational nursing approaches (e.g., family-centered care, trauma-informed care).\nFocus: Draw parallels"
+                "Task: Write a 3–5 page essay drawing parallels between selected historical nursing practices and current relational nursing approaches (e.g., family-centered care, trauma-informed care).\n\nFOcus: Draw parallels"
               ]
             },
             {
               "assessment_title": "Presentation: The Legacy of Nursing History",
               "assessment_descriptions": [
-                "Task: Create a multimedia presentation that draws connections between key historical principles and their influence on today's nurse–patient relationship.\nFocus: Same"
+                "Task: Create a multimedia presentation that draws connections between key historical principles and their influence on today's nurse–patient relationship.\n\nFOcus: Same"
               ]
             }
           ]
@@ -354,19 +354,19 @@
             {
               "assessment_title": "Nursing Values Sorting & Analysis Activity",
               "assessment_descriptions": [
-                "Task: Students are given mixed values from nursing and other health disciplines. They sort and identify core nursing values, then write 2–3 sentences explaining each value’s role in shaping nursing care.\nFocus: Identify, Explain"
+                "Task: Students are given mixed values from nursing and other health disciplines. They sort and identify core nursing values, then write 2–3 sentences explaining each value’s role in shaping nursing care.\n\nFOcus: Identify, Explain"
               ]
             },
             {
               "assessment_title": "Role-Play Reflection (Active Listening)",
               "assessment_descriptions": [
-                "Task: Students engage in a brief peer role-play simulating nurse–patient communication using active listening and empathy, followed by a reflection on how those behaviors foster trust.\nFocus: Articulate, Explain"
+                "Task: Students engage in a brief peer role-play simulating nurse–patient communication using active listening and empathy, followed by a reflection on how those behaviors foster trust.\n\nFOcus: Articulate, Explain"
               ]
             },
             {
               "assessment_title": "Discussion Forum or Small Group Prompt",
               "assessment_descriptions": [
-                "Task: Prompt: “How does a nurse’s culturally responsive approach change a patient’s experience compared to a provider using only a biomedical model?”\nFocus: Articulate, Explain"
+                "Task: Prompt: “How does a nurse’s culturally responsive approach change a patient’s experience compared to a provider using only a biomedical model?”\n\nFOcus: Articulate, Explain"
               ]
             }
           ],
@@ -374,13 +374,13 @@
             {
               "assessment_title": "Short Essay (800–1000 words)",
               "assessment_descriptions": [
-                "Task: Identify 3 core nursing values and explain how they shape care delivery differently than other professions. Include specific examples of how empathy and cultural responsiveness enhance care.\nFocus: Identify, Explain, Articulate"
+                "Task: Identify 3 core nursing values and explain how they shape care delivery differently than other professions. Include specific examples of how empathy and cultural responsiveness enhance care.\n\nFOcus: Identify, Explain, Articulate"
               ]
             },
             {
               "assessment_title": "Video Reflection or Presentation",
               "assessment_descriptions": [
-                "Task: Record a 5-minute video articulating how empathy, active listening, and cultural awareness influence your current or future nursing practice. Include examples or personal experiences.\nFocus: Articulate"
+                "Task: Record a 5-minute video articulating how empathy, active listening, and cultural awareness influence your current or future nursing practice. Include examples or personal experiences.\n\nFOcus: Articulate"
               ]
             }
           ]
@@ -390,19 +390,19 @@
             {
               "assessment_title": "Case Study Analysis Worksheet",
               "assessment_descriptions": [
-                "Task: Analyze a clinical case and explain how a nurse’s holistic approach would differ from a purely biomedical intervention.\nFocus: Explain, Justify"
+                "Task: Analyze a clinical case and explain how a nurse’s holistic approach would differ from a purely biomedical intervention.\n\nFOcus: Explain, Justify"
               ]
             },
             {
               "assessment_title": "Peer Practice: Therapeutic Communication Lab",
               "assessment_descriptions": [
-                "Task: In role-play simulations, students employ empathy and culturally responsive techniques. Peers and instructors provide feedback using a structured observation checklist.\nFocus: Employ"
+                "Task: In role-play simulations, students employ empathy and culturally responsive techniques. Peers and instructors provide feedback using a structured observation checklist.\n\nFOcus: Employ"
               ]
             },
             {
               "assessment_title": "Evidence-to-Practice Mapping Exercise",
               "assessment_descriptions": [
-                "Task: Connect care decisions in a sample care plan to specific nursing theories or scientific concepts that support them.\nFocus: Use, Justify"
+                "Task: Connect care decisions in a sample care plan to specific nursing theories or scientific concepts that support them.\n\nFOcus: Use, Justify"
               ]
             }
           ],
@@ -410,13 +410,13 @@
             {
               "assessment_title": "Holistic Care Plan with Scientific Justification",
               "assessment_descriptions": [
-                "Task: Develop a full plan of care for a complex patient scenario, including: a holistic nursing approach (physical, emotional, social, spiritual); documentation of how nursing science informs each intervention; evidence of empathy, cultural responsiveness, and active listening.\nFocus: Explain, Justify, Employ"
+                "Task: Develop a full plan of care for a complex patient scenario, including: a holistic nursing approach (physical, emotional, social, spiritual); documentation of how nursing science informs each intervention; evidence of empathy, cultural responsiveness, and active listening.\n\nFOcus: Explain, Justify, Employ"
               ]
             },
             {
               "assessment_title": "OSCE or Structured Oral Exam",
               "assessment_descriptions": [
-                "Task: Student participates in a standardized patient interaction (simulated or live). Evaluators assess their ability to: use empathy and cultural awareness; justify clinical choices using nursing science; explain the value of holistic care.\nFocus: Employ, Use, Explain"
+                "Task: Student participates in a standardized patient interaction (simulated or live). Evaluators assess their ability to: use empathy and cultural awareness; justify clinical choices using nursing science; explain the value of holistic care.\n\nFOcus: Employ, Use, Explain"
               ]
             }
           ]
